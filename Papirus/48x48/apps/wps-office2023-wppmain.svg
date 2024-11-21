@@ -1,7 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
- <rect style="fill:#f1723c" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
- <path fill="#fff" opacity=".2" d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="m 14.014242,13.985515 h 14 c 0,0 6,0 6,5.5 0,5.5 -6,5.5 -6,5.5 h -14 v 11"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="m 14.014242,12.985858 h 14 c 0,0 6,0 6,5.5 0,5.5 -6,5.5 -6,5.5 h -14 v 11"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200" width="48" height="48">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #f85836;
+      }
+
+      .st2 {
+        fill: #c82912;
+      }
+
+      .st3 {
+        fill: #e54627;
+      }
+
+      .st4 {
+        fill: #df4023;
+      }
+    </style>
+  </defs>
+  <path class="st4" d="M6.4,29.3c0-12.8,10.6-23.2,23.6-23.2h141.4c13,0,23.6,10.4,23.6,23.2v139.4c0,12.8-10.6,23.2-23.6,23.2H29.9c-13,0-23.6-10.4-23.6-23.2V29.3Z"/>
+  <path class="st2" d="M6.4,153.1h188.6v18.6c0,11.7-10.6,21.2-23.6,21.2H29.9c-13,0-23.6-9.5-23.6-21.2v-18.6Z"/>
+  <path class="st1" d="M172.2,6c12,0,21.8,10.4,21.8,23.2v140.1c0,12.4-9.4,22.5-21.1,22.5s-19.7-9.4-19.7-21.1h0V6h19Z"/>
+  <path class="st3" d="M153.1,173.1c0,10.4,9.1,18.8,20.2,18.8h0c11.9,0,21.6-9,21.6-20s-9.1-18.8-20.2-18.8h-21.6v20Z"/>
+  <path class="st0" d="M39.1,29.7h46.9c17.3,0,31.3,14,31.3,31.2s-14,31.2-31.3,31.2h-31.2v31.3h-15.6V29.7ZM54.7,76.6h31.2c8.6,0,15.6-7,15.6-15.6s-7-15.6-15.6-15.6h-31.2v31.2Z"/>
 </svg>

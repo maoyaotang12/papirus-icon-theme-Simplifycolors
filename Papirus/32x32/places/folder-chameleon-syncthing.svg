@@ -9,8 +9,8 @@
  <path style="fill:#5398DF" d="m 16,13 c -3.313709,10e-7 -6,2.686291 -6,6 0,3.313708 2.686291,5.999999 6,6 3.313708,0 6,-2.686292 6,-6 0,-3.313709 -2.686292,-6 -6,-6 z m 0,0.75 c 2.899495,0 5.25,2.350504 5.25,5.25 0,2.899495 -2.350505,5.25 -5.25,5.25 -2.899495,-1e-6 -5.25,-2.350505 -5.25,-5.25 0,-2.899496 2.350505,-5.249999 5.25,-5.25 z"/>
  <path fill="none" stroke-width="1.143" style="stroke:currentColor" class="ColorScheme-Text;stroke-width:0.75" d="m 10.5,20.5 7,-1 4,-3"/>
  <path fill="none" stroke-width="1.143" style="stroke:currentColor" class="ColorScheme-Text;stroke-width:0.75" d="m 20.5,22.5 -3,-3"/>
- <circle style="opacity:0.5;fill:#5398DD" cx="20.5" cy="22.5" r="1.5"/>
- <circle style="opacity:0.5;fill:#5398DD" cx="21.5" cy="16.5" r="1.5"/>
- <circle style="opacity:0.5;fill:#5398DD" cx="17.5" cy="19.5" r="1.5"/>
- <circle style="opacity:0.5;fill:#5398DD" cx="10.5" cy="20.5" r="1.5"/>
+ <circle style="opacity:0.8;fill:#5398DD" cx="20.5" cy="22.5" r="1.5"/>
+ <circle style="opacity:0.8;fill:#5398DD" cx="21.5" cy="16.5" r="1.5"/>
+ <circle style="opacity:0.8;fill:#5398DD" cx="17.5" cy="19.5" r="1.5"/>
+ <circle style="opacity:0.8;fill:#5398DD" cx="10.5" cy="20.5" r="1.5"/>
 </svg>

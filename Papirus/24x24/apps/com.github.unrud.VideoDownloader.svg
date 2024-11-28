@@ -1,17 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <path style="opacity:0.2" d="m 2,4.5 v 16 h 2 v -1 h 1.0731707 v 1 H 20 v -1 h 1 v 1 h 2 v -16 h -2 v 1 h -1 v -1 H 5.0731707 v 1 H 4 v -1 z m 2,3 h 1.0731707 v 1 H 4 Z m 16,0 h 1 v 1 h -1 z m -16,3 h 1.0731707 v 1 H 4 Z m 16,0 h 1 v 1 h -1 z m -16,3 h 1.0731707 v 1 H 4 Z m 16,0 h 1 v 1 h -1 z m -16,3 h 1.0731707 v 1 H 4 Z m 16,0 h 1 v 1 h -1 z"/>
- <path style="fill:#ed5b36" d="m 2,4 v 16 h 2 v -1 h 1.0731707 v 1 H 20 v -1 h 1 v 1 h 2 V 4 H 21 V 5 H 20 V 4 H 5.0731707 V 5 H 4 V 4 Z M 4,7 H 5.0731707 V 8 H 4 Z m 16,0 h 1 V 8 H 20 Z M 4,10 h 1.0731707 v 1 H 4 Z m 16,0 h 1 v 1 H 20 Z M 4,13 h 1.0731707 v 1 H 4 Z m 16,0 h 1 v 1 H 20 Z M 4,16 h 1.0731707 v 1 H 4 Z m 16,0 h 1 v 1 h -1 z"/>
- <path style="opacity:0.2" d="M 12.5,18.655 8.2743902,14.5 H 16.72561 Z"/>
- <path style="fill:#ffffff" d="M 12.5,18.155 8.2743902,14 H 16.72561 Z"/>
- <path style="fill:#ffffff" d="m 9.995,11.800001 h 5 V 15 h -5 z"/>
- <path style="fill:#ffffff;fill-opacity:0.68000034" d="m 9.995,11.800001 h 1.666666 V 10.2 H 9.995 Z"/>
- <path style="fill:#ffffff" d="m 11.661666,11.800001 h 1.666668 V 10.2 h -1.666668 z"/>
- <path style="fill:#ffffff;fill-opacity:0.87999998" d="M 13.328334,11.800001 H 14.995 V 10.2 h -1.666666 z"/>
- <path style="fill:#ffffff;fill-opacity:0.68000034" d="M 14.995,10.2 H 13.328334 V 8.6000001 H 14.995 Z"/>
- <path style="fill:#ffffff;fill-opacity:0.54000005" d="M 13.328334,10.2 H 11.661666 V 8.6000001 h 1.666668 z"/>
- <path style="fill:#ffffff;fill-opacity:0.87999998" d="M 11.661666,10.2 H 9.995 V 8.6000001 h 1.666666 z"/>
- <path style="fill:#ffffff;fill-opacity:0.18999999" d="m 14.995,8.6000001 h -1.666666 v -1.6 H 14.995 Z"/>
- <path style="fill:#ffffff;fill-opacity:0.34000017" d="m 13.328334,8.6000001 h -1.666668 v -1.6 h 1.666668 z"/>
- <path style="fill:#ffffff;fill-opacity:0.06000001" d="M 11.661666,8.6000001 H 9.995 v -1.6 h 1.666666 z"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 2 4 L 2 4.5 L 4 4.5 L 4 4 L 2 4 z M 5.0722656 4 L 5.0722656 4.5 L 20 4.5 L 20 4 L 5.0722656 4 z M 21 4 L 21 4.5 L 23 4.5 L 23 4 L 21 4 z M 4 5 L 4 5.5 L 5.0722656 5.5 L 5.0722656 5 L 4 5 z M 20 5 L 20 5.5 L 21 5.5 L 21 5 L 20 5 z M 4 8 L 4 8.5 L 5.0722656 8.5 L 5.0722656 8 L 4 8 z M 20 8 L 20 8.5 L 21 8.5 L 21 8 L 20 8 z M 4 11 L 4 11.5 L 5.0722656 11.5 L 5.0722656 11 L 4 11 z M 20 11 L 20 11.5 L 21 11.5 L 21 11 L 20 11 z M 4 14 L 4 14.5 L 5.0722656 14.5 L 5.0722656 14 L 4 14 z M 20 14 L 20 14.5 L 21 14.5 L 21 14 L 20 14 z M 4 17 L 4 17.5 L 5.0722656 17.5 L 5.0722656 17 L 4 17 z M 20 17 L 20 17.5 L 21 17.5 L 21 17 L 20 17 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill-opacity: 0;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill-opacity: .7;
+      }
+
+      .st2 {
+        fill-opacity: .7;
+      }
+
+      .st8 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: .5;
+      }
+
+      .st9 {
+        fill: #f4f4f4;
+      }
+
+      .st10 {
+        fill: url(#_未命名的渐变_4);
+      }
+
+      .st7 {
+        fill-opacity: .2;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style>
+    <radialGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" cx="202.3" cy="337.4" fx="202.3" fy="337.4" r="59.3" gradientTransform="translate(-652.4 -1308.4) scale(6.5 5.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#db202e"/>
+      <stop offset="1" stop-color="#e01b24"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" cx="146.2" cy="270.4" fx="146.2" fy="270.4" r="104" gradientTransform="translate(-652.4 -1308.4) scale(6.5 5.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb648"/>
+      <stop offset="1" stop-color="#ff7800" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" cx="133.5" cy="279.5" fx="133.5" fy="279.5" r="78.3" gradientTransform="translate(-652.4 -1308.4) scale(6.5 5.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c64600"/>
+      <stop offset="1" stop-color="#a51d2d"/>
+    </radialGradient>
+  </defs>
+  <rect class="st9" x="30" y="20" width="970" height="975" rx="172" ry="172"/>
+  <g>
+    <path class="st10" d="M145,240v522h51.9v-47.5h51.9v47.5h518.6v-47.5h51.9v47.5h51.9V240h-51.9v47.5h-51.9v-47.5H248.7v47.5h-51.9v-47.5h-51.9ZM196.9,334.9h51.9v47.5h-51.9v-47.5ZM767.3,334.9h51.9v47.5h-51.9v-47.5ZM196.9,429.8h51.9v47.5h-51.9v-47.5ZM767.3,429.8h51.9v47.5h-51.9v-47.5ZM196.9,524.7h51.9v47.5h-51.9v-47.5ZM767.3,524.7h51.9v47.5h-51.9v-47.5ZM196.9,619.6h51.9v47.5h-51.9v-47.5ZM767.3,619.6h51.9v47.5h-51.9v-47.5Z"/>
+    <path class="st11" d="M145,240v522h51.9v-47.5h51.9v47.5h518.6v-47.5h51.9v47.5h51.9V240h-51.9v47.5h-51.9v-47.5H248.7v47.5h-51.9v-47.5h-51.9ZM196.9,334.9h51.9v47.5h-51.9v-47.5ZM767.3,334.9h51.9v47.5h-51.9v-47.5ZM196.9,429.8h51.9v47.5h-51.9v-47.5ZM767.3,429.8h51.9v47.5h-51.9v-47.5ZM196.9,524.7h51.9v47.5h-51.9v-47.5ZM767.3,524.7h51.9v47.5h-51.9v-47.5ZM196.9,619.6h51.9v47.5h-51.9v-47.5ZM767.3,619.6h51.9v47.5h-51.9v-47.5Z"/>
+    <path class="st8" d="M196.9,317.1v17.8h51.9v-17.8h-51.9ZM767.3,317.1v17.8h51.9v-17.8h-51.9ZM196.9,412v17.8h51.9v-17.8h-51.9ZM767.3,412v17.8h51.9v-17.8h-51.9ZM196.9,506.9v17.8h51.9v-17.8h-51.9ZM767.3,506.9v17.8h51.9v-17.8h-51.9ZM196.9,601.8v17.8h51.9v-17.8h-51.9ZM767.3,601.8v17.8h51.9v-17.8h-51.9ZM196.9,696.8v17.8h51.9v-17.8h-51.9ZM767.3,696.8v17.8h51.9v-17.8h-51.9ZM145,744.2v17.8h51.9v-17.8h-51.9ZM248.7,744.2v17.8h518.6v-17.8H248.7ZM819.1,744.2v17.8h51.9v-17.8h-51.9Z"/>
+    <g>
+      <path class="st3" d="M430.2,477.3h155.6v94.9h-155.6v-94.9Z"/>
+      <path class="st3" d="M509.5,679l-142.6-130.5h285.2l-142.6,130.5Z"/>
+      <path class="st1" d="M430.2,477.3h51.9v-47.5h-51.9v47.5Z"/>
+      <path class="st3" d="M482.1,477.3h51.9v-47.5h-51.9v47.5Z"/>
+      <path class="st4" d="M533.9,477.3h51.9v-47.5h-51.9v47.5Z"/>
+      <path class="st2" d="M585.8,429.8h-51.9v-47.5h51.9v47.5Z"/>
+      <path class="st6" d="M533.9,429.8h-51.9v-47.5h51.9v47.5Z"/>
+      <path class="st4" d="M482.1,429.8h-51.9v-47.5h51.9v47.5Z"/>
+      <path class="st7" d="M585.8,382.4h-51.9v-47.5h51.9v47.5Z"/>
+      <path class="st5" d="M533.9,382.4h-51.9v-47.5h51.9v47.5Z"/>
+      <path class="st0" d="M482.1,382.4h-51.9v-47.5h51.9v47.5Z"/>
+    </g>
+  </g>
 </svg>

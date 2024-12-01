@@ -1,9 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <circle style="opacity:.2" cx="24" cy="25" r="20"/>
- <circle style="fill:#8d348e" cx="24" cy="24" r="20"/>
- <circle style="opacity:.3" cx="25.5" cy="22.5" r="14.5"/>
- <circle style="opacity:.2" cx="24" cy="25" r="10"/>
- <circle style="fill:#ffffff" cx="24" cy="24" r="10"/>
- <path style="fill:#691f69" transform="matrix(1.010363 0 0 1 .56408064 -.65825653)" d="m27.154517 24.658257-3.464101 2-3.464102 1.999999v-4-3.999999l3.464102 2z"/>
- <path style="fill:#ffffff;opacity:.1" d="M 24 4 A 20 20 0 0 0 4 24 A 20 20 0 0 0 4.0214844 24.582031 A 20 20 0 0 1 24 5 A 20 20 0 0 1 43.978516 24.417969 A 20 20 0 0 0 44 24 A 20 20 0 0 0 24 4 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" width="48" height="48">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #691f69;
+      }
+
+      .st3 {
+        fill: #8d348e;
+      }
+
+      .st4 {
+        opacity: .3;
+      }
+
+      .st4, .st5, .st1 {
+        isolation: isolate;
+      }
+
+      .st5 {
+        opacity: .2;
+      }
+
+      .st6 {
+        fill: url(#_未命名的渐变_64);
+      }
+
+      .st1 {
+        opacity: .1;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_64" data-name="未命名的渐变 64" x1="32" y1="1.2" x2="32" y2="62.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9f9f9"/>
+      <stop offset=".5" stop-color="#f7f7f7"/>
+      <stop offset=".6" stop-color="#f0f0f0"/>
+      <stop offset=".7" stop-color="#e4e4e4"/>
+      <stop offset=".8" stop-color="#d3d3d3"/>
+      <stop offset=".9" stop-color="#bdbdbd"/>
+      <stop offset="1" stop-color="#a3a3a3"/>
+      <stop offset="1" stop-color="#a1a1a1"/>
+    </linearGradient>
+  </defs>
+  <rect class="st6" x="1" y="1.2" width="62" height="61.6" rx="11.2" ry="11.2"/>
+  <g>
+    <ellipse class="st5" cx="31.4" cy="31.5" rx="24.3" ry="23.8"/>
+    <ellipse class="st3" cx="31.4" cy="30.6" rx="24.3" ry="23.8"/>
+    <ellipse class="st4" cx="33.5" cy="28.5" rx="17.8" ry="17.4"/>
+    <ellipse class="st5" cx="31.4" cy="31.5" rx="12.1" ry="11.9"/>
+    <ellipse class="st0" cx="31.4" cy="30.6" rx="12.1" ry="11.9"/>
+    <path class="st2" d="M36.1,30.6l-4.5,2.6-4.5,2.6v-10.2l4.5,2.6,4.5,2.6Z"/>
+    <path class="st1" d="M31.4,6.8c-13.4,0-24.3,10.7-24.3,23.8,0,.2,0,.3,0,.5.2-13,11-23.5,24.2-23.5,13.2,0,24,10.4,24.2,23.3,0-.1,0-.2,0-.4,0-13.2-10.9-23.8-24.3-23.8Z"/>
+  </g>
 </svg>

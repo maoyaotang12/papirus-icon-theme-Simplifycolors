@@ -1,8 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path style="fill:#ffffff" d="M 16,8 5,28 H 28 Z"/>
- <path style="opacity:0.2" d="M 16,3 1,31 H 32 Z M 17.824,17.145 18.979,26.107 10.715,23 Z"/>
- <path style="fill:#4a86d8" d="M 18,16 19,11 16,2 18,16 M 1,30 8,27 10.706,22.007 Z M 1,30 16,2 18,16 Z"/>
- <path style="fill:#dd3c3d" d="M 16,2 32,30 19,25.27 Z"/>
- <path style="fill:#339c33" d="M 32,30 H 1 L 10.712,22 Z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 16 2 L 1 30 L 1.5352 30 L 16 3 L 31.428 30 L 32 30 L 16 2 z M 11.549 22.312 L 10.715 23 L 18.979 26.107 L 18.844 25.057 L 11.549 22.312 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="32" height="32">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #4a86d8;
+      }
+
+      .st3, .st1 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st4 {
+        fill: #339c33;
+      }
+
+      .st5 {
+        fill: #dd3c3d;
+      }
+    </style>
+  </defs>
+  <rect class="st0" y=".3" width="63.6" height="63.3" rx="13.4" ry="13.4"/>
+  <path class="st0" d="M32.3,12.1L12.6,49.4h39.3L32.3,12.1Z"/>
+  <path class="st3" d="M32.3,7.9L7.9,55.4h48.8L32.3,7.9ZM34.6,31.4l1.6,15.5-12.8-5.3,11.3-10.1h0Z"/>
+  <path class="st2" d="M7.9,54.5l9.4-5.9,6-7.9-15.5,13.9ZM32.3,7l2.4,23.5.8-10-3.1-13.6ZM7.9,54.5L32.3,7l2.4,23.5L7.9,54.5Z"/>
+  <path class="st5" d="M36.2,46.1l8.7,5.1,11.8,3.4-20.5-8.5ZM32.3,7l24.4,47.5-20.5-8.5-3.9-39Z"/>
+  <path class="st4" d="M56.7,54.5H7.9l15.5-13.9,33.3,13.9Z"/>
+  <path class="st1" d="M32.3,7L7.9,54.5h.4L32.3,7.9l23.9,46.6h.4L32.3,7ZM24,40.9l-.6.6,12.8,5.3v-.9c0,0-12.2-5-12.2-5Z"/>
 </svg>

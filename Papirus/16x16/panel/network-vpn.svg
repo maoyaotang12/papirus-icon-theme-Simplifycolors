@@ -1,8 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#f2f2f2}</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8 0 A 3 3 0 0 0 5 3 L 5 5 L 4 5 C 3.446 5 3 5.4460001 3 6 L 3 10 C 3 10.554 3.446 11 4 11 L 12 11 C 12.554 11 13 10.554 13 10 L 13 6 C 13 5.4460001 12.554 5 12 5 L 11 5 L 11 3 A 3 3 0 0 0 8 0 z M 8 2 C 8.575974 2 9 2.424026 9 3 L 9 5 L 7 5 L 7 3 C 7 2.424026 7.424026 2 8 2 z M 7 12 L 7 13 L 5 13 L 5 14 L 5 16 L 11 16 L 11 14 L 11 13 L 9 13 L 9 12 L 7 12 z M 1 14 C 0.446 14 0 14.446 0 15 C 0 15.554 0.446 16 1 16 L 4 16 L 4 14 L 1 14 z M 12 14 L 12 16 L 15 16 C 15.554 16 16 15.554 16 15 C 16 14.446 15.554 14 15 14 L 12 14 z"/>
+ <g transform="translate(0 2)" fill="#f2f2f2" stroke-width="1.5">
+  <g transform="matrix(.43738 0 0 .5 -145.4 -266.68)">
+   <g transform="matrix(0,-1.0825,-1.0825,0,1464.7,557.15)" fill="#f2f2f2" stroke-width="1.5"></g>
+  </g>
+  <g transform="matrix(-.43738 0 0 -.5 161.4 278.68)">
+   <g transform="matrix(0,-1.0825,-1.0825,0,1464.7,557.15)" fill="#f2f2f2" stroke-width="1.5"></g>
+  </g>
+ </g>
+ <path d="m13 9c-1.108 0-2 0.892-2 2-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1 0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1h-2c0-0.554 0.446-1 1-1z" color="#000000" fill="#f2f2f2" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path d="m3 1c-1.662 0-3 1.338-3 3v5c0 1.662 1.338 3 3 3h3v2h-1.5c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h4.7773c-0.17448-0.2959-0.27734-0.63714-0.27734-1v-2c0-0.38836 0.13176-0.72287 0.3457-1h-6.3457c-1.108 0-2-0.892-2-2v-5c0-1.108 0.892-2 2-2h7v-1zm9 0c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h1c0.36199 0 0.69646 0.074233 1 0.20312v-0.20312h1c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm0 1h3v2h-3zm0 3h3v2h-3zm-5 7h1v2h-1z" fill="#f2f2f2"/>
 </svg>

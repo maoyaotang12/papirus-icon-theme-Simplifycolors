@@ -1,11 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <rect style="fill:#ffffff" width="14" height="14" x="1" y="1"/>
- <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 1,8 V 2.6 C 1,1.4 1.4,1 2.6,1 H 13.4 C 14.6,1 15,1.4 15,2.6 V 4"/>
- <path style="fill:none;stroke:#c46fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 15,8 v 5.4 C 15,14.6 14.6,15 13.4,15 H 2.6 C 1.4,15 1,14.6 1,13.4 V 12"/>
- <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 8,4 v 8"/>
- <circle style="fill:#c46fff" cx="8" cy="10" r="2"/>
- <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 4,4 v 8"/>
- <circle style="fill:#c46fff" cx="4" cy="6" r="2"/>
- <path style="fill:none;stroke:#4256e3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m 12,4 v 8"/>
- <circle style="fill:#c46fff" cx="12" cy="7" r="2"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 128 128" width="16" height="16">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #672168;
+      }
+
+      .st1 {
+        stroke: #c46fff;
+      }
+
+      .st1, .st2, .st3, .st4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st5, .st2, .st8, .st3, .st7 {
+        isolation: isolate;
+      }
+
+      .st5, .st9, .st3 {
+        display: none;
+      }
+
+      .st5, .st7 {
+        opacity: .1;
+      }
+
+      .st2, .st8, .st3 {
+        opacity: .2;
+      }
+
+      .st2, .st3 {
+        stroke: #000;
+      }
+
+      .st10 {
+        fill: #c46fff;
+      }
+
+      .st4 {
+        stroke: #4256e3;
+      }
+    </style>
+  </defs>
+  <rect class="st6" width="127.8" height="127.8" rx="25.9" ry="25.9"/>
+  <g class="st9">
+    <path class="st8" d="M22.9,63.8c0,.5,0,.9,0,1.4,0,22.2,18,40.1,40.3,40.1s40.3-17.9,40.3-40.1,0-1,0-1.4c-.8,21.5-18.4,38.6-40.3,38.6s-39.5-17.1-40.3-38.6h0Z"/>
+    <path class="st0" d="M63.1,23.7h0c22.3,0,40.3,17.9,40.3,40.1h0c0,22.1-18.1,40.1-40.3,40.1h0c-22.3,0-40.3-17.9-40.3-40.1h0c0-22.1,18.1-40.1,40.3-40.1Z"/>
+    <path class="st8" d="M63.1,36.6c-15.9,0-28.8,12.8-28.8,28.6h0c0,15.8,12.9,28.6,28.8,28.6h0c15.9,0,28.8-12.8,28.8-28.6h0c0-15.8-12.9-28.6-28.8-28.6h0ZM53.4,48.1c.3,0,.6,0,.9.3l25.2,15.3c.9.5,1.2,1.7.7,2.6-.2.3-.4.5-.7.7l-25.2,15.3c-.9.5-2,.2-2.5-.7-.2-.3-.2-.6-.2-.9v-30.5c0-1.1.8-1.9,1.8-1.9,0,0,0,0,0,0h0Z"/>
+    <path class="st6" d="M63.1,35.2c-15.9,0-28.8,12.8-28.8,28.6,0,15.8,12.9,28.6,28.8,28.6h0c15.9,0,28.8-12.8,28.8-28.6h0c0-15.8-12.9-28.6-28.8-28.6ZM53.4,46.6c.3,0,.6,0,.9.3l25.2,15.3c.9.5,1.2,1.7.7,2.6-.2.3-.4.5-.7.7l-25.2,15.3c-.9.5-2,.2-2.5-.7-.2-.3-.2-.6-.2-.9v-30.5c0-1.1.8-1.9,1.8-1.9,0,0,0,0,0,0Z"/>
+    <path class="st7" d="M63.1,23.7c-22.3,0-40.3,17.9-40.3,40.1s0,.3,0,.5c.5-21.7,18.3-39.1,40.3-39.1s39.8,17.4,40.3,39.1c0-.2,0-.3,0-.5,0-22.2-18-40.1-40.3-40.1Z"/>
+  </g>
+  <g>
+    <path class="st3" d="M97.9,64.2v30.6c0,6-1.8,7.8-7.4,7.8h-52.9c-5.7,0-7.4-1.9-7.4-7.8v-8.6"/>
+    <rect class="st6" x="30.1" y="30" width="67.8" height="71.3"/>
+    <path class="st2" d="M30.1,69.7v-30.6c0-6,1.8-7.8,7.4-7.8h52.9c5.7,0,7.4,1.9,7.4,7.8v8.6"/>
+    <path class="st4" d="M30.1,68.3v-30.6c0-6,1.8-7.8,7.4-7.8h52.9c5.7,0,7.4,1.9,7.4,7.8v8.6"/>
+    <path class="st1" d="M97.9,62.9v30.6c0,6-1.8,7.8-7.4,7.8h-52.9c-5.7,0-7.4-1.9-7.4-7.8v-8.6"/>
+    <path class="st4" d="M64,43.7v43.9"/>
+    <path class="st4" d="M45.7,43.7v43.9"/>
+    <path class="st4" d="M82.2,43.7v43.9"/>
+    <ellipse class="st8" cx="64" cy="79.3" rx="7.8" ry="8.2"/>
+    <ellipse class="st10" cx="64" cy="77.9" rx="7.8" ry="8.2"/>
+    <ellipse class="st8" cx="45.7" cy="54.6" rx="7.8" ry="8.2"/>
+    <ellipse class="st10" cx="45.7" cy="53.3" rx="7.8" ry="8.2"/>
+    <ellipse class="st8" cx="82.2" cy="64.2" rx="7.8" ry="8.2"/>
+    <ellipse class="st10" cx="82.2" cy="62.9" rx="7.8" ry="8.2"/>
+    <path class="st5" d="M37.5,25.9c-3.2,0-6.3.5-8.6,2.9s-2.7,5.6-2.7,9v1.4c0-3.4.4-6.6,2.7-9,2.3-2.4,5.4-2.9,8.6-2.9h52.9c3.2,0,6.3.5,8.6,2.9s2.7,5.6,2.7,9v-1.4c0-3.4-.4-6.6-2.7-9s-5.4-2.9-8.6-2.9h-52.9Z"/>
+  </g>
 </svg>

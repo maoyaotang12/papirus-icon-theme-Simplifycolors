@@ -16,7 +16,7 @@
       }
 
       .st5, .st1, .st6 {
-        opacity: .2;
+        opacity: 0;
       }
 
       .st5, .st1, .st6, .st2 {
@@ -32,7 +32,7 @@
       }
 
       .st2 {
-        opacity: .1;
+        opacity: 0;
       }
     </style>
   </defs>

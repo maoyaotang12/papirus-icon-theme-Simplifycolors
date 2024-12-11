@@ -12,7 +12,7 @@
       }
 
       .st3 {
-        opacity: .1;
+        opacity: 0;
       }
 
       .st3, .st4, .st2 {
@@ -20,7 +20,7 @@
       }
 
       .st4, .st2 {
-        opacity: .2;
+        opacity: 0;
       }
 
       .st5 {

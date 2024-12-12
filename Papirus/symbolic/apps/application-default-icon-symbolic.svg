@@ -9,6 +9,7 @@
 
       .st1 {
         fill: #f4eded;
+        opacity:0;
       }
 
       .st2 {

@@ -1,8 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="24.009" height="24.009" x="-12.71" y="11.33" rx="7.203" ry="7.203" transform="rotate(-45)"/>
- <rect style="fill:#4f4f4f" width="24.009" height="24.009" x="-12" y="10.62" rx="7.203" ry="7.203" transform="rotate(-45)"/>
- <path style="opacity:0.2;fill-rule:evenodd" d="m 12,9.0000003 v 8.0000007 l 4.5,-3 4.5,3 -9,6 v 2 l 12,-8 -6,-4 z"/>
- <path style="fill:#79ce24;fill-rule:evenodd" d="M 12,7.9999997 V 16 l 4.5,-3 4.5,3 -9,6 v 2 l 12,-8 -6,-4 z"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 16 2 C 14.158855 2 12.31703 2.7044541 10.90625 4.1152344 L 4.1152344 10.90625 C 2.5765725 12.444912 1.883964 14.49582 2.0234375 16.5 C 2.1397271 14.828963 2.8323356 13.189149 4.1152344 11.90625 L 10.90625 5.1152344 C 13.727811 2.2936738 18.272189 2.2936738 21.09375 5.1152344 L 27.884766 11.90625 C 29.167664 13.189149 29.860273 14.828963 29.976562 16.5 C 30.116036 14.49582 29.423427 12.444912 27.884766 10.90625 L 21.09375 4.1152344 C 19.68297 2.7044541 17.841145 2 16 2 z"/>
- <path style="fill:#ffffff;fill-rule:evenodd;opacity:0.2" d="M 12 8 L 12 9 L 18 13 L 23.25 16.5 L 24 16 L 18 12 L 12 8 z M 20.25 16.5 L 12 22 L 12 23 L 21 17 L 20.25 16.5 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="32" height="32">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #4f4f4f;
+      }
+
+      .st2, .st3, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st2, .st3, .st1 {
+        display: none;
+      }
+
+      .st2, .st4, .st5 {
+        opacity: .2;
+      }
+
+      .st3 {
+        opacity: .1;
+      }
+
+      .st3, .st5 {
+        fill: #fff;
+      }
+
+      .st4, .st6, .st5 {
+        fill-rule: evenodd;
+      }
+
+      .st6 {
+        fill: #79ce24;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M50.3,64H13.9C6.3,64,.2,57.8.2,50.3V13.8C.2,6.2,6.3,0,13.9,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.5c0,7.5-6.1,13.7-13.7,13.7h0Z"/>
+  <g>
+    <rect class="st2" x="7" y="7.8" width="32" height="32" rx="14.4" ry="14.4" transform="translate(-13.4 31.3) rotate(-45)"/>
+    <rect class="st1" x="7" y="6.8" width="32" height="32" rx="14.4" ry="14.4" transform="translate(-12.7 31) rotate(-45)"/>
+    <path class="st4" d="M22,14.8v17l9.8-6.4,9.8,6.4-19.5,12.8v4.2l26-17-13-8.5-13-8.5Z"/>
+    <path class="st6" d="M22,13.8v17l9.8-6.4,9.8,6.4-19.5,12.8v4.2l26-17-13-8.5-13-8.5Z"/>
+    <path class="st3" d="M31,2.8c-3.7,0-7.4,1.4-10.2,4.2l-13.6,13.6c-2.9,2.9-4.3,6.8-4.2,10.7.1-3.5,1.5-7,4.2-9.7l13.6-13.6c5.6-5.6,14.7-5.6,20.4,0l13.6,13.6c2.7,2.7,4.1,6.2,4.2,9.7.1-3.8-1.3-7.7-4.2-10.7l-13.6-13.6c-2.8-2.8-6.5-4.2-10.2-4.2Z"/>
+    <path class="st5" d="M22,13.8v1l13,8.5,12.2,8,.8-.5-13-8.5-13-8.5ZM40.8,31.3l-18.7,12.3v1l19.5-12.8-.8-.5Z"/>
+  </g>
 </svg>

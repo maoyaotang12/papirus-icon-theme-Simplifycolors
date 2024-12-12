@@ -1,30 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect fill="#86316b" width="40" height="40" x="4" y="4" rx="20" ry="20"/>
- <path fill="#fff" opacity=".1" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.008 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c0.004-0.16686 0.0117-0.33213 0.0117-0.5 0-11.08-8.92-20-20-20z"/>
- <path opacity=".2" d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-0.008-0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z"/>
- <path style="fill:none;stroke:#ffffff;opacity:0.6" d="m 18,18 12,-5 4,8 -4,12 -9,2 -8,-6 z"/>
- <path style="fill:none;stroke:#ffffff;opacity:0.6" d="M 25,28 30,13"/>
- <path style="fill:none;stroke:#ffffff;opacity:0.6" d="M 25,28 18,18"/>
- <path style="fill:none;stroke:#ffffff;opacity:0.6" d="M 25,28 13,29"/>
- <path style="fill:none;stroke:#ffffff;opacity:0.5" d="m 25,28 5,5"/>
- <path style="fill:none;stroke:#ffffff;opacity:0.6" d="m 25,28 -4,7"/>
- <path style="fill:none;stroke:#ffffff;opacity:0.6" d="m 25,28 9,-7"/>
- <g style="opacity:0.2" transform="translate(0,1)">
-  <circle cx="30" cy="13" r="2"/>
-  <circle cx="34" cy="21" r="2"/>
-  <circle cx="30" cy="33" r="2"/>
-  <circle cx="21" cy="35" r="2"/>
-  <circle cx="13" cy="29" r="2"/>
-  <circle cx="18" cy="18" r="2"/>
-  <circle cx="25" cy="28" r="2"/>
- </g>
- <g>
-  <circle style="fill:#ffffff" cx="30" cy="13" r="2"/>
-  <circle style="fill:#ffffff" cx="34" cy="21" r="2"/>
-  <circle style="fill:#ffffff" cx="30" cy="33" r="2"/>
-  <circle style="fill:#ffffff" cx="21" cy="35" r="2"/>
-  <circle style="fill:#ffffff" cx="13" cy="29" r="2"/>
-  <circle style="fill:#ffffff" cx="18" cy="18" r="2"/>
-  <circle style="fill:#ffffff" cx="25" cy="28" r="2"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="48" height="48">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        display: none;
+      }
+
+      .st0, .st3 {
+        fill: #86316b;
+      }
+
+      .st4 {
+        opacity: .6;
+      }
+
+      .st4, .st5 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 1.4px;
+      }
+
+      .st4, .st5, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st5 {
+        opacity: .5;
+      }
+
+      .st1, .st6 {
+        opacity: .2;
+      }
+
+      .st2 {
+        opacity: .1;
+      }
+
+      .st2, .st7 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="st3" d="M50.3,64H13.9C6.3,64,.2,57.8.2,50.3V13.8C.2,6.2,6.3,0,13.9,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.5c0,7.5-6.1,13.7-13.7,13.7h0Z"/>
+  <g>
+    <path class="st1" d="M32.1,5.4h0c15.5,0,28,12.5,28,28h0c0,15.5-12.5,28-28,28h0c-15.5,0-28-12.5-28-28h0c0-15.5,12.5-28,28-28Z"/>
+    <path class="st0" d="M32.1,4.4h0c15.5,0,28,12.5,28,28h0c0,15.5-12.5,28-28,28h0c-15.5,0-28-12.5-28-28h0c0-15.5,12.5-28,28-28Z"/>
+    <path class="st4" d="M24.1,23.4l17-7,5,12-5,16-13,3-11-8,7-16Z"/>
+    <path class="st4" d="M34.1,37.4l7-21"/>
+    <path class="st4" d="M34.1,37.4l-10-14"/>
+    <path class="st4" d="M34.1,37.4l-17,2"/>
+    <path class="st5" d="M34.1,37.4l7,7"/>
+    <path class="st4" d="M34.1,37.4l-6,10"/>
+    <path class="st4" d="M34.1,37.4l12-9"/>
+    <g class="st6">
+      <circle cx="41.1" cy="17.4" r="3"/>
+      <circle cx="46.1" cy="29.4" r="3"/>
+      <circle cx="41.1" cy="45.4" r="3"/>
+      <circle cx="28.1" cy="48.4" r="3"/>
+      <circle cx="17.1" cy="40.4" r="3"/>
+      <circle cx="24.1" cy="24.4" r="3"/>
+      <circle cx="34.1" cy="38.4" r="3"/>
+    </g>
+    <g>
+      <circle class="st7" cx="41.1" cy="16.4" r="3"/>
+      <circle class="st7" cx="46.1" cy="28.4" r="3"/>
+      <circle class="st7" cx="41.1" cy="44.4" r="3"/>
+      <circle class="st7" cx="28.1" cy="47.4" r="3"/>
+      <circle class="st7" cx="17.1" cy="39.4" r="3"/>
+      <circle class="st7" cx="24.1" cy="23.4" r="3"/>
+      <circle class="st7" cx="34.1" cy="37.4" r="3"/>
+    </g>
+    <path class="st2" d="M32.1,4.4c-15.5,0-28,12.5-28,28s0,.3,0,.5c.3-15.3,12.6-27.5,28-27.5s27.7,12.2,28,27.5c0-.2,0-.3,0-.5,0-15.5-12.5-28-28-28Z"/>
+  </g>
 </svg>

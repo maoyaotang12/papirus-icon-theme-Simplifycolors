@@ -1,7 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <circle style="opacity:0.2" cx="32" cy="33" r="28"/>
- <circle style="fill:#3e50b4" cx="32" cy="32" r="28"/>
- <path style="opacity:0.2" d="m 20,23 v 3 h 24 v -3 z m 0,6 v 3 h 24 v -3 z m 0,6 v 3 h 24 v -3 z m 0,6 v 3 h 16 v -3 z"/>
- <path style="fill:#ffffff" d="M 20 22 L 20 25 L 44 25 L 44 22 L 20 22 z M 20 28 L 20 31 L 44 31 L 44 28 L 20 28 z M 20 34 L 20 37 L 44 37 L 44 34 L 20 34 z M 20 40 L 20 43 L 36 43 L 36 40 L 20 40 z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 32 4 A 28 28 0 0 0 4 32 A 28 28 0 0 0 4.0214844 32.585938 A 28 28 0 0 1 32 5 A 28 28 0 0 1 59.978516 32.414062 A 28 28 0 0 0 60 32 A 28 28 0 0 0 32 4 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        display: none;
+      }
+
+      .st0, .st3 {
+        fill: #3e50b4;
+      }
+
+      .st1, .st2, .st4 {
+        isolation: isolate;
+      }
+
+      .st1, .st4 {
+        opacity: .2;
+      }
+
+      .st2 {
+        opacity: .1;
+      }
+
+      .st2, .st5 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="st3" d="M50.3,64H13.9C6.3,64,.2,57.8.2,50.3V13.8C.2,6.2,6.3,0,13.9,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.5c0,7.5-6.1,13.7-13.7,13.7h0Z"/>
+  <g>
+    <ellipse class="st1" cx="32.1" cy="32.6" rx="31.9" ry="31.4"/>
+    <ellipse class="st0" cx="32.1" cy="31.5" rx="31.9" ry="31.4"/>
+    <path class="st4" d="M18.5,21.4v3.4h27.3v-3.4h-27.3ZM18.5,28.1v3.4h27.3v-3.4h-27.3ZM18.5,34.8v3.4h27.3v-3.4h-27.3ZM18.5,41.6v3.4h18.2v-3.4h-18.2Z"/>
+    <path class="st5" d="M18.5,20.2v3.4h27.3v-3.4h-27.3ZM18.5,27v3.4h27.3v-3.4h-27.3ZM18.5,33.7v3.4h27.3v-3.4h-27.3ZM18.5,40.4v3.4h18.2v-3.4h-18.2Z"/>
+    <path class="st2" d="M32.1,0C14.5,0,.2,14.1.2,31.5c0,.2,0,.4,0,.7C.5,15,14.7,1.2,32.1,1.2c17.3,0,31.5,13.7,31.9,30.7,0-.2,0-.3,0-.5C64,14.1,49.7,0,32.1,0Z"/>
+  </g>
 </svg>

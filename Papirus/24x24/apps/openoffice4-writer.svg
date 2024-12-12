@@ -1,7 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <circle style="opacity:0.2" cx="12" cy="12.5" r="10"/>
- <circle style="fill:#3e50b4" cx="12" cy="12" r="10"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 12,2 A 10,10 0 0 0 2,12 10,10 0 0 0 2.0107422,12.291016 10,10 0 0 1 12,2.5 10,10 0 0 1 21.989258,12.208985 10,10 0 0 0 22,12 10,10 0 0 0 12,2 Z"/>
- <path style="opacity:0.2" d="m 8,16.5 v -1 h 5 v 1 z m 0,-2 v -1 h 8 v 1 z m 0,-2 v -1 h 8 v 1 z m 0,-2 V 9.4999998 h 8 V 10.5 Z"/>
- <path style="fill:#ffffff" d="m 8,16 v -1 h 5 v 1 z m 0,-2 v -1 h 8 v 1 z m 0,-2 v -1 h 8 v 1 z M 8,9.9999998 v -1 h 8 v 1 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="24" height="24">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        display: none;
+      }
+
+      .st0, .st3 {
+        fill: #3e50b4;
+      }
+
+      .st1, .st2, .st4 {
+        isolation: isolate;
+      }
+
+      .st1, .st4 {
+        opacity: .2;
+      }
+
+      .st2 {
+        opacity: .1;
+      }
+
+      .st2, .st5 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="st3" d="M50.3,64H13.9C6.3,64,.2,57.8.2,50.3V13.8C.2,6.2,6.3,0,13.9,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.5c0,7.5-6.1,13.7-13.7,13.7h0Z"/>
+  <g>
+    <ellipse class="st1" cx="32.1" cy="32.6" rx="31.9" ry="31.4"/>
+    <ellipse class="st0" cx="32.1" cy="31.5" rx="31.9" ry="31.4"/>
+    <path class="st4" d="M18.5,21.4v3.4h27.3v-3.4h-27.3ZM18.5,28.1v3.4h27.3v-3.4h-27.3ZM18.5,34.8v3.4h27.3v-3.4h-27.3ZM18.5,41.6v3.4h18.2v-3.4h-18.2Z"/>
+    <path class="st5" d="M18.5,20.2v3.4h27.3v-3.4h-27.3ZM18.5,27v3.4h27.3v-3.4h-27.3ZM18.5,33.7v3.4h27.3v-3.4h-27.3ZM18.5,40.4v3.4h18.2v-3.4h-18.2Z"/>
+    <path class="st2" d="M32.1,0C14.5,0,.2,14.1.2,31.5c0,.2,0,.4,0,.7C.5,15,14.7,1.2,32.1,1.2c17.3,0,31.5,13.7,31.9,30.7,0-.2,0-.3,0-.5C64,14.1,49.7,0,32.1,0Z"/>
+  </g>
 </svg>

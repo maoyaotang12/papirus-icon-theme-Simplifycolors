@@ -1,13 +1,182 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect style="opacity:0.2" width="20" height="16" x="-21.5" y="-19" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#8e8e8e" width="20" height="16" x="-21" y="-19" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 4,1 C 3.446,1 3,1.446 3,2 V 2.5 C 3,1.946 3.446,1.5 4,1.5 H 18 C 18.554,1.5 19,1.946 19,2.5 V 2 C 19,1.446 18.554,1 18,1 Z"/>
- <g style="opacity:0.8">
-  <rect width="4" height="1" x="9" y="15"/>
-  <rect width="4" height="1" x="9" y="17"/>
-  <path d="M 11,8 A 3,3 0 0 0 8,11 3,3 0 0 0 11,14 3,3 0 0 0 14,11 3,3 0 0 0 11,8 Z M 11,9 A 2,2 0 0 1 13,11 2,2 0 0 1 11,13 2,2 0 0 1 9,11 2,2 0 0 1 11,9 Z"/>
-  <rect width="4" height="1" x="-2" y="-11.5" transform="rotate(135)"/>
-  <rect width="4" height="1" x="-2" y="-9.5" transform="rotate(135)"/>
-  <rect width="4" height="3" x="-17.5" y="4" transform="rotate(-135)"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="22" height="22">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ffdc65;
+      }
+
+      .st1 {
+        fill: #37474f;
+      }
+
+      .st2, .st3, .st4, .st5, .st6, .st7 {
+        display: none;
+      }
+
+      .st2, .st3, .st8, .st7, .st9 {
+        isolation: isolate;
+      }
+
+      .st2, .st10, .st8, .st7 {
+        opacity: .2;
+      }
+
+      .st3, .st7, .st9 {
+        fill: #fff;
+      }
+
+      .st3, .st9 {
+        opacity: .1;
+      }
+
+      .st4 {
+        fill: #419d45;
+      }
+
+      .st11, .st5 {
+        fill: #8e8e8e;
+      }
+
+      .st12 {
+        fill: #333;
+      }
+
+      .st13 {
+        fill: #595959;
+      }
+
+      .st14 {
+        opacity: .8;
+      }
+    </style>
+  </defs>
+  <path class="st11" d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g class="st6">
+    <path class="st8" d="M56.7,50v-.7c0-1-.9-1.8-2-1.8H10.7c-1.1,0-2,.8-2,1.8v.7c0,1,.9,1.8,2,1.8h44c1.1,0,2-.8,2-1.8Z"/>
+    <path class="st8" d="M13.2,16.7h38.9c1.1,0,2.1,1,2.1,2.1v26.5c0,1.2-.9,2.1-2.1,2.1H13.2c-1.1,0-2.1-1-2.1-2.1v-26.5c0-1.2.9-2.1,2.1-2.1Z"/>
+    <path class="st13" d="M56.7,49.2v-.7c0-1-.9-1.8-2-1.8H10.7c-1.1,0-2,.8-2,1.8v.7c0,1,.9,1.8,2,1.8h44c1.1,0,2-.8,2-1.8Z"/>
+    <path class="st13" d="M13.2,15.9c-1.1,0-2.1,1-2.1,2.1v2.1h43.1v-2.1c0-1.2-.9-2.1-2.1-2.1H13.2Z"/>
+    <path class="st9" d="M13.2,15.9c-1.1,0-2.1,1-2.1,2.1v.9c0-1.2.9-2.1,2.1-2.1h38.9c1.1,0,2.1,1,2.1,2.1v-.9c0-1.2-.9-2.1-2.1-2.1H13.2Z"/>
+    <path class="st12" d="M11.2,20.2v24.4c0,1.2.9,2.1,2.1,2.1h38.9c1.1,0,2.1-1,2.1-2.1v-24.4H11.2Z"/>
+    <rect class="st8" x="11.2" y="20.2" width="43.1" height=".9"/>
+    <ellipse class="st12" cx="32.7" cy="18.5" rx=".8" ry=".9"/>
+    <path class="st9" d="M10.7,46.7c-1.1,0-2,.8-2,1.8v.7s0,0,0,0c0-1,.9-1.7,2-1.7h44c1.1,0,2,.8,2,1.7,0,0,0,0,0,0v-.7c0-1-.9-1.8-2-1.8H10.7Z"/>
+  </g>
+  <g class="st6">
+    <path class="st2" d="M3.2,1h57.6c1.8,0,3.2,1.4,3.2,3.2v57.6c0,1.8-1.4,3.2-3.2,3.2H3.2c-1.8,0-3.2-1.4-3.2-3.2V4.2C0,2.5,1.4,1,3.2,1Z"/>
+    <path class="st4" d="M3.2-.1h57.6c1.8,0,3.2,1.4,3.2,3.2v57.6c0,1.8-1.4,3.2-3.2,3.2H3.2c-1.8,0-3.2-1.4-3.2-3.2V3.1C0,1.3,1.4-.1,3.2-.1Z"/>
+    <path class="st8" d="M26,21.6h11.9c3,0,5.5,2.5,5.5,5.5v11.9c0,3-2.5,5.5-5.5,5.5h-11.9c-3,0-5.5-2.5-5.5-5.5v-11.9c0-3,2.5-5.5,5.5-5.5Z"/>
+    <path class="st1" d="M26,20.5h11.9c3,0,5.5,2.5,5.5,5.5v11.9c0,3-2.5,5.5-5.5,5.5h-11.9c-3,0-5.5-2.5-5.5-5.5v-11.9c0-3,2.5-5.5,5.5-5.5Z"/>
+    <g class="st10">
+      <circle cx="13.7" cy="14.7" r="2.3"/>
+      <circle cx="20.6" cy="14.7" r="2.3"/>
+      <circle cx="27.4" cy="14.7" r="2.3"/>
+      <circle cx="36.6" cy="14.7" r="2.3"/>
+      <circle cx="43.4" cy="14.7" r="2.3"/>
+      <circle cx="50.3" cy="14.7" r="2.3"/>
+      <circle cx="50.3" cy="21.6" r="2.3"/>
+      <circle cx="50.3" cy="28.4" r="2.3"/>
+      <circle cx="50.3" cy="37.6" r="2.3"/>
+      <circle cx="50.3" cy="44.4" r="2.3"/>
+      <circle cx="50.3" cy="51.3" r="2.3"/>
+      <circle cx="43.4" cy="51.3" r="2.3"/>
+      <circle cx="36.6" cy="51.3" r="2.3"/>
+      <circle cx="27.4" cy="51.3" r="2.3"/>
+      <circle cx="20.6" cy="51.3" r="2.3"/>
+      <circle cx="13.7" cy="51.3" r="2.3"/>
+      <circle cx="13.7" cy="44.4" r="2.3"/>
+      <circle cx="13.7" cy="37.6" r="2.3"/>
+      <circle cx="13.7" cy="28.4" r="2.3"/>
+      <circle cx="13.7" cy="21.6" r="2.3"/>
+      <circle cx="20.6" cy="7.9" r="2.3"/>
+      <circle cx="27.4" cy="7.9" r="2.3"/>
+      <circle cx="36.6" cy="7.9" r="2.3"/>
+      <circle cx="43.4" cy="7.9" r="2.3"/>
+      <circle cx="57.1" cy="21.6" r="2.3"/>
+      <circle cx="57.1" cy="28.4" r="2.3"/>
+      <circle cx="57.1" cy="37.6" r="2.3"/>
+      <circle cx="57.1" cy="44.4" r="2.3"/>
+      <circle cx="43.4" cy="58.1" r="2.3"/>
+      <circle cx="36.6" cy="58.1" r="2.3"/>
+      <circle cx="27.4" cy="58.1" r="2.3"/>
+      <circle cx="20.6" cy="58.1" r="2.3"/>
+      <circle cx="6.8" cy="44.4" r="2.3"/>
+      <circle cx="6.8" cy="37.6" r="2.3"/>
+      <circle cx="6.8" cy="28.4" r="2.3"/>
+      <circle cx="6.8" cy="21.6" r="2.3"/>
+      <circle cx="57.1" cy="14.7" r="2.3"/>
+      <circle cx="57.1" cy="7.9" r="2.3"/>
+      <circle cx="50.3" cy="7.9" r="2.3"/>
+      <circle cx="50.3" cy="58.1" r="2.3"/>
+      <circle cx="57.1" cy="58.1" r="2.3"/>
+      <circle cx="57.1" cy="51.3" r="2.3"/>
+      <circle cx="6.8" cy="51.3" r="2.3"/>
+      <circle cx="6.8" cy="58.1" r="2.3"/>
+      <circle cx="6.8" cy="14.7" r="2.3"/>
+    </g>
+    <g>
+      <circle class="st0" cx="13.7" cy="13.6" r="2.3"/>
+      <circle class="st0" cx="20.6" cy="13.6" r="2.3"/>
+      <circle class="st0" cx="27.4" cy="13.6" r="2.3"/>
+      <circle class="st0" cx="36.6" cy="13.6" r="2.3"/>
+      <circle class="st0" cx="43.4" cy="13.6" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="13.6" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="20.5" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="27.3" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="36.4" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="43.3" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="43.4" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="36.6" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="27.4" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="20.6" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="13.7" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="13.7" cy="43.3" r="2.3"/>
+      <circle class="st0" cx="13.7" cy="36.4" r="2.3"/>
+      <circle class="st0" cx="13.7" cy="27.3" r="2.3"/>
+      <circle class="st0" cx="13.7" cy="20.5" r="2.3"/>
+      <circle class="st0" cx="20.6" cy="6.7" r="2.3"/>
+      <circle class="st0" cx="27.4" cy="6.7" r="2.3"/>
+      <circle class="st0" cx="36.6" cy="6.7" r="2.3"/>
+      <circle class="st0" cx="43.4" cy="6.7" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="20.5" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="27.3" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="36.4" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="43.3" r="2.3"/>
+      <circle class="st0" cx="43.4" cy="57" r="2.3"/>
+      <circle class="st0" cx="36.6" cy="57" r="2.3"/>
+      <circle class="st0" cx="27.4" cy="57" r="2.3"/>
+      <circle class="st0" cx="6.8" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="6.8" cy="43.3" r="2.3"/>
+      <circle class="st0" cx="6.8" cy="36.4" r="2.3"/>
+      <circle class="st0" cx="6.8" cy="27.3" r="2.3"/>
+      <circle class="st0" cx="6.8" cy="20.5" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="50.2" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="57" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="57" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="13.6" r="2.3"/>
+      <circle class="st0" cx="57.1" cy="6.7" r="2.3"/>
+      <circle class="st0" cx="50.3" cy="6.7" r="2.3"/>
+      <circle class="st0" cx="6.8" cy="57" r="2.3"/>
+      <circle class="st0" cx="20.6" cy="57" r="2.3"/>
+      <circle class="st0" cx="6.8" cy="13.6" r="2.3"/>
+    </g>
+    <path class="st3" d="M3.2-.1C1.4-.1,0,1.3,0,3.1v1.1C0,2.5,1.4,1,3.2,1h57.6c1.8,0,3.2,1.4,3.2,3.2v-1.1c0-1.8-1.4-3.2-3.2-3.2H3.2Z"/>
+    <path class="st9" d="M26,20.5c-3,0-5.5,2.4-5.5,5.5v1.1c0-3,2.4-5.5,5.5-5.5h11.9c3,0,5.5,2.4,5.5,5.5v-1.1c0-3-2.4-5.5-5.5-5.5h-11.9Z"/>
+  </g>
+  <g>
+    <path class="st2" d="M63.9,60.4V5.7c0-2.5-2.6-4.6-5.8-4.6H5.8C2.6,1.1,0,3.1,0,5.7v54.8c0,2.5,2.6,4.6,5.8,4.6h52.3c3.2,0,5.8-2,5.8-4.6Z"/>
+    <path class="st5" d="M63.9,59.3V4.5C63.9,2,61.3,0,58.1,0H5.8C2.6,0,0,2,0,4.5v54.8c0,2.5,2.6,4.6,5.8,4.6h52.3c3.2,0,5.8-2,5.8-4.6Z"/>
+    <path class="st7" d="M5.8,0C2.6,0,0,2,0,4.5v1.1C0,3.1,2.6,1.1,5.8,1.1h52.3c3.2,0,5.8,2,5.8,4.6v-1.1C63.9,2,61.3,0,58.1,0H5.8Z"/>
+    <g class="st14">
+      <rect x="26.1" y="41" width="11.6" height="3.4"/>
+      <rect x="26.1" y="46.7" width="11.6" height="3.4"/>
+      <path d="M31.9,22.8c-5.6,0-10.2,3.6-10.2,8s4.6,8,10.2,8,10.2-3.6,10.2-8-4.6-8-10.2-8ZM31.9,26.2c3.2,0,5.8,2,5.8,4.6s-2.6,4.6-5.8,4.6-5.8-2-5.8-4.6,2.6-4.6,5.8-4.6Z"/>
+      <polygon points="45.3 26.7 37.1 20.2 45.3 13.7 53.5 20.2 45.3 26.7"/>
+      <polygon points="26.8 20.2 18.6 26.7 15.5 24.2 23.7 17.8 26.8 20.2"/>
+      <polygon points="21.7 16.2 13.5 22.6 10.4 20.2 18.6 13.7 21.7 16.2"/>
+    </g>
+  </g>
 </svg>

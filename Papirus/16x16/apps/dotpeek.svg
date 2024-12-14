@@ -1,10 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#cf4f8c" d="M 8,0 H 0.8 C 0.3568,0 0,0.3568 0,0.8 V 8 h 8 z"/>
- <path style="fill:#14ddb1" d="m 8,0 h 7.2 C 15.6432,0 16,0.3568 16,0.8 V 8 H 8 Z"/>
- <path style="fill:#14ddb1" d="M 8,16 H 0.8 C 0.3568,16 0,15.6432 0,15.2 V 8 h 8 z"/>
- <path style="fill:#6655e4" d="m 8,16 h 7.2 C 15.6432,16 16,15.6432 16,15.2 V 8 H 8 Z"/>
- <rect style="fill:#3f3f3f" width="12" height="12" x="2" y="2"/>
- <path style="fill:none;stroke:#ffffff;stroke-linecap:round" d="M 3.5071212,11.5 H 7.507121"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 3.5071212,7.5 c 0,0 2.021891,0.175125 1.9999995,-1.999999 C 5.4852307,3.324869 3.5071212,3.4999995 3.5071212,3.4999995 M 3.5000712,7.496793 V 3.496794"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 7.507072,5.49995 c 0,0 2.000001,0.23225 2.000001,-0.9999985 0,-1.2322505 -2.000001,-1.0000005 -2.000001,-1.0000005 m 4.9e-5,4.00005 V 3.5"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="16" height="16">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        stroke: #fff;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st0, .st2 {
+        stroke-width: 4px;
+      }
+
+      .st4, .st5, .st6 {
+        display: none;
+      }
+
+      .st4, .st2, .st3, .st6 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st1, .st3 {
+        stroke-linejoin: bevel;
+        stroke-width: 4px;
+      }
+
+      .st7 {
+        fill: #3f3f3f;
+      }
+
+      .st8 {
+        fill: #cf4f8c;
+      }
+
+      .st9 {
+        fill: #6655e4;
+      }
+
+      .st5 {
+        fill: #57c914;
+      }
+
+      .st2, .st3 {
+        stroke: #000;
+      }
+
+      .st10 {
+        fill: #14ddb1;
+      }
+
+      .st6 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="st5" d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g>
+    <path class="st4" d="M3.2,65.1c-1.8,0-3.2-1.4-3.2-3.2v-2.3c0,1.8,1.4,3.2,3.2,3.2h57.6c1.8,0,3.2-1.4,3.2-3.2v2.3c0,1.8-1.4,3.2-3.2,3.2H3.2Z"/>
+    <path class="st8" d="M32,0H14.4C6.4,0,0,6.4,0,14.4v17.6h32V0Z"/>
+    <path class="st10" d="M32,0h17.9c7.8,0,14.1,6.3,14.1,14.1v17.9h-32V0Z"/>
+    <path class="st10" d="M32,63.9H14.1c-7.8,0-14.1-6.3-14.1-14.1v-17.8h32v32Z"/>
+    <path class="st9" d="M32,63.9h17.7c7.9,0,14.3-6.4,14.3-14.3v-17.7h-32v32Z"/>
+    <path class="st6" d="M3.2,0C1.4,0,0,1.4,0,3.2v1.1C0,2.6,1.4,1.1,3.2,1.1h57.6c1.8,0,3.2,1.4,3.2,3.2v-1.1c0-1.8-1.4-3.2-3.2-3.2H3.2Z"/>
+    <rect class="st7" x="9.1" y="9.1" width="45.7" height="45.7"/>
+    <path class="st2" d="M16,49.1h18.3"/>
+    <path class="st0" d="M16,48h18.3"/>
+    <path class="st3" d="M16,35.4s9.2.8,9.1-9.1c-.1-9.9-9.1-9.1-9.1-9.1M16,35.4v-18.3"/>
+    <path class="st1" d="M16,34.3s9.2.8,9.1-9.1c-.1-9.9-9.1-9.1-9.1-9.1M16,34.2V16"/>
+    <path class="st3" d="M34.3,26.3s9.1,1.1,9.1-4.6-9.1-4.6-9.1-4.6M34.3,35.4v-18.3"/>
+    <path class="st1" d="M34.3,25.1s9.1,1.1,9.1-4.6-9.1-4.6-9.1-4.6M34.3,34.3V16"/>
+  </g>
 </svg>

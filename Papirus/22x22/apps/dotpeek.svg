@@ -1,15 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <path style="fill:#cf4f8c" d="M 11,1 H 2 C 1.446,1 1,1.446 1,2 v 9 h 10 z"/>
- <path style="fill:#14ddb1" d="m 11,1 h 9 c 0.554,0 1,0.446 1,1 v 9 H 11 Z"/>
- <path style="fill:#14ddb1" d="M 11,21 H 2 C 1.446,21 1,20.554 1,20 v -9 h 10 z"/>
- <path style="fill:#6655e4" d="m 11,21 h 9 c 0.554,0 1,-0.446 1,-1 V 11 H 11 Z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 2 C 21,1.446 20.554,1 20,1 Z"/>
- <path style="opacity:0.2" d="m 2,21.5 c -0.554,0 -1,-0.446 -1,-1 V 20 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 v 0.5 c 0,0.554 -0.446,1 -1,1 z"/>
- <rect style="fill:#3f3f3f" width="14" height="14" x="4" y="4"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-linecap:round" d="M 6.5071212,14.99995 H 10.507121"/>
- <path style="fill:none;stroke:#ffffff;stroke-linecap:round" d="M 6.5071212,14.5 H 10.507121"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 6.5071212,10.99995 c 0,0 2.021891,0.175125 1.9999995,-1.999999 C 8.4852307,6.824819 6.5071212,6.9999495 6.5071212,6.9999495 m -0.00705,3.9967935 V 6.996744"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 6.5071212,10.5 c 0,0 2.021891,0.175125 1.9999995,-1.999999 C 8.4852307,6.324869 6.5071212,6.4999995 6.5071212,6.4999995 m -0.00705,3.9967935 V 6.496794"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 10.507072,8.9999 c 0,0 2.000001,0.23225 2.000001,-0.9999985 0,-1.2322505 -2.000001,-1.0000005 -2.000001,-1.0000005 m 4.9e-5,4.00005 V 6.99995"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 10.507072,8.49995 c 0,0 2.000001,0.23225 2.000001,-0.9999985 0,-1.2322505 -2.000001,-1.0000005 -2.000001,-1.0000005 m 4.9e-5,4.00005 V 6.5"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="22" height="22">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        stroke: #fff;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st0, .st2 {
+        stroke-width: 4px;
+      }
+
+      .st4, .st5, .st6 {
+        display: none;
+      }
+
+      .st4, .st2, .st3, .st6 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st1, .st3 {
+        stroke-linejoin: bevel;
+        stroke-width: 4px;
+      }
+
+      .st7 {
+        fill: #3f3f3f;
+      }
+
+      .st8 {
+        fill: #cf4f8c;
+      }
+
+      .st9 {
+        fill: #6655e4;
+      }
+
+      .st5 {
+        fill: #57c914;
+      }
+
+      .st2, .st3 {
+        stroke: #000;
+      }
+
+      .st10 {
+        fill: #14ddb1;
+      }
+
+      .st6 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="st5" d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g>
+    <path class="st4" d="M3.2,65.1c-1.8,0-3.2-1.4-3.2-3.2v-2.3c0,1.8,1.4,3.2,3.2,3.2h57.6c1.8,0,3.2-1.4,3.2-3.2v2.3c0,1.8-1.4,3.2-3.2,3.2H3.2Z"/>
+    <path class="st8" d="M32,0H14.4C6.4,0,0,6.4,0,14.4v17.6h32V0Z"/>
+    <path class="st10" d="M32,0h17.9c7.8,0,14.1,6.3,14.1,14.1v17.9h-32V0Z"/>
+    <path class="st10" d="M32,63.9H14.1c-7.8,0-14.1-6.3-14.1-14.1v-17.8h32v32Z"/>
+    <path class="st9" d="M32,63.9h17.7c7.9,0,14.3-6.4,14.3-14.3v-17.7h-32v32Z"/>
+    <path class="st6" d="M3.2,0C1.4,0,0,1.4,0,3.2v1.1C0,2.6,1.4,1.1,3.2,1.1h57.6c1.8,0,3.2,1.4,3.2,3.2v-1.1c0-1.8-1.4-3.2-3.2-3.2H3.2Z"/>
+    <rect class="st7" x="9.1" y="9.1" width="45.7" height="45.7"/>
+    <path class="st2" d="M16,49.1h18.3"/>
+    <path class="st0" d="M16,48h18.3"/>
+    <path class="st3" d="M16,35.4s9.2.8,9.1-9.1c-.1-9.9-9.1-9.1-9.1-9.1M16,35.4v-18.3"/>
+    <path class="st1" d="M16,34.3s9.2.8,9.1-9.1c-.1-9.9-9.1-9.1-9.1-9.1M16,34.2V16"/>
+    <path class="st3" d="M34.3,26.3s9.1,1.1,9.1-4.6-9.1-4.6-9.1-4.6M34.3,35.4v-18.3"/>
+    <path class="st1" d="M34.3,25.1s9.1,1.1,9.1-4.6-9.1-4.6-9.1-4.6M34.3,34.3V16"/>
+  </g>
 </svg>

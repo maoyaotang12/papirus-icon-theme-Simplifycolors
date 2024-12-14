@@ -1,12 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <path style="opacity:0.2" d="M 4,17.46 V 57.800782 C 4,59.574782 5.4264188,61 7.1992186,61 H 60 V 17.46 Z"/>
- <path style="fill:#e4e4e4" d="M 4,16.46 V 56.800782 C 4,58.574782 5.4264188,60 7.1992186,60 H 60 V 16.46 Z"/>
- <path style="fill:#636e73" d="M 7.1992186,4 C 5.4264188,4 4,5.4252188 4,7.1992186 V 20 H 60 V 4 Z"/>
- <circle style="opacity:0.2" cx="12" cy="13" r="4"/>
- <circle style="fill:#ffffff" cx="12" cy="12" r="4"/>
- <circle style="opacity:0.2" cx="24" cy="13" r="4"/>
- <circle style="fill:#ffffff" cx="24" cy="12" r="4"/>
- <circle style="opacity:0.2" cx="36" cy="13" r="4"/>
- <circle style="fill:#ffffff" cx="36" cy="12" r="4"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 7.1992188 4 C 5.426419 4 4 5.425219 4 7.1992188 L 4 8.1992188 C 4 6.425219 5.426419 5 7.1992188 5 L 60 5 L 60 4 L 7.1992188 4 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st3 {
+        display: none;
+      }
+
+      .st0, .st2 {
+        opacity: .2;
+      }
+
+      .st1 {
+        opacity: .1;
+      }
+
+      .st1, .st4 {
+        fill: #fff;
+      }
+
+      .st5 {
+        fill: #636e73;
+      }
+
+      .st3, .st6 {
+        fill: #e4e4e4;
+      }
+    </style>
+  </defs>
+  <path class="st6" d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g>
+    <path class="st0" d="M0,14.9v40.3c0,1.8,1.6,3.2,3.7,3.2h60.4V14.9H0Z"/>
+    <path class="st3" d="M0,13.9v40.3c0,1.8,1.6,3.2,3.7,3.2h60.4V13.9H0Z"/>
+    <path class="st5" d="M12.3,0C6.5.1,0,6.1,0,12.4v3.4c0,.1,0,.2.2.2h63.6c.1,0,.2,0,.2-.2v-1.6c0-7.9-6.4-14.2-14.2-14.2H12.3Z"/>
+    <ellipse class="st2" cx="9.1" cy="10.4" rx="4.6" ry="4"/>
+    <ellipse class="st4" cx="9.1" cy="9.4" rx="4.6" ry="4"/>
+    <ellipse class="st2" cx="22.8" cy="10.4" rx="4.6" ry="4"/>
+    <ellipse class="st4" cx="22.8" cy="9.4" rx="4.6" ry="4"/>
+    <ellipse class="st2" cx="36.6" cy="10.4" rx="4.6" ry="4"/>
+    <ellipse class="st4" cx="36.6" cy="9.4" rx="4.6" ry="4"/>
+    <path class="st1" d="M3.6,1.4C1.6,1.4,0,2.9,0,4.6v1C0,3.9,1.6,2.4,3.6,2.4h60.4v-1H3.6Z"/>
+  </g>
 </svg>

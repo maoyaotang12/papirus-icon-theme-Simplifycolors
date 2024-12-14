@@ -1,15 +1,331 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path style="opacity:0.2" d="M 30,29.6 V 4.4 C 30,3.6244 29.3756,3 28.6,3 H 8.7621715 L 5.9744308,5.8196147 C 5.4291251,6.3711553 4.3231942,6.1404581 3.9001751,6.7905429 L 2,9.710683 V 29.6 C 2,30.3756 2.6244,31 3.4,31 h 25.2 c 0.7756,0 1.4,-0.6244 1.4,-1.4 z"/>
- <path style="fill:#cccccc" d="M 30,28.6 V 3.4 C 30,2.6244 29.3756,2 28.6,2 H 8.7621715 L 5.9744308,4.8196147 C 5.4291251,5.3711553 4.3231942,5.1404581 3.9001751,5.7905429 L 2,8.710683 V 28.6 C 2,29.3756 2.6244,30 3.4,30 h 25.2 c 0.7756,0 1.4,-0.6244 1.4,-1.4 z"/>
- <path style="fill:#e4e4e4" d="M 6.1583187,5.7390543 C 5.7294634,6.385304 3.8276742,5.4695426 3.4711033,6.1583187 L 2,9 H 30 V 3.4 C 30,2.6244 29.3756,2 28.6,2 H 8.6395798 Z"/>
- <path style="fill:#e4e4e4" d="m 5.9744308,4.2679509 c -0.6206007,0.4651991 -1.7996593,0.7338193 -2.1968476,1.4 L 2,8.6493868 V 28.6 C 2,29.3756 2.6244,30 3.4,30 H 9 V 2 Z"/>
- <path style="fill:#e4e4e4" d="m 26,9 v 21 h 2.6 C 29.3756,30 30,29.3756 30,28.6 V 9 Z"/>
- <path style="fill:#d32626" d="M 3.4,2 C 2.6244,2 2,2.6244 2,3.4 V 9 H 9 V 2 Z"/>
- <rect style="fill:#ffd000" width="11" height="6" x="9" y="24"/>
- <rect style="fill:#0fa925" width="6" height="6" x="20" y="24"/>
- <rect style="fill:#1268c9" width="4" height="4" x="26" y="9"/>
- <rect style="opacity:0.2" width="16.8" height="1" x="9" y="24"/>
- <rect style="opacity:0.2" width="28" height="1" x="2" y="9"/>
- <rect style="opacity:0.2;fill:#ffffff" width="4" height="1" x="26" y="13"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 3.4003906 2 C 2.6247906 2 2 2.6247906 2 3.4003906 L 2 4.4003906 C 2 3.6247906 2.6247906 3 3.4003906 3 L 8.6386719 3 L 9 3 L 28.599609 3 C 29.375209 3 30 3.6247906 30 4.4003906 L 30 3.4003906 C 30 2.6247906 29.375209 2 28.599609 2 L 9 2 L 8.6386719 2 L 3.4003906 2 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" width="32" height="32">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ffd000;
+      }
+
+      .st1 {
+        fill: url(#_未命名的渐变_11);
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16 {
+        fill-rule: evenodd;
+      }
+
+      .st1, .st16 {
+        fill-opacity: .2;
+      }
+
+      .st2 {
+        fill: url(#_未命名的渐变_14);
+        fill-opacity: .4;
+      }
+
+      .st17 {
+        stroke: #df574d;
+      }
+
+      .st17, .st18, .st19, .st20, .st21, .st22 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st17, .st19 {
+        stroke-linejoin: bevel;
+      }
+
+      .st17, .st19, .st21, .st22 {
+        stroke-width: 3px;
+      }
+
+      .st23, .st24, .st25, .st26, .st27, .st28 {
+        display: none;
+      }
+
+      .st23, .st24, .st19, .st29, .st20, .st30, .st31, .st28, .st32 {
+        isolation: isolate;
+      }
+
+      .st23, .st19, .st20, .st30, .st31, .st28 {
+        opacity: .2;
+      }
+
+      .st24, .st33, .st31, .st28, .st32 {
+        fill: #fff;
+      }
+
+      .st24, .st29, .st32 {
+        opacity: .1;
+      }
+
+      .st25 {
+        fill: #236fbc;
+      }
+
+      .st3 {
+        fill: url(#_未命名的渐变_13);
+      }
+
+      .st3, .st8 {
+        fill-opacity: .3;
+      }
+
+      .st26 {
+        fill: #992b2b;
+      }
+
+      .st18 {
+        stroke: #76eead;
+      }
+
+      .st18, .st20 {
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .st4 {
+        fill: url(#_未命名的渐变_8);
+      }
+
+      .st19, .st20 {
+        stroke: #000;
+      }
+
+      .st5 {
+        fill: url(#_未命名的渐变_61);
+      }
+
+      .st5, .st7 {
+        fill-opacity: .6;
+      }
+
+      .st6 {
+        fill: #2e67cb;
+      }
+
+      .st7 {
+        fill: url(#_未命名的渐变_6);
+      }
+
+      .st8 {
+        fill: url(#_未命名的渐变_122);
+      }
+
+      .st34 {
+        fill: #654c4a;
+      }
+
+      .st9 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st35 {
+        fill: #07a6ff;
+      }
+
+      .st10 {
+        fill: #0df;
+      }
+
+      .st36 {
+        fill: #d32626;
+      }
+
+      .st37 {
+        fill: #1268c9;
+      }
+
+      .st21 {
+        stroke: #654c4a;
+      }
+
+      .st38 {
+        fill: #9b8688;
+      }
+
+      .st39 {
+        fill: #0fa925;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_2);
+      }
+
+      .st11, .st12, .st15 {
+        fill-opacity: .5;
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变_121);
+      }
+
+      .st13 {
+        fill: url(#_未命名的渐变_4);
+      }
+
+      .st40 {
+        fill: #ccc;
+      }
+
+      .st22 {
+        stroke: #bdb0b2;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_10);
+        fill-opacity: .8;
+      }
+
+      .st41 {
+        fill: #bdb0b2;
+      }
+
+      .st42 {
+        fill: #e4e4e4;
+      }
+
+      .st15 {
+        fill: url(#_未命名的渐变_12);
+      }
+
+      .st16 {
+        fill: url(#_未命名的渐变_9);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" x1="631.9" y1="-720.9" x2="626.2" y2="-759.1" gradientTransform="translate(-274 -332) scale(.5 -.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#145fff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#3942ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" cx="-7.9" cy="82.5" fx="-7.9" fy="82.5" r="1" gradientTransform="translate(-243.3 -1389.5) rotate(176.6) scale(27.4 -17.5) skewX(0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#12acff" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#3954ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="627" y1="-708.5" x2="627" y2="-766.6" gradientTransform="translate(-274 -332) scale(.5 -.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0087f5"/>
+      <stop offset="1" stop-color="#024dce"/>
+    </linearGradient>
+    <radialGradient id="_未命名的渐变_12" data-name="未命名的渐变 12" cx="19.7" cy="82" fx="19.7" fy="82" r="1" gradientTransform="translate(-1238.7 -511.4) rotate(103) scale(12.7 -16.6) skewX(-.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#110c87" stop-opacity=".2"/>
+      <stop offset=".3" stop-color="#110c87" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#110c87" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" cx="4" cy="38.5" fx="4" fy="38.5" r="1" gradientTransform="translate(235.2 584) rotate(-26.1) scale(17.8 -15) skewX(-.4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#110c87" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#110c87" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#110c87" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_61" data-name="未命名的渐变 6" cx="3.5" cy="80.8" fx="3.5" fy="80.8" r="1" gradientTransform="translate(-1281.1 -1242.2) rotate(132.4) scale(21.1 -22.7) skewX(-.7)" xlink:href="#_未命名的渐变_6"/>
+    <radialGradient id="_未命名的渐变_121" data-name="未命名的渐变 12" cx="-11.8" cy="64.3" fx="-11.8" fy="64.3" r="1" gradientTransform="translate(1464.7 -1577.2) rotate(-128.8) scale(32.9 -33.1) skewX(.6)" xlink:href="#_未命名的渐变_12"/>
+    <linearGradient id="_未命名的渐变_8" data-name="未命名的渐变 8" x1="635.9" y1="-731.5" x2="582.9" y2="-696.4" gradientTransform="translate(-274 -332) scale(.5 -.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0080ff"/>
+      <stop offset="1" stop-color="#3acaff"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_9" data-name="未命名的渐变 9" x1="637.4" y1="-731.9" x2="589.5" y2="-701.7" gradientTransform="translate(-274 -332) scale(.5 -.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00ecff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00f3ff"/>
+    </linearGradient>
+    <radialGradient id="_未命名的渐变_10" data-name="未命名的渐变 10" cx="-24.3" cy="66.9" fx="-24.3" fy="66.9" r="1" gradientTransform="translate(546.2 -975.3) rotate(-134.1) scale(15.9 -16) skewX(.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#110c87" stop-opacity=".3"/>
+      <stop offset=".5" stop-color="#110c87" stop-opacity="0"/>
+      <stop offset="1" stop-color="#110c87" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_11" data-name="未命名的渐变 11" cx="-18" cy="68.5" fx="-18" fy="68.5" r="1" gradientTransform="translate(653 -1304.2) rotate(-141.2) scale(21 -20.9) skewX(.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#110c87" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#110c87" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#110c87" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_122" data-name="未命名的渐变 12" cx="-18.7" cy="64.5" fx="-18.7" fy="64.5" r="1" gradientTransform="translate(853.3 -1099.9) rotate(-128.8) scale(20.8 -20.9) skewX(.6)" xlink:href="#_未命名的渐变_12"/>
+    <linearGradient id="_未命名的渐变_13" data-name="未命名的渐变 13" x1="573.6" y1="-708.6" x2="603.6" y2="-761.7" gradientTransform="translate(-274 -332) scale(.5 -.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e2ff24"/>
+      <stop offset=".2" stop-color="#bdff24"/>
+      <stop offset="1" stop-color="#00dfff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_14" data-name="未命名的渐变 14" x1="610.9" y1="-767.3" x2="571.2" y2="-714.6" gradientTransform="translate(-274 -332) scale(.5 -.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0700ff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#00fff8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path class="st25" d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.5c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g class="st27">
+    <path class="st30" d="M7.6,17.7c-2.3,0-4.1,1.8-4.1,4.1v28.8c0,2.3,1.8,4.1,4.1,4.1h48.9c2.3,0,4.1-1.8,4.1-4.1v-28.8c0-2.3-1.8-4.1-4.1-4.1H7.6Z"/>
+    <path class="st22" d="M14.5,16.7l30.5-11.5"/>
+    <circle class="st38" cx="14.5" cy="16.7" r="3"/>
+    <path class="st34" d="M7.6,16.7c-2.3,0-4.1,1.8-4.1,4.1v28.8c0,2.3,1.8,4.1,4.1,4.1h48.9c2.3,0,4.1-1.8,4.1-4.1v-28.8c0-2.3-1.8-4.1-4.1-4.1H7.6Z"/>
+    <circle class="st30" cx="41.5" cy="37.7" r="3"/>
+    <circle class="st38" cx="41.5" cy="36.7" r="3"/>
+    <circle class="st30" cx="53.5" cy="37.7" r="3"/>
+    <circle class="st38" cx="53.5" cy="36.7" r="3"/>
+    <circle class="st33" cx="22" cy="35.2" r="13.5"/>
+    <path class="st30" d="M22,21.7c-7.5,0-13.5,6-13.5,13.5,0,.2,0,.3,0,.5.3-7.2,6.2-13,13.5-13,7.2,0,13.1,5.6,13.5,12.8,0,0,0-.2,0-.3,0-7.5-6-13.5-13.5-13.5Z"/>
+    <circle class="st30" cx="22" cy="36.2" r="10.5"/>
+    <circle class="st38" cx="22" cy="35.2" r="10.5"/>
+    <rect class="st38" x="38.5" y="42.7" width="18" height="6"/>
+    <rect class="st29" x="38.5" y="42.7" width="18" height="1"/>
+    <rect class="st33" x="38.5" y="21.7" width="18" height="6"/>
+    <rect class="st30" x="38.5" y="21.7" width="18" height="1"/>
+    <path class="st19" d="M44,28.2v-5"/>
+    <path class="st17" d="M44,27.2v-5"/>
+    <path class="st21" d="M22,41.2v-11"/>
+    <path class="st21" d="M27,38.2v-5"/>
+    <path class="st21" d="M17,38.2v-5"/>
+    <rect class="st30" x="44.5" y="43.7" width="6" height="6"/>
+    <rect class="st41" x="44.5" y="42.7" width="6" height="6"/>
+    <rect class="st32" x="44.5" y="42.7" width="6" height="1"/>
+    <path class="st32" d="M7.6,16.7c-2.3,0-4.1,1.8-4.1,4.1v1c0-2.3,1.8-4.1,4.1-4.1h48.9c2.3,0,4.1,1.8,4.1,4.1v-1c0-2.3-1.8-4.1-4.1-4.1H7.6Z"/>
+  </g>
+  <g class="st27">
+    <ellipse class="st23" cx="30.5" cy="31" rx="30.5" ry="29.6"/>
+    <ellipse class="st26" cx="30.5" cy="30" rx="30.5" ry="29.6"/>
+    <path class="st30" d="M32.2,9.8c-1.2,0-2.2.2-2.5.6-.6.7-2,5.6-3.8,13.2-1.3,5.5-.4,8.7.5,10.4,1.1,2.2,2,3.5.2,7.8-1.3,3.2-2.6,3.2-3.8,3.3-2.9-.7-5.1-.7-5.4,0-.4,1.1,2.9,3.8,7.4,5.4,4.5,1.6,8.4,2,8.8,1,.3-.8-1.4-2.1-4.1-3.4-1.2-1.2-2.2-2-1.3-5.7,1.8-7.3,4.6-4.8,7.9-9.3,2.8-3.8,3.5-6.8,5.2-11.2,1.7-4.7,2.5-6.9,2.2-7.4-1.5-2.9-7.7-4.7-11.3-4.7h0ZM28.1,19.5c1.8,1.9,3.4,3,4.8,3,3.6.1,6.2-3.9,7.8-1.8-.8,2.5-5.4,17.5-11.6,14.8-5.1-2.2-2.2-13.3-1.1-16Z"/>
+    <path class="st33" d="M32.2,8.8c-1.2,0-2.2.2-2.5.6-.6.7-2,5.6-3.8,13.2-1.3,5.5-.4,8.7.5,10.4,1.1,2.2,2,3.5.2,7.8-1.3,3.2-2.6,3.2-3.8,3.3-2.9-.7-5.1-.7-5.4,0-.4,1.1,2.9,3.8,7.4,5.4,4.5,1.6,8.4,2,8.8,1,.3-.8-1.4-2.1-4.1-3.4-1.2-1.2-2.2-2-1.3-5.7,1.8-7.3,4.6-4.8,7.9-9.3,2.8-3.8,3.5-6.8,5.2-11.2,1.7-4.7,2.5-6.9,2.2-7.4-1.5-2.9-7.7-4.7-11.3-4.7h0ZM28.1,18.4c1.8,1.9,3.4,3,4.8,3,3.6.1,6.2-3.9,7.8-1.8-.8,2.5-5.4,17.5-11.6,14.8-5.1-2.2-2.2-13.3-1.1-16Z"/>
+    <path class="st24" d="M30.5.3C13.7.3,0,13.6,0,30c0,.2,0,.3,0,.5C.3,14.3,13.9,1.4,30.5,1.4c16.6,0,30.2,12.9,30.5,29.1,0-.2,0-.3,0-.5C61,13.6,47.4.3,30.5.3Z"/>
+    <ellipse class="st30" cx="46.9" cy="46.9" rx="16.3" ry="15.9"/>
+    <ellipse class="st35" cx="46.9" cy="45.8" rx="16.3" ry="15.9"/>
+    <path class="st33" d="M47,35.3c-2.1,0-3.8.7-5.6,1.8l1.5,3.1c1.7-.7,3.1-1.7,5-1.3,1,.2,1.5,1.3,1.3,2.2-.2,1.5-1.6,2.2-2.7,3.1-1.3,1-1.7,2.5-1.7,4.1v1.9h3.8c0-.9-.1-1.9.2-2.8.7-1.2,1.6-1.8,2.6-2.8,1.2-1,2-2.6,1.9-4.2,0-1.8-1-3.6-2.7-4.4-1.1-.5-2.4-.7-3.6-.7ZM46.9,52.2c-.9,0-2,.5-2.1,1.5-.2,1,0,2.3,1.2,2.6,1.1.4,2.6,0,3-1.1.4-1.1,0-2.5-1.2-2.9-.3,0-.5-.1-.8-.1Z"/>
+  </g>
+  <g class="st27">
+    <path class="st6" d="M55.9,26.5c5.7,5.7,5.7,14.9,0,20.5-2.9,2.8-6.6,4.3-10.4,4.3h0s-26.6,0-26.6,0l5.9-14.5,10.4-10.3c5.7-5.6,14.8-5.7,20.5-.2l.2.2Z"/>
+    <path class="st13" d="M55.9,26.5c5.7,5.7,5.7,14.9,0,20.5-2.9,2.8-6.6,4.3-10.4,4.3h0s-26.6,0-26.6,0l5.9-14.5,10.4-10.3c5.7-5.6,14.8-5.7,20.5-.2l.2.2Z"/>
+    <path class="st11" d="M55.9,26.5c5.7,5.7,5.7,14.9,0,20.5-2.9,2.8-6.6,4.3-10.4,4.3h0s-26.6,0-26.6,0l5.9-14.5,10.4-10.3c5.7-5.6,14.8-5.7,20.5-.2l.2.2Z"/>
+    <path class="st9" d="M55.9,26.5c5.7,5.7,5.7,14.9,0,20.5-2.9,2.8-6.6,4.3-10.4,4.3h0s-26.6,0-26.6,0l5.9-14.5,10.4-10.3c5.7-5.6,14.8-5.7,20.5-.2l.2.2Z"/>
+    <path class="st15" d="M57.9,29c-.6-.9-1.2-1.7-2-2.5l-.2-.2c-5.7-5.5-14.9-5.4-20.5.2l-10.4,10.3-5.9,14.5h14.8c2-7.8,6.1-14.4,6.1-14.4,0,0,10.4-10.6,18.1-7.9Z"/>
+    <path class="st7" d="M57.9,29c-.6-.9-1.2-1.7-2-2.5l-.2-.2c-5.7-5.5-14.9-5.4-20.5.2l-10.4,10.3-.3.8,15.4-.7s10.4-10.6,18.1-7.9Z"/>
+    <path class="st5" d="M33.7,51.3c2-7.7,6.1-14.4,6.1-14.4v-13.5c-1.7.7-3.3,1.7-4.7,3.1l-10.4,10.3-5.9,14.5h14.8Z"/>
+    <path class="st12" d="M39.8,36.8l-8,7.9-10.4-10.2c-2.9-2.9-4.4-6.7-4.3-10.5,6.7-3,14.7-.6,18.6,5.8v.2c.1,0,4.2,6.9,4.2,6.9Z"/>
+    <g>
+      <path class="st4" d="M42.2,34.4l-10.4,10.2-10.4-10.2c-5.7-5.7-5.7-14.9,0-20.5,2.9-2.8,6.6-4,10.4-4,3.7,0,7.4,1.1,10.3,3.9l.2.2c5.7,5.7,5.7,14.9,0,20.5Z"/>
+      <path class="st16" d="M42.2,34.4l-10.4,10.2-10.4-10.2c-5.7-5.7-5.7-14.9,0-20.5,2.9-2.8,6.6-4,10.4-4,3.7,0,7.4,1.1,10.3,3.9l.2.2c5.7,5.7,5.7,14.9,0,20.5Z"/>
+    </g>
+    <path class="st14" d="M39.8,36.8l-8,7.9-10.4-10.2c-2.9-2.9-4.4-6.7-4.3-10.5,6.7-3,14.7-.6,18.6,5.8v.2c.1,0,4.2,6.9,4.2,6.9Z"/>
+    <path class="st1" d="M39.8,36.8l-8,7.9-10.4-10.2c-2.9-2.9-4.4-6.7-4.3-10.5,6.7-3,14.7-.6,18.6,5.8v.2c.1,0,4.2,6.9,4.2,6.9Z"/>
+    <path class="st8" d="M39.8,36.8l-8,7.9-10.4-10.2c-2.9-2.9-4.4-6.7-4.3-10.5,6.7-3,14.7-.6,18.6,5.8v.2c.1,0,4.2,6.9,4.2,6.9Z"/>
+    <path class="st10" d="M8.6,26.5c5.7-5.6,14.8-5.7,20.6-.2l.2.2,10.4,10.3-10.4,10.3c-5.7,5.6-14.8,5.7-20.6.2l-.2-.2c-5.7-5.7-5.7-14.9,0-20.5Z"/>
+    <path class="st3" d="M8.6,26.5c5.7-5.6,14.8-5.7,20.6-.2l.2.2,10.4,10.3-10.4,10.3c-5.7,5.6-14.8,5.7-20.6.2l-.2-.2c-5.7-5.7-5.7-14.9,0-20.5Z"/>
+    <path class="st2" d="M8.6,26.5c5.7-5.6,14.8-5.7,20.6-.2l.2.2,10.4,10.3-10.4,10.3c-5.7,5.6-14.8,5.7-20.6.2l-.2-.2c-5.7-5.7-5.7-14.9,0-20.5Z"/>
+  </g>
+  <g class="st27">
+    <path class="st23" d="M7.4,1.6h49.4c1.5,0,2.7,1.4,2.7,3.1v56.8c0,1.7-1.2,3.1-2.7,3.1H7.4c-1.5,0-2.7-1.4-2.7-3.1V4.8c0-1.7,1.2-3.1,2.7-3.1Z"/>
+    <path class="st25" d="M7.4.4h49.4c1.5,0,2.7,1.4,2.7,3.1v56.8c0,1.7-1.2,3.1-2.7,3.1H7.4c-1.5,0-2.7-1.4-2.7-3.1V3.5c0-1.7,1.2-3.1,2.7-3.1Z"/>
+    <path class="st20" d="M3.6,33.1h19l6.6-17,5.8,33.9,6.6-17h19"/>
+    <path class="st18" d="M3.6,31.9h19l6.6-17,5.8,33.9,6.6-17h19"/>
+    <path class="st24" d="M7.4.4c-1.5,0-2.7,1.4-2.7,3.1v1.2c0-1.7,1.2-3.1,2.7-3.1h49.4c1.5,0,2.7,1.4,2.7,3.1v-1.2c0-1.7-1.2-3.1-2.7-3.1H7.4Z"/>
+  </g>
+  <g>
+    <path class="st23" d="M63.8,61.9V4.5c0-1.8-1.4-3.2-3.2-3.2H15.3l-6.4,6.4c-1.2,1.3-3.8.7-4.7,2.2L-.1,16.6v45.3c0,1.8,1.4,3.2,3.2,3.2h57.5c1.8,0,3.2-1.4,3.2-3.2Z"/>
+    <path class="st40" d="M63.8,47.8V14.1C63.8,6.4,57.6.1,49.9.1H15.3l-6.4,6.4c-1.2,1.3-3.8.7-4.7,2.2L-.1,15.4v34.7c0,7.7,6.2,13.9,13.9,13.9h33.9c8.9,0,16.2-7.2,16.2-16.2Z"/>
+    <path class="st42" d="M9.4,8.7c-1,1.5-5.3-.6-6.1,1L-.1,16.1h63.9v-2.2C63.8,6.3,57.7.1,50.1.1H15l-5.7,8.5Z"/>
+    <path class="st42" d="M9,5.3c-1.4,1.1-4.1,1.7-5,3.2L-.1,15.3v34.3c0,7.9,6.4,14.3,14.3,14.3h1.7V.1l-6.9,5.2Z"/>
+    <path class="st42" d="M54.7,16.1v45.1c0,0,0,1.6,0,1.6,5.4,0,9.1-7.3,9.1-11.9V16.1s-9.1,0-9.1,0Z"/>
+    <path class="st36" d="M13.9.1C6.1.1-.1,6.4-.1,14.1v2h16V.1h-2Z"/>
+    <rect class="st0" x="15.9" y="51.4" width="25.1" height="12.5"/>
+    <path class="st39" d="M41,51.4h13.7v10.2c.1,2.4-1.9,2.4-4.3,2.4h-9.4v-12.5Z"/>
+    <rect class="st37" x="54.7" y="16.1" width="9.1" height="9.1"/>
+    <rect class="st30" x="15.9" y="51.4" width="38.3" height="1.1"/>
+    <rect class="st30" x="-.1" y="16.1" width="63.9" height="1.1"/>
+    <rect class="st31" x="54.7" y="25.2" width="9.1" height="1.1"/>
+    <path class="st28" d="M3.1.1C1.3.1-.1,1.6-.1,3.3v1.1C-.1,2.7,1.3,1.3,3.1,1.3h57.5c1.8,0,3.2,1.4,3.2,3.2v-1.1c0-1.8-1.4-3.2-3.2-3.2H3.1Z"/>
+  </g>
 </svg>

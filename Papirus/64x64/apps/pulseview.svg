@@ -1,17 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <rect style="fill:#45c034" width="5" height="52" x="35" y="5"/>
- <rect style="fill:#e7d324" width="5" height="52" x="30" y="5"/>
- <rect style="fill:#c033e3" width="5" height="52" x="45" y="5"/>
- <rect style="fill:#3266b4" width="5" height="52" x="40" y="5"/>
- <rect style="fill:#8b5a3a" width="5" height="52" x="15" y="5"/>
- <rect style="fill:#4f4f4f" width="5" height="52" x="10" y="5"/>
- <rect style="fill:#ff7d27" width="5" height="52" x="25" y="5"/>
- <rect style="fill:#f24040" width="5" height="52" x="20" y="5"/>
- <rect style="fill:#80809d" width="5" height="52" x="50" y="5"/>
- <rect style="opacity:0.2" width="55" height="22" x="5" y="37" rx="3.75" ry="4.125"/>
- <rect style="fill:#9e9c89" width="55" height="22" x="5" y="36" rx="3.75" ry="4.125"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:3" d="m 12,54.5 h 5.5 v -13 h 16 v 13 h 7 v -13 h 7 v 13 H 53"/>
- <path style="fill:none;stroke:#d6d5cd;stroke-width:3" d="m 12,53.5 h 5.5 v -13 h 16 v 13 h 7 v -13 h 7 v 13 H 53"/>
- <path style="fill:#f9f9f9;opacity:0.2" d="M 8.75 36 C 6.6725001 36 5 37.83975 5 40.125 L 5 41.125 C 5 38.83975 6.6725001 37 8.75 37 L 56.25 37 C 58.3275 37 60 38.83975 60 41.125 L 60 40.125 C 60 37.83975 58.3275 36 56.25 36 L 8.75 36 z"/>
- <rect style="opacity:0.1;fill:#f9f9f9" width="45" height="1" x="10" y="5"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .1;
+      }
+
+      .st0, .st1 {
+        fill: #f9f9f9;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st4 {
+        fill: #4f4f4f;
+      }
+
+      .st5 {
+        fill: #e7d324;
+      }
+
+      .st6 {
+        fill: #c033e3;
+      }
+
+      .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #80809d;
+      }
+
+      .st9 {
+        fill: #45c034;
+      }
+
+      .st10 {
+        fill: #ff7d27;
+      }
+
+      .st11 {
+        fill: #3266b4;
+      }
+
+      .st12 {
+        stroke: #d6d5cd;
+      }
+
+      .st12, .st3 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .st1, .st2, .st3 {
+        opacity: .2;
+      }
+
+      .st3 {
+        stroke: #000;
+      }
+
+      .st13 {
+        fill: #9e9c89;
+      }
+
+      .st14 {
+        fill: #8b5a3a;
+      }
+
+      .st15 {
+        fill: #f24040;
+      }
+    </style>
+  </defs>
+  <path class="st7" d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g>
+    <rect class="st9" x="35.6" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st5" x="30.9" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st6" x="45" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st11" x="40.3" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st14" x="16.9" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st4" x="12.2" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st10" x="26.2" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st15" x="21.5" y="7.6" width="4.7" height="47.8"/>
+    <rect class="st8" x="49.6" y="7.6" width="4.7" height="47.8"/>
+    <path class="st2" d="M11,37.1h44.5c1.9,0,3.5,1.7,3.5,3.8v12.6c0,2.1-1.6,3.8-3.5,3.8H11c-1.9,0-3.5-1.7-3.5-3.8v-12.6c0-2.1,1.6-3.8,3.5-3.8Z"/>
+    <path class="st13" d="M11,36.1h44.5c1.9,0,3.5,1.7,3.5,3.8v12.6c0,2.1-1.6,3.8-3.5,3.8H11c-1.9,0-3.5-1.7-3.5-3.8v-12.6c0-2.1,1.6-3.8,3.5-3.8Z"/>
+    <path class="st3" d="M14,53.2h5.2v-12h15v12h6.6v-12h6.6v12h5.2"/>
+    <path class="st12" d="M14,52.2h5.2v-12h15v12h6.6v-12h6.6v12h5.2"/>
+    <path class="st1" d="M11,36.1c-1.9,0-3.5,1.7-3.5,3.8v.9c0-2.1,1.6-3.8,3.5-3.8h44.5c1.9,0,3.5,1.7,3.5,3.8v-.9c0-2.1-1.6-3.8-3.5-3.8H11Z"/>
+    <rect class="st0" x="12.2" y="7.6" width="42.2" height=".9"/>
+  </g>
 </svg>

@@ -1,6 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#1e88e5" width="14" height="12" x="1" y="2" rx=".8" ry=".8"/>
- <rect style="fill:#ebebeb" width="7" height="5" x="9" y="4" rx=".4" ry=".4"/>
- <rect style="fill:#ebebeb" width="7" height="5" x="0" y="4" rx=".4" ry=".4"/>
- <rect style="fill:#ebebeb" width="8" height="5" x="4" y="10" rx=".4" ry=".4"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="16" height="16">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #1e88e5;
+      }
+
+      .st1 {
+        fill: #444;
+      }
+
+      .st2, .st3 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st4 {
+        fill: #ebebeb;
+      }
+
+      .st3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M50.5,64H13.9C6.3,64,0,57.8,0,50.3V13.7C0,6.2,6.3,0,13.8,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g>
+    <path class="st2" d="M9,11.1h46.9c1.6,0,2.8,1.2,2.8,2.8v38.8c0,1.5-1.3,2.8-2.8,2.8H9c-1.6,0-2.8-1.2-2.8-2.8V13.9c0-1.5,1.3-2.8,2.8-2.8Z"/>
+    <path class="st0" d="M9,10.2h46.9c1.6,0,2.8,1.2,2.8,2.8v38.8c0,1.5-1.3,2.8-2.8,2.8H9c-1.6,0-2.8-1.2-2.8-2.8V13c0-1.5,1.3-2.8,2.8-2.8Z"/>
+    <path class="st3" d="M9,10.2c-1.6,0-2.8,1.2-2.8,2.8v.9c0-1.5,1.3-2.8,2.8-2.8h46.9c1.6,0,2.8,1.2,2.8,2.8v-.9c0-1.5-1.3-2.8-2.8-2.8H9Z"/>
+    <path class="st2" d="M37.3,15.7h24c.6,0,1.1.5,1.1,1.1v16.2c0,.6-.5,1.1-1.1,1.1h-24c-.6,0-1.1-.5-1.1-1.1v-16.2c0-.6.5-1.1,1.1-1.1Z"/>
+    <path class="st4" d="M37.3,14.8h24c.6,0,1.1.5,1.1,1.1v16.2c0,.6-.5,1.1-1.1,1.1h-24c-.6,0-1.1-.5-1.1-1.1V15.9c0-.6.5-1.1,1.1-1.1Z"/>
+    <path class="st2" d="M20.4,39.7h24c.6,0,1.1.5,1.1,1.1v16.2c0,.6-.5,1.1-1.1,1.1h-24c-.6,0-1.1-.5-1.1-1.1v-16.2c0-.6.5-1.1,1.1-1.1Z"/>
+    <rect class="st4" x="19.3" y="38.8" width="26.2" height="18.5" rx="1.1" ry="1.1"/>
+    <path class="st2" d="M3.6,15.7h24c.6,0,1.1.5,1.1,1.1v16.2c0,.6-.5,1.1-1.1,1.1H3.6c-.6,0-1.1-.5-1.1-1.1v-16.2c0-.6.5-1.1,1.1-1.1Z"/>
+    <path class="st4" d="M3.6,14.8h24c.6,0,1.1.5,1.1,1.1v16.2c0,.6-.5,1.1-1.1,1.1H3.6c-.6,0-1.1-.5-1.1-1.1V15.9c0-.6.5-1.1,1.1-1.1Z"/>
+  </g>
 </svg>

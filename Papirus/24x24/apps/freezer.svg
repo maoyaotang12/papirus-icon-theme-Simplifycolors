@@ -1,16 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <path style="opacity:0.2" d="M 5,18.5 V 20 C 5,20.654541 5.4176555,21.203399 6,21.409179 V 21.75 C 6,22.1655 6.3345,22.5 6.75,22.5 H 8.25 C 8.6655,22.5 9,22.1655 9,21.75 V 21.5 H 15 V 21.75 C 15,22.1655 15.3345,22.5 15.75,22.5 H 17.25 C 17.6655,22.5 18,22.1655 18,21.75 V 21.409179 C 18.582345,21.203399 19,20.654541 19,20 V 18.5 Z"/>
- <path style="fill:#ffab27" d="M 6.5,2 C 5.669,2 5,2.669 5,3.5 V 5.5 H 19 V 3.5 C 19,2.669 18.331,2 17.5,2 Z"/>
- <path style="fill:#17b473" d="M 5,18 V 19.5 C 5,20.331 5.669,21 6.5,21 H 17.5 C 18.331,21 19,20.331 19,19.5 V 18 Z"/>
- <rect style="fill:#f02096" width="14" height="3.5" x="5" y="5.5"/>
- <rect style="fill:#4b3c9b" width="14" height="4" x="5" y="10"/>
- <rect style="fill:#0184bc" width="14" height="4" x="5" y="14"/>
- <rect style="opacity:0.1;fill:#ffffff" width="14" height=".5" x="5" y="10"/>
- <path style="opacity:0.2" d="M 7.4921875,4.4920655 A 0.50005,0.50005 0 0 0 7,4.999878 V 7.999878 A 0.50005,0.50005 0 1 0 8,7.999878 V 4.999878 A 0.50005,0.50005 0 0 0 7.4921875,4.4920655 Z M 7.4921875,11.492067 A 0.50005,0.50005 0 0 0 7,11.999879 V 14.999879 A 0.50005,0.50005 0 1 0 8,14.999879 V 11.999879 A 0.50005,0.50005 0 0 0 7.4921875,11.492067 Z"/>
- <path style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" d="M 7.5,4.5 V 7.5"/>
- <path style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round" d="M 7.5,11.5 V 14.5"/>
- <rect style="fill:#17b473" width="3" height="3" x="6" y="19" rx=".75" ry=".75"/>
- <rect style="fill:#17b473" width="3" height="3" x="15" y="19" rx=".75" ry=".75"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 6.5,2 C 5.669,2 5,2.669 5,3.5 V 4 C 5,3.169 5.669,2.5 6.5,2.5 H 17.5 C 18.331,2.5 19,3.169 19,4 V 3.5 C 19,2.669 18.331,2 17.5,2 Z"/>
- <rect style="opacity:0.2" width="14" height=".5" x="5" y="9"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="24" height="24">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #17b473;
+      }
+
+      .st1 {
+        fill: #3f3f3f;
+      }
+
+      .st2 {
+        fill: #ffab27;
+      }
+
+      .st3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .st4 {
+        fill: #4b3c9b;
+      }
+
+      .st5, .st6 {
+        opacity: .2;
+      }
+
+      .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st8 {
+        fill: #f02096;
+      }
+
+      .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st9 {
+        fill: #0184bc;
+      }
+
+      .st7 {
+        opacity: .1;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
+  <g>
+    <path class="st5" d="M12,49.5v3.8c0,1.9,1.3,3.5,3,4v1.2c0,1.1.9,2,2,2h4c1.1,0,2-.9,2-2v-1h17v1c0,1.1.9,2,2,2h4c1.1,0,2-.9,2-2v-1.2c1.7-.5,3-2.1,3-4v-3.8H12Z"/>
+    <path class="st2" d="M16.2,3.5c-2.3,0-4.2,1.9-4.2,4.2v5.8h39v-5.8c0-2.3-1.9-4.2-4.2-4.2h-30.6Z"/>
+    <path class="st0" d="M12,48.5v3.8c0,2.3,1.9,4.2,4.2,4.2h30.6c2.3,0,4.2-1.9,4.2-4.2v-3.8H12Z"/>
+    <rect class="st8" x="12" y="13.5" width="39" height="10"/>
+    <rect class="st4" x="12" y="26.5" width="39" height="11"/>
+    <rect class="st9" x="12" y="37.5" width="39" height="11"/>
+    <path class="st5" d="M18.5,11.5c-.8,0-1.5.7-1.5,1.5h0v7c0,.8.7,1.5,1.5,1.5.8,0,1.5-.7,1.5-1.5,0,0,0,0,0,0v-7c0-.8-.7-1.5-1.5-1.5,0,0,0,0,0,0ZM18.5,31.5c-.8,0-1.5.7-1.5,1.5h0v7c0,.8.7,1.5,1.5,1.5.8,0,1.5-.7,1.5-1.5,0,0,0,0,0,0v-7c0-.8-.7-1.5-1.5-1.5,0,0,0,0,0,0Z"/>
+    <path class="st3" d="M18.5,12v7"/>
+    <path class="st3" d="M18.5,32v7"/>
+    <rect class="st0" x="15" y="51.5" width="8" height="8" rx="2" ry="2"/>
+    <rect class="st0" x="40" y="51.5" width="8" height="8" rx="2" ry="2"/>
+    <rect class="st5" x="12" y="23.5" width="39" height="1"/>
+    <rect class="st7" x="12" y="26.5" width="39" height="1"/>
+    <path class="st6" d="M16.2,3.5c-2.3,0-4.2,1.9-4.2,4.2v1c0-2.3,1.9-4.2,4.2-4.2h30.6c2.3,0,4.2,1.9,4.2,4.2v-1c0-2.3-1.9-4.2-4.2-4.2h-30.6Z"/>
+  </g>
 </svg>

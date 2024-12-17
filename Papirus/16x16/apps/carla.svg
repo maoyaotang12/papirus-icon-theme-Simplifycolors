@@ -1,16 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#e83838" width="16" height="16" x="-16" y="-16" rx=".8" ry=".8" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.2" width="5" height="7" x="9" y="1"/>
- <path style="opacity:0.2" d="M 16,15.2 V 8 H 0 v 7.2 C 0,15.6432 0.3568,16 0.8,16 h 14.4 c 0.4432,0 0.8,-0.3568 0.8,-0.8 z"/>
- <circle style="fill:#bbbbbb" cx="4" cy="4" r="2"/>
- <rect style="fill:#3fea3f" width="2" height="1" x="9" y="1"/>
- <rect style="fill:#3fea3f" width="3" height="1" x="9" y="3"/>
- <rect style="fill:#00ffed" width="1.5" height="1" x="9" y="5"/>
- <rect style="fill:#00ffed" width="4" height="1" x="9" y="7"/>
- <circle style="fill:#bbbbbb" cx="4" cy="12" r="2"/>
- <rect style="opacity:0.2" width="5" height="7" x="9" y="9"/>
- <rect style="fill:#3fea3f" width="2" height="1" x="9" y="9"/>
- <rect style="fill:#3fea3f" width="3" height="1" x="9" y="11"/>
- <rect style="fill:#00ffed" width="1.5" height="1" x="9" y="13"/>
- <rect style="fill:#00ffed" width="4" height="1" x="9" y="15"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="16" height="16">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #e83838;
+      }
+
+      .st2, .st3, .st4, .st5 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st2, .st5, .st1 {
+        display: none;
+      }
+
+      .st6 {
+        fill: #3fea3f;
+      }
+
+      .st7 {
+        fill: #bbb;
+      }
+
+      .st4, .st5 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #00ffed;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"/>
+  <g>
+    <path class="st2" d="M3.2,1.1h57.6c1.8,0,3.2,1.4,3.2,3.2v57.5c0,1.8-1.4,3.2-3.2,3.2H3.2c-1.8,0-3.2-1.4-3.2-3.2V4.3C0,2.6,1.4,1.1,3.2,1.1Z"/>
+    <path class="st1" d="M3.2,0h57.6c1.8,0,3.2,1.4,3.2,3.2v57.5c0,1.8-1.4,3.2-3.2,3.2H3.2c-1.8,0-3.2-1.4-3.2-3.2V3.2C0,1.4,1.4,0,3.2,0Z"/>
+    <rect class="st3" x="38.9" y="3.4" width="18.3" height="25.1"/>
+    <path class="st3" d="M64,50.2v-18.3H0v18.2c0,7.6,6.2,13.8,13.8,13.8h36.5c7.6,0,13.7-6.1,13.7-13.7Z"/>
+    <ellipse class="st3" cx="16" cy="17.1" rx="9.1" ry="9.1"/>
+    <ellipse class="st7" cx="16" cy="16" rx="9.1" ry="9.1"/>
+    <rect class="st6" x="38.9" y="3.4" width="9.1" height="4.6"/>
+    <rect class="st6" x="38.9" y="10.3" width="13.7" height="4.6"/>
+    <rect class="st8" x="38.9" y="17.1" width="6.9" height="4.6"/>
+    <rect class="st8" x="38.9" y="24" width="16" height="4.6"/>
+    <path class="st4" d="M16,6.9c-5,0-9.1,4.1-9.1,9.1,0,.2,0,.3,0,.5.4-4.8,4.3-8.4,9.1-8.5,4.8,0,8.8,3.7,9.1,8.5,0-.2,0-.4,0-.5,0-5-4.1-9.1-9.1-9.1Z"/>
+    <path class="st5" d="M3.2,0C1.4,0,0,1.4,0,3.2v1.1C0,2.6,1.4,1.1,3.2,1.1h57.6c1.8,0,3.2,1.4,3.2,3.2v-1.1c0-1.8-1.4-3.2-3.2-3.2H3.2Z"/>
+    <rect class="st3" y="32" width="64" height="1.1"/>
+    <rect class="st3" x="38.9" y="35.4" width="18.3" height="25.1"/>
+    <ellipse class="st3" cx="16" cy="49.1" rx="9.1" ry="9.1"/>
+    <ellipse class="st7" cx="16" cy="48" rx="9.1" ry="9.1"/>
+    <rect class="st6" x="38.9" y="35.4" width="9.1" height="4.6"/>
+    <rect class="st6" x="38.9" y="42.2" width="13.7" height="4.6"/>
+    <rect class="st8" x="38.9" y="49.1" width="6.9" height="4.6"/>
+    <rect class="st8" x="38.9" y="56" width="16" height="4.6"/>
+    <path class="st4" d="M16,38.8c-5,0-9.1,4.1-9.1,9.1,0,.2,0,.3,0,.5.4-4.8,4.3-8.4,9.1-8.5,4.8,0,8.8,3.7,9.1,8.5,0-.2,0-.4,0-.5,0-5-4.1-9.1-9.1-9.1Z"/>
+  </g>
 </svg>

@@ -1,9 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="12" ry="12"/>
- <rect style="fill:#6943b5" width="40" height="40" x="4" y="4" rx="12" ry="12"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 16 4 C 9.352 4 4 9.352 4 16 L 4 17 C 4 10.352 9.352 5 16 5 L 32 5 C 38.648 5 44 10.352 44 17 L 44 16 C 44 9.352 38.648 4 32 4 L 16 4 z"/>
- <path style="opacity:0.2" d="m 32.908203,11.975701 a 2.0002,2.0002 0 0 0 -1.777344,1.310547 l -8,21 a 2.0004754,2.0004754 0 1 0 3.738282,1.425782 l 8,-21 A 2.0002,2.0002 0 0 0 32.908203,11.975701 Z M 17,18.999139 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 0,12 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
- <circle style="fill:#67d0ff" cx="17" cy="21" r="3"/>
- <circle style="fill:#67d0ff" cx="17" cy="33" r="3"/>
- <path style="fill:none;stroke:#67d0ff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M 25,34 33,13"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="48" height="48">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #6943b5;
+      }
+
+      .st2 {
+        fill: #67d0ff;
+      }
+
+      .st3, .st4, .st1 {
+        display: none;
+      }
+
+      .st3, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st3, .st5 {
+        opacity: .2;
+      }
+
+      .st4 {
+        fill: #fff;
+        opacity: .1;
+      }
+
+      .st6 {
+        fill: none;
+        stroke: #67d0ff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"/>
+  <g>
+    <path class="st3" d="M19.2,1.1h25.6c10.6,0,19.2,8.6,19.2,19.1v25.5c0,10.6-8.6,19.1-19.2,19.1h-25.6c-10.6,0-19.2-8.6-19.2-19.1v-25.5C0,9.7,8.6,1.1,19.2,1.1Z"/>
+    <path class="st1" d="M19.2,0h25.6c10.6,0,19.2,8.6,19.2,19.1v25.5c0,10.6-8.6,19.1-19.2,19.1h-25.6C8.6,63.7,0,55.1,0,44.6v-25.5C0,8.6,8.6,0,19.2,0Z"/>
+    <path class="st5" d="M46.8,12.5c-1.4,0-2.6.8-3.1,2.1l-13.7,31.8c-.7,1.7,0,3.7,1.8,4.5,1.7.7,3.8,0,4.5-1.8l13.7-31.8c.8-1.7,0-3.7-1.7-4.5-.5-.2-.9-.3-1.4-.3ZM20.6,23.9c-2.5,0-4.6,2-4.6,4.5s2,4.5,4.6,4.5,4.6-2,4.6-4.5-2-4.5-4.6-4.5ZM20.6,42.1c-2.5,0-4.6,2-4.6,4.5s2,4.5,4.6,4.5,4.6-2,4.6-4.5-2-4.5-4.6-4.5Z"/>
+    <ellipse class="st2" cx="20.6" cy="27.3" rx="4.6" ry="4.5"/>
+    <ellipse class="st2" cx="20.6" cy="45.5" rx="4.6" ry="4.5"/>
+    <path class="st6" d="M33.1,46.6l13.7-31.8"/>
+    <path class="st4" d="M19.2,0C8.6,0,0,8.5,0,19.1v1.1C0,9.7,8.6,1.1,19.2,1.1h25.6c10.6,0,19.2,8.5,19.2,19.1v-1.1c0-10.6-8.6-19.1-19.2-19.1h-25.6Z"/>
+  </g>
 </svg>

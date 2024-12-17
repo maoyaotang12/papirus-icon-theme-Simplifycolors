@@ -1,11 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect fill="#c41f5b" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
- <path opacity=".2" d="m12 7.9941v24h12v0.006l12-12h-12l12-12h-12v-0.00586h-12zm12 24.006h-12l12 12 12-12h-12z"/>
- <path fill="#fff" opacity=".2" d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <path opacity=".2" d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z"/>
- <path fill="#fff" d="m36 31h-12v12z"/>
- <path fill="#fff" d="m36 19h-12v12z"/>
- <path fill="#ea7aa2" d="m36 7h-12v12z"/>
- <path fill="#e0e0e0" d="m12 31h12v12z"/>
- <rect fill="#e0e0e0" width="12" height="24" x="12" y="7"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="48" height="48">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #c41f5b;
+      }
+
+      .st1, .st2, .st3 {
+        display: none;
+      }
+
+      .st2, .st4, .st3 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st5 {
+        fill: #ea7aa2;
+      }
+
+      .st6, .st3 {
+        fill: #fff;
+      }
+
+      .st7 {
+        fill: #e0e0e0;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"/>
+  <g>
+    <path class="st2" d="M0,59.9v2.3C0,64,1.4,65.4,3.2,65.4h57.7c1.8,0,3.2-1.4,3.2-3.2v-2.3c0,1.8-1.4,3.2-3.2,3.2H3.2C1.4,63.1,0,61.7,0,59.9H0Z"/>
+    <path class="st1" d="M3.2,0h57.7c1.8,0,3.2,1.4,3.2,3.2v57.8c0,1.8-1.4,3.2-3.2,3.2H3.2c-1.8,0-3.2-1.4-3.2-3.2V3.2C0,1.4,1.4,0,3.2,0Z"/>
+    <path class="st4" d="M13.7,5.7v36.7l18.3,18.4,18.3-18.4h-18.3l18.3-18.4h-18.3L50.3,5.7s-36.6,0-36.6,0Z"/>
+    <path class="st6" d="M50.3,41.3h-18.3v18.4l18.3-18.4Z"/>
+    <path class="st6" d="M50.3,23h-18.3v18.4l18.3-18.4Z"/>
+    <path class="st5" d="M50.3,4.6h-18.3v18.4L50.3,4.6Z"/>
+    <path class="st7" d="M13.7,41.3h18.3v18.4l-18.3-18.4Z"/>
+    <rect class="st7" x="13.7" y="4.6" width="18.3" height="36.7"/>
+    <path class="st3" d="M3.2,0C1.4,0,0,1.4,0,3.2v1.2C0,2.6,1.4,1.2,3.2,1.2h57.7c1.8,0,3.2,1.4,3.2,3.2v-1.2c0-1.8-1.4-3.2-3.2-3.2H3.2Z"/>
+  </g>
 </svg>

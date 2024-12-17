@@ -1,17 +1,71 @@
-<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(2,0,0,2,2,2)">
-  <path d="m9 1.5v4h4v-4zm4 4v4h4v-4zm4 4v4h4v-4zm0 4h-4v4h4zm-4 4h-4v4h4zm-4 0v-4h-4v4zm-4-4v-4h-4v4zm0-4h4v-4h-4z" style="opacity:.2"/>
-  <rect x="1" y="9" width="4" height="4" style="fill:#00ff00"/>
-  <rect x="9" y="17" width="4" height="4" style="fill:#28acfe"/>
-  <rect x="1" y="9" width="4" height="4" style="fill:#fefe26"/>
-  <rect x="13" y="13" width="4" height="4" style="fill:#82759b"/>
-  <rect transform="scale(-1,1)" x="-21" y="9" width="4" height="4" style="fill:#fe76a7"/>
-  <rect x="5" y="13" width="4" height="4" style="fill:#00e655"/>
-  <rect x="5" y="5" width="4" height="4" style="fill:#fea200"/>
-  <rect x="13" y="5" width="4" height="4" style="fill:#fecba9"/>
-  <rect x="9" y="1" width="4" height="4" style="fill:#fe004c"/>
-  <path d="m9 5.5v4h-4v4h4v4h4v-4h4v-4h-4v-4z" style="opacity:.2"/>
-  <path d="m9 5v4h-4v4h4v4h4v-4h4v-4h-4v-4z" style="fill:#fdf0e8"/>
-  <path d="m9 1v0.5h4v-0.5zm-4 4v0.5h4v-0.5zm8 0v0.5h4v-0.5zm-12 4v0.5h4v-0.5zm16 0v0.5h4v-0.5z" style="fill:#ffffff;opacity:.2"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="48" height="48">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        display: none;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st3, .st2 {
+        fill: #fff;
+      }
+
+      .st4 {
+        fill: #28acfe;
+      }
+
+      .st5 {
+        fill: #00e655;
+      }
+
+      .st6 {
+        fill: #fe004c;
+      }
+
+      .st7 {
+        fill: #fefe26;
+      }
+
+      .st8 {
+        fill: #82759b;
+      }
+
+      .st9 {
+        fill: #fdf0e8;
+      }
+
+      .st10 {
+        fill: #fecba9;
+      }
+
+      .st11 {
+        fill: #fe76a7;
+      }
+
+      .st12 {
+        fill: #fea200;
+      }
+    </style>
+  </defs>
+  <path class="st3" d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"/>
+  <g>
+    <path class="st0" d="M25.1,1.1v12.5h13.7V1.1h-13.7ZM38.8,13.7v12.5h12.6v-12.5h-12.6ZM51.4,26.2v13.7h12.6v-13.7h-12.6ZM51.4,39.9h-12.6v12.5h12.6v-12.5ZM38.8,52.4h-13.7v12.5h13.7v-12.5ZM25.1,52.4v-12.5h-12.6v12.5h12.6ZM12.5,39.9v-13.7H-.1v13.7h12.6ZM12.5,26.2h12.6v-12.5h-12.6v12.5Z"/>
+    <rect class="st12" x="12.5" y="12.5" width="12.6" height="12.5"/>
+    <rect class="st6" x="25.1" width="13.7" height="12.5"/>
+    <rect class="st10" x="38.8" y="12.5" width="12.6" height="12.5"/>
+    <rect class="st7" x="-.1" y="25.1" width="12.6" height="13.7"/>
+    <rect class="st8" x="38.8" y="38.7" width="12.6" height="12.5"/>
+    <rect class="st4" x="25.1" y="51.2" width="13.7" height="12.5"/>
+    <rect class="st5" x="12.5" y="38.7" width="12.6" height="12.5"/>
+    <rect class="st11" x="51.4" y="25.1" width="12.6" height="13.7"/>
+    <path class="st1" d="M25.1,13.7v12.5h-12.6v13.7h12.6v12.5h13.7v-12.5h12.6v-13.7h-12.6v-12.5h-13.7Z"/>
+    <path class="st9" d="M25.1,12.5v12.5h-12.6v13.7h12.6v12.5h13.7v-12.5h12.6v-13.7h-12.6v-12.5h-13.7Z"/>
+    <path class="st2" d="M25.1,0v1.1h13.7V0h-13.7ZM12.5,12.5v1.1h12.6v-1.1h-12.6ZM38.8,12.5v1.1h12.6v-1.1h-12.6ZM-.1,25.1v1.1h12.6v-1.1H-.1ZM51.4,25.1v1.1h12.6v-1.1h-12.6Z"/>
+  </g>
 </svg>

@@ -1,4 +1,193 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect width="16" height="16" ry="6" style="fill:#971212"/>
- <path d="m2 5s1 2 5 2c0-4-2-5-2-5h6s-2 1-2 5c4 0 5-2 5-2v6s-1-2-5-2c0 4 2 5 2 5h-6s2-1 2-5c-4 0-5 2-5 2z" style="fill:#f55500"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="16" height="16"
+   sodipodi:docname="broken-sword.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="28.912281"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient><style
+       id="style1-2">
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st6, .st7, .st5, .st8 {
+        display: none;
+      }
+
+      .st0, .st3, .st4, .st5 {
+        opacity: .2;
+      }
+
+      .st1 {
+        opacity: .1;
+      }
+
+      .st1, .st9, .st2, .st4, .st5 {
+        fill: #fff;
+      }
+
+      .st10 {
+        fill: #3f3f3f;
+      }
+
+      .st2 {
+        opacity: .3;
+      }
+
+      .st6 {
+        fill: #505d6e;
+      }
+
+      .st11, .st8 {
+        fill: #ffcca3;
+      }
+
+      .st12 {
+        fill: #fed24c;
+      }
+
+      .st13 {
+        fill: #c2352a;
+      }
+    </style></defs><path
+     class="st1"
+     d="M 47.5,64.1 H 13.8 C 6.2,64.1 0,57.8 0,50.3 V 13.7 C 0,6.2 6.2,0 13.7,0 H 50.3 C 57.8,0 64,6.2 64,13.7 V 50.3 C 64,57.8 57.8,64 50.3,64 h -2.9 0.1 z"
+     id="path6"
+     style="display:inline;opacity:1;fill:#971212;fill-opacity:1" /><g
+     id="g27"
+     transform="matrix(1.1403509,0,0,1.1395302,-4.3976608,-4.5435005)"><path
+       d="m 10,22 c 0,0 3.799999,6.799999 17.799998,6.799999 C 27.799998,14.799999 21,11 21,11 h 22 c 0,0 -6.800003,3.799999 -6.800003,17.799999 C 50.199996,28.799999 54,22 54,22 V 44 C 54,44 50.199996,37.199999 36.199997,37.199999 36.199997,51.199999 43,55 43,55 H 21 c 0,0 6.799998,-3.800001 6.799998,-17.800001 C 13.799999,37.199999 10,44 10,44 Z"
+       style="opacity:0.2"
+       id="path2" /><path
+       d="m 10,21 c 0,0 3.799999,6.799999 17.799998,6.799999 C 27.799998,13.799999 21,10 21,10 h 22 c 0,0 -6.800003,3.799999 -6.800003,17.799999 C 50.199996,27.799999 54,21 54,21 V 43 C 54,43 50.199996,36.199999 36.199997,36.199999 36.199997,50.199999 43,54 43,54 H 21 c 0,0 6.799998,-3.800001 6.799998,-17.800001 C 13.799999,36.199999 10,43 10,43 Z"
+       style="fill:#f55500"
+       id="path3" /><path
+       d="m 21,10 c 0,0 0.516465,0.300163 1.255859,1 H 41.742188 C 42.481918,10.299735 43,10 43,10 Z M 10,21 v 1 c 0,0 3.800782,6.800781 17.800781,6.800781 0,-0.34891 -0.02301,-0.663661 -0.03125,-1 C 13.796281,27.790216 10,21 10,21 Z m 44,0 c 0,0 -3.796281,6.790216 -17.769531,6.800781 -0.0082,0.336347 -0.03125,0.651081 -0.03125,1 C 50.199218,28.800781 54,22 54,22 Z M 27.769531,37.199219 C 27.447273,50.358442 21,54 21,54 h 1.255859 c 1.963342,-1.858304 5.544922,-6.630799 5.544922,-16.800781 -0.01089,0 -0.02037,-8e-6 -0.03125,0 z m 8.429688,0 c 0,10.168912 3.57949,14.942056 5.542969,16.800781 H 43 c 0,0 -6.447266,-3.641577 -6.769531,-16.800781 -0.01088,-8e-6 -0.02036,0 -0.03125,0 z"
+       style="opacity:0.2;fill:#ffffff"
+       id="path5" /></g></svg>

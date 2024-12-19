@@ -1,8 +1,154 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <rect style="opacity:0.2" width="20" height="20" x="1" y="1.5" rx="1" ry="1"/>
- <path style="fill:#ed1c24" d="m 11,1 v 10.5 l 9.798828,9.097656 C 20.923823,20.430737 21,20.225502 21,20 V 2 C 21,1.446 20.554,1 20,1 Z"/>
- <path style="fill:#ffc90e" d="M 2,1 C 1.446,1 1,1.446 1,2 v 18 c 0,0.225502 0.076177,0.430737 0.2011719,0.597656 L 11,11.5 V 1 Z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 2 C 21,1.446 20.554,1 20,1 Z"/>
- <path style="fill:#6492ca" d="M 11,1 1.2011719,20.597656 C 1.3832578,20.840814 1.6715019,21 2,21 h 18 c 0.328498,0 0.616742,-0.159186 0.798828,-0.402344 z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 11,1 1.2011719,20.597656 c 0.04763,0.06361 0.1030846,0.120131 0.1640625,0.170898 L 11,1.5 20.634765,20.768554 c 0.06098,-0.05077 0.116433,-0.107292 0.164063,-0.170898 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="22" height="22"
+   sodipodi:docname="asciidocfx.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="44.25731"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M 47.5,64.1 H 13.8 C 6.2,64.1 0,57.8 0,50.3 V 13.7 C 0,6.2 6.2,0 13.7,0 H 50.3 C 57.8,0 64,6.2 64,13.7 V 50.3 C 64,57.8 57.8,64 50.3,64 h -2.9 0.1 z"
+     id="path6"
+     style="display:none;fill:#ffffff;fill-opacity:1" /><g
+     id="g26"
+     transform="matrix(1.1420217,0,0,1.1460962,-4.4979115,-4.5463732)"><path
+       style="fill:#ed1c24"
+       d="m 32,4 v 29.4 l 24.569124,22.779317 c 1.74282,-1.691971 3.600603,-5.61449 3.594738,-7.959713 L 60.08193,15.453836 C 60.067842,9.8198649 54.163051,4 49.170739,4 Z"
+       id="path1"
+       sodipodi:nodetypes="cccsssc" /><path
+       style="fill:#ffc90e"
+       d="M 15.730505,4.08164 C 8.9350332,4.1157395 3.9904362,10.310489 4,14.392517 l 0.081931,34.970047 c 0.00148,0.631404 0.4590882,4.308382 2.6934936,5.673794 L 32,33.4 V 4 Z"
+       id="path2"
+       sodipodi:nodetypes="ssscccs" /><path
+       style="fill:#6492ca"
+       d="M 32,4 6.7754248,55.362918 c 0.6737029,2.232003 6.3145732,4.555442 7.8899742,4.555442 h 32.53899 c 4.197044,0 8.445239,-2.486719 9.282804,-3.657403 z"
+       id="path3"
+       sodipodi:nodetypes="ccsscc" /><path
+       style="opacity:0.2;fill:#ffffff;stroke-width:0.926398"
+       d="M 31.754206,4 6.5288497,55.22446 c 0.088641,0.120187 0.1899503,0.227332 0.2998744,0.32635 L 31.754206,4.9334753 56.679689,55.55081 c 0.109923,-0.09902 0.211232,-0.206163 0.299874,-0.32635 z"
+       id="path4" /></g></svg>

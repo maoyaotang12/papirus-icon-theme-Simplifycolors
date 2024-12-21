@@ -1,15 +1,190 @@
-<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(2,0,0,2,2,2)">
-  <path d="m11 1.5c4 0 8 5 8 11s-3.986135 9-8 9c-4.0138649 0-8-3-8-9s4-11 8-11z" style="opacity:.2"/>
-  <path d="m11 1c4 0 8 5 8 11s-3.986135 9-8 9c-4.0138649 0-8-3-8-9s4-11 8-11z" style="fill:#db8bdc"/>
-  <circle cx="11" cy="19.5" r="1" style="opacity:.2"/>
-  <path d="m 11,3 c -3,0 -6,5 -6,9 0,1.665202 0.5242621,3.151877 1.3476562,4.326172 L 7,16 l 2,1 2,-1 2,1 2,-1 0.652344,0.326172 C 16.475738,15.151877 17,13.665202 17,12 17,8 14,3 11,3 Z" style="fill:#b356c3"/>
-  <rect x="7" y="6" width="8" height="8" ry="1" style="fill:#333333"/>
-  <circle cx="11" cy="19" r="1" style="fill:#f9f9f9"/>
-  <circle cx="14" cy="18.5" r="1" style="opacity:.2"/>
-  <circle cx="14" cy="18" r="1" style="fill:#f9f9f9"/>
-  <circle cx="8" cy="18.5" r="1" style="opacity:.2"/>
-  <circle cx="8" cy="18" r="1" style="fill:#f9f9f9"/>
-  <path d="M 11,1 C 7,1 3,6 3,12 3,12.08668 3.00811,12.166521 3.00977,12.251953 3.1188406,6.3637208 7.0556954,1.5 11,1.5 c 3.944305,0 7.881159,4.8637208 7.990234,10.751953 C 18.991886,12.166521 19,12.086685 19,12 19,6 15,1 11,1 Z" style="fill:#ffffff;opacity:.2"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="48" height="48"
+   sodipodi:docname="com.github.appadeia.Taigo.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="24.608187"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1"
+     showguides="true"><sodipodi:guide
+       position="25.533397,50.243067"
+       orientation="0,-1"
+       id="guide26"
+       inkscape:locked="false" /><sodipodi:guide
+       position="50.579444,53.318274"
+       orientation="1,0"
+       id="guide27"
+       inkscape:locked="false" /></sodipodi:namedview><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M 47.5,64.1 H 13.8 C 6.2,64.1 0,57.8 0,50.3 V 13.7 C 0,6.2 6.2,0 13.7,0 H 50.3 C 57.8,0 64,6.2 64,13.7 V 50.3 C 64,57.8 57.8,64 50.3,64 h -2.9 0.1 z"
+     id="path6"
+     style="fill:#db8bdc;fill-opacity:1"
+     sodipodi:nodetypes="cssssssssccc" /><g
+     id="g27"
+     transform="matrix(1.3885075,0,0,1.1346055,-12.385456,-4.2197086)"><path
+       d="M 32,8 C 22,8 13,23 13,34 c 0,5.298676 1.56481,10.203144 4.253906,14.033203 L 22,46 l 5,2 5,-2 5,2 5,-2 4.746094,2.033203 C 49.43519,44.203144 51,39.298676 51,34 51,23 41,8 32,8 Z"
+       style="fill:#b356c3"
+       id="path3" /><circle
+       cx="22"
+       cy="53"
+       r="3"
+       style="opacity:0.2"
+       id="circle3" /><circle
+       cx="22"
+       cy="52"
+       r="3"
+       style="fill:#ffffff"
+       id="circle4" /><circle
+       cx="32"
+       cy="55"
+       r="3"
+       style="opacity:0.2"
+       id="circle5" /><circle
+       cx="32"
+       cy="54"
+       r="3"
+       style="fill:#ffffff"
+       id="circle6" /><circle
+       cx="42"
+       cy="53"
+       r="3"
+       style="opacity:0.2"
+       id="circle7" /><circle
+       cx="42"
+       cy="52"
+       r="3"
+       style="fill:#ffffff"
+       id="circle8" /><rect
+       x="20"
+       y="18"
+       width="24"
+       height="24"
+       rx="3"
+       ry="3"
+       style="fill:#333333"
+       id="rect8" /></g></svg>

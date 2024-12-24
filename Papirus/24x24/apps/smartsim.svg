@@ -1,27 +1,282 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(1,1)">
-  <g transform="translate(-1,-1)" style="fill:#8e8e8e">
-   <rect transform="rotate(90)" x="15" y="-21" width="1" height="19"/>
-   <rect transform="rotate(90)" x="13" y="-21" width="1" height="19"/>
-   <rect transform="rotate(90)" x="11" y="-21" width="1" height="19"/>
-   <rect transform="rotate(90)" x="9" y="-21" width="1" height="19"/>
-   <rect transform="rotate(90)" x="17" y="-21" width="1" height="19"/>
-   <rect transform="rotate(90)" x="19" y="-21" width="1" height="19"/>
-   <rect transform="rotate(90)" x="7" y="-21" width="1" height="19"/>
-   <rect transform="rotate(90)" x="5" y="-21" width="1" height="19"/>
-   <rect x="12" y="3" width="1" height="19"/>
-   <rect x="10" y="3" width="1" height="19"/>
-   <rect x="8" y="3" width="1" height="19"/>
-   <rect x="6" y="3" width="1" height="19"/>
-   <rect x="14" y="3" width="1" height="19"/>
-   <rect x="16" y="3" width="1" height="19"/>
-   <rect x="18" y="3" width="1" height="19"/>
-   <rect x="4" y="3" width="1" height="19"/>
-  </g>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-20.5" y="-19" width="17" height="17" rx=".94400001" ry=".94400001" style="opacity:.2"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-20" y="-19" width="17" height="17" rx=".94400001" ry=".94400001" style="fill:#b7b7b7"/>
-  <path d="M 2.9453,3 C 2.4221,3 2,3.4221 2,3.9453 v 0.5 C 2,3.9221 2.4221,3.5 2.9453,3.5 H 18.055 C 18.578,3.5 19,3.9221 19,4.4453 v -0.5 C 19,3.4221 18.578,3 18.055,3 Z" style="fill:#ffffff;opacity:.2"/>
-  <path d="m14 9.5v-1s0-1-1-1h-5c-1 0-1 1-1 1v4s0 1 1 1h4v1h-5v1s0 1 1 1h5c1 0 1-1 1-1v-4s0-1-1-1h-4v-1z" style="opacity:.1"/>
-  <path d="m14 9v-1s0-1-1-1h-5c-1 0-1 1-1 1v4s0 1 1 1h4v1h-5v1s0 1 1 1h5c1 0 1-1 1-1v-4s0-1-1-1h-4v-1z" style="fill:#008282"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="24" height="24"
+   sodipodi:docname="smartsim.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient><linearGradient
+       id="linearGradient1261"><stop
+         style="stop-color:#4f4f4f"
+         offset="0"
+         id="stop1-7" /><stop
+         style="stop-color:#3f3f3f"
+         offset="1"
+         id="stop2-0" /></linearGradient><linearGradient
+       id="linearGradient1263"
+       x1="34.241"
+       x2="37.169"
+       y1="38.945"
+       y2="30.342"
+       gradientTransform="matrix(1.3919157,0,0,1.3888889,-1.321022,-0.4865665)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1261" /></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#e4e4e4;fill-opacity:1" /><g
+     id="g26"
+     transform="translate(-1)"><g
+       transform="translate(1)"
+       id="g18"><g
+         style="fill:#8e8e8e"
+         id="g16"><rect
+           transform="rotate(90)"
+           x="40"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect1" /><rect
+           transform="rotate(90)"
+           x="46"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect2" /><rect
+           transform="rotate(90)"
+           x="52"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect3" /><rect
+           transform="rotate(90)"
+           x="22"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect4" /><rect
+           transform="rotate(90)"
+           x="28"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect5" /><rect
+           transform="rotate(90)"
+           x="34"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect6" /><rect
+           transform="rotate(90)"
+           x="16"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect7" /><rect
+           transform="rotate(90)"
+           x="10"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect8" /><rect
+           transform="scale(-1)"
+           x="-24"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect9" /><rect
+           transform="scale(-1)"
+           x="-18"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect10" /><rect
+           transform="scale(-1)"
+           x="-12"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect11" /><rect
+           transform="scale(-1)"
+           x="-42"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect12" /><rect
+           transform="scale(-1)"
+           x="-36"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect13" /><rect
+           transform="scale(-1)"
+           x="-30"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect14" /><rect
+           transform="scale(-1)"
+           x="-48"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect15" /><rect
+           transform="scale(-1)"
+           x="-54"
+           y="-58"
+           width="2"
+           height="52"
+           id="rect16" /></g><rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         x="-57"
+         y="-56"
+         width="48"
+         height="48"
+         rx="2.5"
+         ry="2.5"
+         style="opacity:0.2"
+         id="rect17" /><rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         x="-56"
+         y="-56"
+         width="48"
+         height="48"
+         rx="2.5"
+         ry="2.5"
+         style="fill:#b7b7b7"
+         id="rect18" /><path
+         d="M 10.5,8 C 9.115,8 8,9.115 8,10.5 v 1 C 8,10.115 9.115,9 10.5,9 h 43 c 1.385,0 2.5,1.115 2.5,2.5 v -1 C 56,9.115 54.885,8 53.5,8 Z"
+         style="opacity:0.2;fill:#ffffff"
+         id="path18" /></g><path
+       d="m 23,39 v 3 c 0,0 0,4 4,4 h 12 c 4,0 4,-4 4,-4 v -8 c 0,0 0,-4 -4,-4 h -9 c -2,0 -2,-2 -2,-2 v -1 c 0,0 0,-2 2,-2 h 6 c 2,0 2,2 2,2 h 5 v -3 c 0,0 0,-4 -4,-4 H 27 c -4,0 -4,4 -4,4 v 9 c 0,0 0,3 4,3 h 9 c 2,0 2,2 2,2 v 1 c 0,0 0,2 -2,2 h -6 c -2,0 -2,-2 -2,-2 z"
+       style="opacity:0.1"
+       id="path19" /><path
+       d="m 23,38 v 3 c 0,0 0,4 4,4 h 12 c 4,0 4,-4 4,-4 v -8 c 0,0 0,-4 -4,-4 h -9 c -2,0 -2,-2 -2,-2 v -1 c 0,0 0,-2 2,-2 h 6 c 2,0 2,2 2,2 h 5 v -3 c 0,0 0,-4 -4,-4 H 27 c -4,0 -4,4 -4,4 v 9 c 0,0 0,3 4,3 h 9 c 2,0 2,2 2,2 v 1 c 0,0 0,2 -2,2 h -6 c -2,0 -2,-2 -2,-2 z"
+       style="fill:#008282"
+       id="path20" /></g></svg>

@@ -1,6 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="28" height="25" x="2" y="4" rx="2.1" ry="2.1"/>
- <rect style="fill:#e4e4e4" width="28" height="25" x="2" y="3" rx="2.1" ry="2.1"/>
- <path style="opacity:0.4" d="M 7.5 10 A 1.5 1.5 0 0 0 6 11.5 A 1.5 1.5 0 0 0 7.5 13 A 1.5 1.5 0 0 0 8.9140625 12 L 12.011719 12 A 8.0000019 8.0000019 0 0 0 8.0546875 18 L 6.6660156 18 C 6.2966823 18 6 18.296682 6 18.666016 L 6 21.333984 C 6 21.703318 6.2966823 22 6.6660156 22 L 9.3339844 22 C 9.7033177 22 10 21.703318 10 21.333984 L 10 18.666016 C 10 18.319633 9.7356122 18.047512 9.3984375 18.013672 A 6.6666682 6.6666682 0 0 1 13.900391 12.607422 L 13.900391 13.333984 C 13.900391 13.703318 14.197073 14 14.566406 14 L 17.232422 14 C 17.601755 14 17.900391 13.703318 17.900391 13.333984 L 17.900391 12.542969 A 6.6666682 6.6666682 0 0 1 22.603516 18.013672 C 22.265401 18.046616 22 18.318966 22 18.666016 L 22 21.333984 C 22 21.703318 22.296682 22 22.666016 22 L 25.333984 22 C 25.703318 22 26 21.703318 26 21.333984 L 26 18.666016 C 26 18.296682 25.703318 18 25.333984 18 L 23.945312 18 A 8.0000019 8.0000019 0 0 0 19.992188 12 L 23.087891 12 A 1.5 1.5 0 0 0 24.5 13 A 1.5 1.5 0 0 0 26 11.5 A 1.5 1.5 0 0 0 24.5 10 A 1.5 1.5 0 0 0 23.085938 11 L 17.900391 11 L 17.900391 10.666016 C 17.900391 10.296682 17.601755 10 17.232422 10 L 14.566406 10 C 14.197073 10 13.900391 10.296682 13.900391 10.666016 L 13.900391 11 L 8.9121094 11 A 1.5 1.5 0 0 0 7.5 10 z"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 4.0996094 3 C 2.9362094 3 2 3.9362094 2 5.0996094 L 2 6.0996094 C 2 4.9362094 2.9362094 4 4.0996094 4 L 27.900391 4 C 29.063791 4 30 4.9362094 30 6.0996094 L 30 5.0996094 C 30 3.9362094 29.063791 3 27.900391 3 L 4.0996094 3 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="32"
+   height="32"
+   sodipodi:docname="image-svg+xml-compressed.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.453125"
+     inkscape:cx="31.94085"
+     inkscape:cy="36.672828"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e4e4e4;fill-opacity:1" /><path
+     class="st2"
+     d="M 83.028096,2.8391867 V 32.039187 c 0,3.2 2.124263,11.6 11.780006,11.6 H 119.5268 Z"
+     id="path2"
+     style="fill:#b6b6b6;stroke-width:0.982636;fill-opacity:1" /><path
+     class="st2"
+     d="M 82.565621,0.11090591 V 29.310906 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599999 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#e9e9e9;fill-opacity:1" /><g
+     id="g3"
+     transform="matrix(2,0,0,2,-1.4731978,10.709797)"><path
+       style="opacity:0.4"
+       d="M 29.5,19 C 28.669,19 28,19.669 28,20.5 V 22 H 16.5 a 2.5,2.5 0 0 0 -2,-1 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2.5,2.5 2.5,2.5 0 0 0 2,-1 h 5.693359 A 17.5,17.5 0 0 0 15.285156,36 H 13.5 C 12.669,36 12,36.669 12,37.5 v 6 c 0,0.831 0.669,1.5 1.5,1.5 h 6 c 0.831,0 1.5,-0.669 1.5,-1.5 v -6 C 21,36.669 20.331,36 19.5,36 H 18.259766 A 14.583334,14.583334 0 0 1 28,25.271484 V 26.5 c 0,0.831 0.669,1.5 1.5,1.5 h 6 C 36.331,28 37,27.331 37,26.5 V 25.269531 A 14.583334,14.583334 0 0 1 46.740234,36 H 45.5 C 44.669,36 44,36.669 44,37.5 v 6 c 0,0.831 0.669,1.5 1.5,1.5 h 6 c 0.831,0 1.5,-0.669 1.5,-1.5 v -6 C 53,36.669 52.331,36 51.5,36 H 49.716797 A 17.5,17.5 0 0 0 42.806641,25 H 48.5 a 2.5,2.5 0 0 0 2,1 2.5,2.5 0 0 0 2.5,-2.5 2.5,2.5 0 0 0 -2.5,-2.5 2.5,2.5 0 0 0 -2,1 H 37 V 20.5 C 37,19.669 36.331,19 35.5,19 Z"
+       id="path2-9" /></g></svg>

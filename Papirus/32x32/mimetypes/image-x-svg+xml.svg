@@ -1,14 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="28" height="25" x="2" y="4" rx="2.1" ry="2.1"/>
- <rect style="fill:#e4e4e4" width="28" height="25" x="2" y="3" rx="2.1" ry="2.1"/>
- <path style="fill:#363636" d="M 16.000002,10.933331 A 8.0000019,8.0000019 0 0 0 8,18.933333 8.0000019,8.0000019 0 0 0 8.028647,19.599999 h 1.3385416 a 6.6666682,6.6666682 0 0 1 -0.033854,-0.666666 6.6666682,6.6666682 0 0 1 6.6536464,-6.666669 6.6666682,6.6666682 0 0 1 0.01302,0 6.6666682,6.6666682 0 0 1 6.666668,6.666669 6.6666682,6.6666682 0 0 1 -0.03386,0.666666 h 1.33854 A 8.0000019,8.0000019 0 0 0 24,18.933333 8.0000019,8.0000019 0 0 0 15.999998,10.933331 Z"/>
- <path style="opacity:0.1" d="M 7.5,11 A 1.5,1.5 0 0 0 6,12.5 1.5,1.5 0 0 0 7.5,14 1.5,1.5 0 0 0 8.9140625,13 H 23.087891 A 1.5,1.5 0 0 0 24.5,14 1.5,1.5 0 0 0 26,12.5 1.5,1.5 0 0 0 24.5,11 1.5,1.5 0 0 0 23.085938,12 H 8.9121094 A 1.5,1.5 0 0 0 7.5,11 Z"/>
- <rect style="fill:#ff4b4b" width="15.4" height="1" x="8.3" y="11"/>
- <path style="opacity:0.1" d="m 14.566406,11 c -0.369333,0 -0.666015,0.296682 -0.666015,0.666016 v 2.667968 C 13.900391,14.703318 14.197073,15 14.566406,15 h 2.666016 c 0.369333,0 0.667969,-0.296682 0.667969,-0.666016 V 11.666016 C 17.900391,11.296682 17.601755,11 17.232422,11 Z M 6.6660156,19 C 6.2966823,19 6,19.296682 6,19.666016 v 2.667968 C 6,22.703318 6.2966823,23 6.6660156,23 H 9.3339844 C 9.7033177,23 10,22.703318 10,22.333984 V 19.666016 C 10,19.296682 9.7033177,19 9.3339844,19 Z M 22.666016,19 C 22.296682,19 22,19.296682 22,19.666016 v 2.667968 C 22,22.703318 22.296682,23 22.666016,23 h 2.667968 C 25.703318,23 26,22.703318 26,22.333984 V 19.666016 C 26,19.296682 25.703318,19 25.333984,19 Z"/>
- <rect style="fill:#3974e1" width="4" height="4" x="6" y="18" rx=".667" ry=".667"/>
- <rect style="fill:#3974e1" width="4" height="4" x="22" y="18" rx=".667" ry=".667"/>
- <circle style="fill:#ff4b4b" cx="24.5" cy="11.5" r="1.5"/>
- <rect style="fill:#3974e1" width="4" height="4" x="13.9" y="10" rx=".667" ry=".667"/>
- <circle style="fill:#ff4b4b" cx="7.5" cy="11.5" r="1.5"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 4.0996094 3 C 2.9362094 3 2 3.9362094 2 5.0996094 L 2 6.0996094 C 2 4.9362094 2.9362094 4 4.0996094 4 L 27.900391 4 C 29.063791 4 30 4.9362094 30 6.0996094 L 30 5.0996094 C 30 3.9362094 29.063791 3 27.900391 3 L 4.0996094 3 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="32"
+   height="32"
+   sodipodi:docname="image-x-svg+xml.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32.093567"
+     inkscape:cy="26.19883"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e4e4e4;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#b6b6b6;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#cecece;fill-opacity:1" /><g
+     id="g1"
+     transform="matrix(2,0,0,2,-2.122807,12.327485)"><path
+       style="fill:#363636"
+       d="M 32.5,21.641666 A 17.5,17.5 0 0 0 15,39.141666 17.5,17.5 0 0 0 15.06267,40.6 h 2.928059 a 14.583334,14.583334 0 0 1 -0.07405,-1.458334 14.583334,14.583334 0 0 1 14.55485,-14.583332 14.583334,14.583334 0 0 1 0.02848,0 A 14.583334,14.583334 0 0 1 47.083334,39.141666 14.583334,14.583334 0 0 1 47.009281,40.6 h 2.92806 A 17.5,17.5 0 0 0 50,39.141666 a 17.5,17.5 0 0 0 -17.5,-17.5 z"
+       id="path2-0" /><path
+       style="opacity:0.1"
+       d="m 14.5,22 a 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2.5,2.5 2.5,2.5 0 0 0 2,-1 h 32 a 2.5,2.5 0 0 0 2,1 2.5,2.5 0 0 0 2.5,-2.5 2.5,2.5 0 0 0 -2.5,-2.5 2.5,2.5 0 0 0 -2,1 h -32 a 2.5,2.5 0 0 0 -2,-1 z"
+       id="path3" /><rect
+       style="fill:#ff4b4b"
+       width="33"
+       height="3"
+       x="16"
+       y="22"
+       id="rect3" /><path
+       style="opacity:0.1"
+       d="M 29.5,20 C 28.669,20 28,20.669 28,21.5 v 6 c 0,0.831 0.669,1.5 1.5,1.5 h 6 c 0.831,0 1.5,-0.669 1.5,-1.5 v -6 C 37,20.669 36.331,20 35.5,20 Z m -16,17 C 12.669,37 12,37.669 12,38.5 v 6 c 0,0.831 0.669,1.5 1.5,1.5 h 6 c 0.831,0 1.5,-0.669 1.5,-1.5 v -6 C 21,37.669 20.331,37 19.5,37 Z m 32,0 C 44.669,37 44,37.669 44,38.5 v 6 c 0,0.831 0.669,1.5 1.5,1.5 h 6 c 0.831,0 1.5,-0.669 1.5,-1.5 v -6 C 53,37.669 52.331,37 51.5,37 Z"
+       id="path4" /><rect
+       style="fill:#3974e1"
+       width="9"
+       height="9"
+       x="12"
+       y="36"
+       rx="1.5"
+       ry="1.5"
+       id="rect4" /><rect
+       style="fill:#3974e1"
+       width="9"
+       height="9"
+       x="44"
+       y="36"
+       rx="1.5"
+       ry="1.5"
+       id="rect5" /><circle
+       style="fill:#ff4b4b"
+       cx="50.5"
+       cy="23.5"
+       r="2.5"
+       id="circle5" /><rect
+       style="fill:#3974e1"
+       width="9"
+       height="9"
+       x="28"
+       y="19"
+       rx="1.5"
+       ry="1.5"
+       id="rect6" /><circle
+       style="fill:#ff4b4b"
+       cx="14.5"
+       cy="23.5"
+       r="2.5"
+       id="circle6" /></g></svg>

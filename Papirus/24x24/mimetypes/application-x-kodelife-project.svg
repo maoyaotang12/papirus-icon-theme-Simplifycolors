@@ -1,13 +1,68 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(1,1)">
-  <g transform="translate(-1,-1)">
-   <path d="m5 2.5c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-6-6z" style="opacity:.2"/>
-   <path d="m5 2c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-5-1-1-5z" style="fill:#4f4f4f"/>
-   <path d="m20 8.5-6-6v5c0 0.554 0.446 1 1 1z" style="opacity:.2"/>
-   <path d="m20 8-6-6v5c0 0.554 0.446 1 1 1z" style="fill:#696969"/>
-   <path d="m5 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h9v-0.5z" style="fill:#ffffff;opacity:.1"/>
-  </g>
-  <path d="m7 9.5c-0.554 0-1 0.446-1 1v4l6-5zm7 0-4.5878906 4.013672 0.0332031-0.013672 6.2460935 5.716797c0.18849-0.181662 0.308594-0.433129 0.308594-0.716797v-8c0-0.554-0.446-1-1-1zm-5.6386719 4.933594-2.3613281 2.066406v2c0 0.554 0.446 1 1 1h7z" style="opacity:.2"/>
-  <path d="M 7,9 C 6.446,9 6,9.446 6,10 v 4 L 12,9 Z M 14,9 9.4121094,13.013672 9.4453125,13 15.691406,18.716797 C 15.879896,18.535135 16,18.283668 16,18 V 10 C 16,9.446 15.554,9 15,9 Z M 8.3613281,13.933594 6,16 v 2 c 0,0.554 0.446,1 1,1 h 7 z" style="fill:#ffffff"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="24"
+   height="24"
+   sodipodi:docname="application-x-kodelife-project.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32.093567"
+     inkscape:cy="26.19883"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#4f4f4f;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#3f3f3f;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#696969;fill-opacity:1" /><g
+     id="g2"
+     transform="matrix(2.5443913,0,0,2.2790602,-17.420521,-9.5314456)"><path
+       style="opacity:0.2"
+       d="M 22.666667,30 C 21.189333,30 20,31.189333 20,32.666667 v 8.666666 L 33.333333,30 Z m 16,0 -10.656251,9.132811 15.179688,14.114584 C 43.689097,52.76335 44,52.086657 44,51.333333 V 32.666667 C 44,31.189333 42.810667,30 41.333333,30 Z M 25.341146,41.421874 20,46 v 5.333333 C 20,52.810667 21.189333,54 22.666667,54 h 16 z"
+       id="path6" /><path
+       style="fill:#ffffff"
+       d="M 22.666667,29 C 21.189333,29 20,30.189333 20,31.666667 v 8.666666 L 33.333333,29 Z m 16,0 -10.656251,9.132811 15.179688,14.114584 C 43.689097,51.76335 44,51.086657 44,50.333333 V 31.666667 C 44,30.189333 42.810667,29 41.333333,29 Z M 25.341146,40.421874 20,45 v 5.333333 C 20,51.810667 21.189333,53 22.666667,53 h 16 z"
+       id="path7" /></g></svg>

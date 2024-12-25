@@ -1,9 +1,122 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m5 2.5c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-6-6z" style="opacity:.2"/>
- <path d="m5 2c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-5-1-1-5z" style="fill:#a7a7a7"/>
- <path d="m20 8.5-6-6v5c0 0.554 0.446 1 1 1z" style="opacity:.2"/>
- <path d="m20 8-6-6v5c0 0.554 0.446 1 1 1z" style="fill:#c0c0c0"/>
- <path d="m5 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h9v-0.5h-9z" style="fill:#ffffff;opacity:.2"/>
- <path d="m10 9.5c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1zm0.5 1h3c0.277 0 0.5 0.223 0.5 0.5v2c0 0.277-0.223 0.5-0.5 0.5h-3c-0.277 0-0.5-0.223-0.5-0.5v-2c0-0.277 0.223-0.5 0.5-0.5zm-0.5 5c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1zm0.5 1h3c0.277 0 0.5 0.223 0.5 0.5v2c0 0.277-0.223 0.5-0.5 0.5h-3c-0.277 0-0.5-0.223-0.5-0.5v-2c0-0.277 0.223-0.5 0.5-0.5z" style="opacity:.2"/>
- <path d="m10 9c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1zm0.5 1h3c0.277 0 0.5 0.223 0.5 0.5v2c0 0.277-0.223 0.5-0.5 0.5h-3c-0.277 0-0.5-0.223-0.5-0.5v-2c0-0.277 0.223-0.5 0.5-0.5zm-0.5 5c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1zm0.5 1h3c0.277 0 0.5 0.223 0.5 0.5v2c0 0.277-0.223 0.5-0.5 0.5h-3c-0.277 0-0.5-0.223-0.5-0.5v-2c0-0.277 0.223-0.5 0.5-0.5z" style="fill:#ffffff"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="24"
+   height="24"
+   sodipodi:docname="application-x-nintendo-ds-rom.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="26.292398"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1"
+     showguides="true"><sodipodi:guide
+       position="7.6134526,83.439664"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" /><sodipodi:guide
+       position="120.24109,71.856006"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" /></sodipodi:namedview><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style><style
+       id="style1-6">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style><style
+       id="style1-8">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style><style
+       id="style1-0">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#a7a7a7;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#868686;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#c0c0c0;fill-opacity:1" /><g
+     id="g12"
+     transform="matrix(2.5614035,0,0,2.2823433,-17.964912,-9.0767415)"><path
+       style="opacity:0.2"
+       d="M 24.857422,27 C 23.274565,27 22,28.249581 22,29.800781 v 8.398438 C 22,39.750419 23.274565,41 24.857422,41 H 39.142578 C 40.725435,41 42,39.750419 42,38.199219 V 29.800781 C 42,28.249581 40.725435,27 39.142578,27 Z m 1.542969,3 H 37.599609 C 38.375209,30 39,30.595318 39,31.333984 v 5.332032 C 39,37.404682 38.375209,38 37.599609,38 H 26.400391 C 25.624791,38 25,37.404682 25,36.666016 V 31.333984 C 25,30.595318 25.624791,30 26.400391,30 Z M 24.857422,43 C 23.274565,43 22,44.249581 22,45.800781 v 8.398438 C 22,55.750419 23.274565,57 24.857422,57 H 39.142578 C 40.725435,57 42,55.750419 42,54.199219 V 45.800781 C 42,44.249581 40.725435,43 39.142578,43 Z m 1.542969,3 H 37.599609 C 38.375209,46 39,46.595318 39,47.333984 v 5.332032 C 39,53.404682 38.375209,54 37.599609,54 H 26.400391 C 25.624791,54 25,53.404682 25,52.666016 V 47.333984 C 25,46.595318 25.624791,46 26.400391,46 Z"
+       id="path6" /><path
+       style="fill:#ffffff"
+       d="M 24.857422,26 C 23.274565,26 22,27.249581 22,28.800781 v 8.398438 C 22,38.750419 23.274565,40 24.857422,40 H 39.142578 C 40.725435,40 42,38.750419 42,37.199219 V 28.800781 C 42,27.249581 40.725435,26 39.142578,26 Z m 1.542969,3 H 37.599609 C 38.375209,29 39,29.595318 39,30.333984 v 5.332032 C 39,36.404682 38.375209,37 37.599609,37 H 26.400391 C 25.624791,37 25,36.404682 25,35.666016 V 30.333984 C 25,29.595318 25.624791,29 26.400391,29 Z M 24.857422,42 C 23.274565,42 22,43.249581 22,44.800781 v 8.398438 C 22,54.750419 23.274565,56 24.857422,56 H 39.142578 C 40.725435,56 42,54.750419 42,53.199219 V 44.800781 C 42,43.249581 40.725435,42 39.142578,42 Z m 1.542969,3 H 37.599609 C 38.375209,45 39,45.595318 39,46.333984 v 5.332032 C 39,52.404682 38.375209,53 37.599609,53 H 26.400391 C 25.624791,53 25,52.404682 25,51.666016 V 46.333984 C 25,45.595318 25.624791,45 26.400391,45 Z"
+       id="path7" /></g></svg>

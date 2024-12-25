@@ -1,17 +1,232 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <g style="fill:#b7b7b7">
-  <rect width="13" height="2" x="2" y="3"/>
-  <rect width="13" height="2" x="2" y="6"/>
-  <rect width="13" height="2" x="2" y="9"/>
-  <rect width="13" height="2" x="2" y="12"/>
- </g>
- <rect style="fill:#4f4f4f" width="11" height="15" x="3" y="1" rx=".6" ry=".6"/>
- <g style="fill:#ffffff;opacity:0.4">
-  <rect width="1" height="2" x="6" y="3"/>
-  <rect width="1" height="4" x="6" y="6"/>
-  <rect width="1" height="5" x="8" y="3"/>
-  <rect width="1" height="4" x="8" y="9"/>
-  <rect width="1" height="6" x="10" y="3"/>
-  <rect width="1" height="4" x="10" y="10"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="16"
+   height="16"
+   sodipodi:docname="application-x-firmware.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="33.777778"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1"
+     showguides="true"><sodipodi:guide
+       position="7.6134526,83.439664"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" /><sodipodi:guide
+       position="120.24109,71.856006"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" /></sodipodi:namedview><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style><style
+       id="style1-6">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style><style
+       id="style1-8">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style><style
+       id="style1-0">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e4e4e4;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#cdcdcd;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#fafafa;fill-opacity:1" /><g
+     id="g11"
+     transform="matrix(1.4994152,0,0,1.3660341,14.802339,35.299797)"><g
+       style="opacity:0.2"
+       transform="translate(0,1)"
+       id="g5"><rect
+         width="40"
+         height="5"
+         x="12"
+         y="12"
+         id="rect1" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="21"
+         id="rect2" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="30"
+         id="rect3" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="39"
+         id="rect4" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="48"
+         id="rect5" /></g><g
+       style="fill:#b7b7b7"
+       id="g10"><rect
+         width="40"
+         height="5"
+         x="12"
+         y="12"
+         id="rect6" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="21"
+         id="rect7" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="30"
+         id="rect8" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="39"
+         id="rect9" /><rect
+         width="40"
+         height="5"
+         x="12"
+         y="48"
+         id="rect10" /></g><rect
+       style="opacity:0.2"
+       width="36"
+       height="16"
+       x="14"
+       y="9"
+       rx="2.5"
+       ry="2.5"
+       id="rect11" /><rect
+       style="fill:#4f4f4f"
+       width="36"
+       height="16"
+       x="14"
+       y="8"
+       rx="2.5"
+       ry="2.5"
+       id="rect12" /><path
+       style="opacity:0.1;fill:#ffffff"
+       d="M 16.5,8 C 15.115,8 14,9.115 14,10.5 v 1 C 14,10.115 15.115,9 16.5,9 h 31 c 1.385,0 2.5,1.115 2.5,2.5 v -1 C 50,9.115 48.885,8 47.5,8 Z"
+       id="path12" /><g
+       style="opacity:0.4;fill:#ffffff"
+       id="g20"><rect
+         width="2"
+         height="6"
+         x="23"
+         y="14"
+         id="rect13" /><rect
+         width="2"
+         height="6"
+         x="23"
+         y="22"
+         id="rect14" /><rect
+         width="2"
+         height="12"
+         x="23"
+         y="30"
+         id="rect15" /><rect
+         width="2"
+         height="16"
+         x="31"
+         y="14"
+         id="rect16" /><rect
+         width="2"
+         height="16"
+         x="31"
+         y="32"
+         id="rect17" /><rect
+         width="2"
+         height="12"
+         x="39"
+         y="14"
+         id="rect18" /><rect
+         width="2"
+         height="6"
+         x="39"
+         y="28"
+         id="rect19" /><rect
+         width="2"
+         height="14"
+         x="39"
+         y="36"
+         id="rect20" /></g></g></svg>

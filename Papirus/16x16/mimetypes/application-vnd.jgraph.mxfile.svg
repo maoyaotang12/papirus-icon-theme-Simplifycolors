@@ -1,8 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#f58800" d="M 2.8125,0 C 2.362375,0 2,0.3568 2,0.8 V 15.2 C 2,15.6432 2.362375,16 2.8125,16 h 11.375 C 14.637625,16 15,15.6432 15,15.2 V 5 L 11,4 10,0 Z"/>
- <path style="fill:#ffa637" d="M 15,5 10,0 V 4.1666667 C 10,4.6283333 10.371667,5 10.833333,5 Z"/>
- <path style="fill:none;stroke:#3f3f3f;stroke-width:0.553848" d="M 6.007692,12.615384 8.5,8.1846152 10.992308,12.615384"/>
- <path style="fill:#ffffff" d="M 9.500244,11 C 9.2232438,11 9,11.267768 9,11.600168 v 1.799664 C 9,13.732232 9.2232438,14 9.500244,14 h 1.999512 C 11.776755,14 12,13.732232 12,13.399832 V 11.600168 C 12,11.267768 11.776755,11 11.499756,11 Z"/>
- <path style="fill:#ffffff" d="M 5.500244,11 C 5.2232438,11 5,11.267768 5,11.600168 v 1.799664 C 5,13.732232 5.2232438,14 5.500244,14 H 7.499756 C 7.7767562,14 8,13.732232 8,13.399832 V 11.600168 C 8,11.267768 7.7767562,11 7.499756,11 Z"/>
- <path style="fill:#ffffff" d="M 7.500244,7 C 7.2232438,7 7,7.2677676 7,7.6001676 V 9.3998324 C 7,9.7322324 7.2232438,10 7.500244,10 H 9.499756 C 9.7767562,10 10,9.7322324 10,9.3998324 V 7.6001676 C 10,7.2677676 9.7767562,7 9.499756,7 Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="16"
+   height="16"
+   sodipodi:docname="application-vnd.jgraph.mxfile.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="41.169591"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#f58800;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#c46d00;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#ffa637;fill-opacity:1" /><g
+     id="g2"
+     transform="matrix(2.5358852,0,0,2.2856263,-17.148326,-9.2770083)"><path
+       style="fill:none;stroke:#3f3f3f;stroke-width:1.93847"
+       d="M 23.276922,48.153845 32,32.646153 40.723077,48.153845"
+       id="path6" /><path
+       style="opacity:0.2"
+       d="m 28,29 c -1.108,0 -2,0.892 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 8 c 1.107999,0 2,-0.892 2,-2 v -6 c 0,-1.108 -0.892001,-2 -2,-2 z m -8,15 c -1.108,0 -2,0.892001 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 8 c 1.107999,0 2,-0.892 2,-2 v -6 c 0,-1.107999 -0.892001,-2 -2,-2 z m 16,0 c -1.108,0 -2,0.892001 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 8 c 1.107999,0 2,-0.892 2,-2 v -6 c 0,-1.107999 -0.892001,-2 -2,-2 z"
+       id="path7" /><path
+       style="fill:#ffffff"
+       d="m 28,28 c -1.108,0 -2,0.892 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 8 c 1.107999,0 2,-0.892 2,-2 v -6 c 0,-1.108 -0.892001,-2 -2,-2 z m -8,15 c -1.108,0 -2,0.892001 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 8 c 1.107999,0 2,-0.892 2,-2 v -6 c 0,-1.107999 -0.892001,-2 -2,-2 z m 16,0 c -1.108,0 -2,0.892001 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 8 c 1.107999,0 2,-0.892 2,-2 v -6 c 0,-1.107999 -0.892001,-2 -2,-2 z"
+       id="path8" /></g></svg>

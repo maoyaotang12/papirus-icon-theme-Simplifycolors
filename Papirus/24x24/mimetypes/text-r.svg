@@ -1,8 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <path style="opacity:0.2" d="m 5,2.5 c -0.554,0 -1,0.446 -1,1 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8.5 L 14.5,8 14,2.5 Z"/>
- <path style="fill:#e4e4e4" d="M 5,2 C 4.446,2 4,2.446 4,3 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8 L 14.5,7.5 14,2 Z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 5,2 C 4.446,2 4,2.446 4,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 9 L 19.5,8 H 20 L 14,2 Z"/>
- <path style="opacity:0.2" d="m 14,2.5 v 5 c 0,0.5523 0.447715,1 1,1 h 5 z"/>
- <path style="fill:#fafafa" d="m 14,2 v 5 c 0,0.5523 0.447715,1 1,1 h 5 z"/>
- <path style="fill:#1e62b2;fill-rule:evenodd" d="m 14.5,16 c 0,0 0.27653,-0.008 0.5523,0.1328 0.0957,0.0485 0.26127,0.1466 0.380705,0.27475 0.11699,0.12555 0.17403,0.2528 0.17403,0.2528 l 1.893,3.3395 h -3.5 c -0.586,-1.1215 -1.084,-2.333 -1.831,-3.3315 -0.1485,-0.1215 -0.272,-0.1685 -0.419,-0.1685 h -0.7502 l 4.33e-4,3.49805 h -3.0002 v -9.998 h 5.413 c 0.5868,0 3.0868,0.5 3.17355,3 -0.08679,2.5 -2.0868,3 -2.0868,3 z M 11.0002,11.99935 V 14.5 H 13 c 0,0 0.5,0 0.5,-1.3476 C 13.5,12 13,12.00065 13,12.00065 Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="24"
+   height="24"
+   sodipodi:docname="text-r.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="26.19883"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1"
+     showguides="true"><sodipodi:guide
+       position="7.6134526,83.439664"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" /><sodipodi:guide
+       position="120.24109,71.856006"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" /></sodipodi:namedview><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e4e4e4;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#b6b6b6;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#fafafa;fill-opacity:1" /><g
+     id="g8"
+     transform="matrix(2.5443913,0,0,2.2823433,-17.420521,-8.8545193)"><path
+       style="fill:#1e62b2;fill-rule:evenodd"
+       d="m 37.789326,42.80042 c 0,0 0.756821,-0.0224 1.511563,0.37184 0.261916,0.1358 0.715057,0.41048 1.041932,0.7693 0.320184,0.35154 0.476294,0.70784 0.476294,0.70784 L 45.999973,54 h -9.578976 c -1.603794,-3.1402 -2.966746,-6.7323 -5.011173,-9.5281 -0.406422,-0.3402 -0.744815,-0.489555 -1.14674,-0.4718 H 27.9994 l 0.0012,9.99444 H 20 v -27.9944 h 14.814571 c 1.605984,0 8.948007,1.4 9.185429,8.4 -0.237517,7 -6.211157,8.4 -6.211157,8.4 z M 28.000399,30.99818 V 39 h 5.683652 C 33.684051,39 35,38.60042 35,34.82714 35,31.60042 33.684051,31.00182 33.684051,31.00182 Z"
+       id="path6" /></g></svg>

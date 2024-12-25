@@ -1,5 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#e4e4e4" d="m 2.8125001,2.4933332e-6 c -0.4519668,0 -0.8125,0.3549866466668 -0.8125,0.7999998466668 V 15.2 c 0,0.4448 0.3605332,0.800001 0.8125,0.800001 H 14.1875 C 14.640334,16.000001 15,15.645867 15,15.2 V 5 L 10.53125,4.4000019 10,2.4933332e-6 Z"/>
- <path style="fill:#fafafa" d="m 10,0 v 4.1667001 c 0,0.4584 0.3749,0.8333001 0.8333,0.8333001 H 15 Z"/>
- <path style="fill:#129a4d" d="M 6.5,9 C 5.1192881,9 4,10.119288 4,11.5 4,12.880712 5.1192881,14 6.5,14 c 1.1871442,-0.0011 2.2098371,-0.83684 2.4472656,-2 h 2.0273434 v 1 h 1 V 12 H 13 V 11 H 8.9492188 C 8.7116432,9.8361219 7.6878781,9.0001287 6.5,9 Z m 0,1 c 0.7228736,1.24e-4 1.3428353,0.515801 1.4746094,1.226562 v 0.546876 C 7.8428353,12.484199 7.2228736,12.999876 6.5,13 5.6715729,13 5,12.328427 5,11.5 5,10.671573 5.6715729,10 6.5,10 Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="16"
+   height="16"
+   sodipodi:docname="application-pgp-keys.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="33.684211"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e4e4e4;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#b6b6b6;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#fafafa;fill-opacity:1" /><g
+     id="g10"
+     transform="matrix(2.5401382,0,0,2.2790602,-17.190856,-8.8764748)"><path
+       style="fill:#129a4d"
+       d="m 25,32 c -4.970561,0 -9,4.029439 -9,9 0,4.970561 4.029439,9 9,9 3.809393,-0.0054 7.202861,-2.408467 8.472656,-6 H 39 v 3 h 6 v -3 h 2 V 38 H 33.476562 c -1.270088,-3.592363 -4.664335,-5.995647 -8.474609,-6 z m 0,6 c 1.656853,0 3,1.343147 3,3 0,1.656853 -1.343147,3 -3,3 -1.656852,0 -3,-1.343147 -3,-3 0,-1.656853 1.343148,-3 3,-3 z"
+       id="path6" /></g></svg>

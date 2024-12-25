@@ -1,9 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <path style="opacity:0.2" d="M 5,2.5 C 4.446,2.5 4,2.946 4,3.5 V 21.5 C 4,22.054 4.446,22.5 5,22.5 H 19 C 19.554,22.5 20,22.054 20,21.5 V 8.5 L 14,2.5 Z"/>
- <path style="fill:#e32037" d="M 5,2 C 4.446,2 4,2.446 4,3 V 21 C 4,21.554 4.446,22 5,22 H 19 C 19.554,22 20,21.554 20,21 V 8 L 15,7 14,2 Z"/>
- <path style="opacity:0.2" d="M 20,8.5 14,2.5 V 7.5 C 14,8.054 14.446,8.5 15,8.5 Z"/>
- <path style="fill:#ff6565" d="M 20,8 14,2 V 7 C 14,7.554 14.446,8 15,8 Z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 5 2 C 4.446 2 4 2.446 4 3 L 4 3.5 C 4 2.946 4.446 2.5 5 2.5 L 14 2.5 L 14 2 L 5 2 z"/>
- <path style="opacity:0.2" d="m 7.4999999,10.5 2,10 L 11.5,10.5 h -1 l -1.0000001,5.5 -1,-5.5 z M 13,10.5 v 10 h 2 c 0,0 1,0 1,-1 V 16 c 0,-0.5 -0.5,-0.5 -0.5,-0.5 0,0 0.5,0 0.5,-0.5 v -3.5 c 0,-1 -1,-1 -1,-1 z m 1,1 h 1 v 3 h -1 z m 0,5 h 1 v 3 h -1 z"/>
- <path style="fill:#ffffff" d="m 7.4999999,10 2,10 L 11.5,10 h -1 l -1.0000001,5.5 -1,-5.5 z M 13,10 v 10 h 2 c 0,0 1,0 1,-1 V 15.5 C 16,15 15.5,15 15.5,15 c 0,0 0.5,0 0.5,-0.5 V 11 c 0,-1 -1,-1 -1,-1 z m 1,1 h 1 v 3 h -1 z m 0,5 h 1 v 3 h -1 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="24"
+   height="24"
+   sodipodi:docname="application-x-virtual-boy-rom.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="18.807018"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1"
+     showguides="true"><sodipodi:guide
+       position="7.6134526,83.439664"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" /><sodipodi:guide
+       position="120.24109,71.856006"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" /></sodipodi:namedview><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e32037;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#b61a2c;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#ff6565;fill-opacity:1" /><g
+     id="g8"
+     transform="matrix(2.5486443,0,0,2.2954755,-17.650186,-9.316405)"><path
+       style="opacity:0.2"
+       d="m 20,27 6,28 6,-28 H 29 L 26,43 23,27 Z m 14,0 v 28 h 5.5 c 0,0 2.55,0 2.55,-2.8 v -9.8 c 0,-1.4 -1.175,-1.4 -1.175,-1.4 0,0 1.175,0 1.175,-1.4 V 29.8 C 42.05,27 39.5,27 39.5,27 Z m 3,3 h 2 v 9 h -2 z m 0,13 h 2 v 9 h -2 z"
+       id="path6" /><path
+       style="fill:#ffffff"
+       d="m 20,26 6,28 6,-28 H 29 L 26,42 23,26 Z m 14,0 v 28 h 5.5 c 0,0 2.55,0 2.55,-2.8 v -9.8 c 0,-1.4 -1.175,-1.4 -1.175,-1.4 0,0 1.175,0 1.175,-1.4 V 28.8 C 42.05,26 39.5,26 39.5,26 Z m 3,3 h 2 v 9 h -2 z m 0,13 h 2 v 9 h -2 z"
+       id="path7" /></g></svg>

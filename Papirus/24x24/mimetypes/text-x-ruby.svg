@@ -1,9 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <path style="opacity:0.2" d="M 5,2.5 C 4.446,2.5 4,2.946 4,3.5 V 21.5 C 4,22.054 4.446,22.5 5,22.5 H 19 C 19.554,22.5 20,22.054 20,21.5 V 8.5 L 14,2.5 Z"/>
- <path style="fill:#f44336" d="M 5,2 C 4.446,2 4,2.446 4,3 V 21 C 4,21.554 4.446,22 5,22 H 19 C 19.554,22 20,21.554 20,21 V 8 L 14,2 Z"/>
- <path style="opacity:0.2" d="M 20,8.5 14,2.5 V 7.5 C 14,8.054 14.446,8.5 15,8.5 Z"/>
- <path style="fill:#f88e86" d="M 20,8 14,2 V 7 C 14,7.554 14.446,8 15,8 Z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 5,2 C 4.446,2 4,2.446 4,3 V 3.5 C 4,2.946 4.446,2.5 5,2.5 H 14 V 2 Z"/>
- <path style="opacity:0.2;fill:none;stroke:#000000;stroke-linejoin:round" d="m 15.5,20 -5.5,-2.5 3,-3 z m 0,-8 -8,8 m 0,-4 h 4 v -4 m 0,0 h 4 v 8 h -8 v -4 z"/>
- <path style="fill:none;stroke:#ffffff;stroke-linejoin:round" d="M 15.5,19.5 10,17 13,14 Z m 0,-8 -8,8 m 0,-4 h 4 v -4 m 0,0 h 4 v 8 h -8 v -4 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="24"
+   height="24"
+   sodipodi:docname="text-x-ruby.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="18.71345"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1"
+     showguides="true"><sodipodi:guide
+       position="7.6134526,83.439664"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" /><sodipodi:guide
+       position="120.24109,71.856006"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" /></sodipodi:namedview><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#f44336;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#c3362b;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#f88e86;fill-opacity:1" /><g
+     id="g8"
+     transform="matrix(2.5571505,0,0,2.2823433,-17.735248,-9.1703088)"><path
+       style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round"
+       d="M 42,52 28,46 36,38 Z M 42,32 22,52 M 22,42 H 32 V 32 m 0,0 H 42 V 52 H 22 V 42 Z"
+       id="path6" /><path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linejoin:round"
+       d="M 42,51 28,45 36,37 Z M 42,31 22,51 M 22,41 H 32 V 31 m 0,0 H 42 V 51 H 22 V 41 Z"
+       id="path7" /></g></svg>

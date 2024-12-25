@@ -1,8 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#775db7" d="M 2.8125,0 C 2.362375,0 2,0.3568 2,0.8 V 15.2 C 2,15.6432 2.362375,16 2.8125,16 h 11.375 C 14.637625,16 15,15.6432 15,15.2 V 5 L 11,4 10,0 Z"/>
- <path style="fill:#927ec6" d="M 15,5 10,0 V 4.1666667 C 10,4.6283333 10.371667,5 10.833333,5 Z"/>
- <ellipse style="fill:#8cd538" cx="6" cy="11" rx="2" ry="1"/>
- <ellipse style="fill:#ffeb3b" cx="9" cy="13" rx="2" ry="1"/>
- <path style="fill:#3f51b5" d="M 8.0054386,7.0000012 A 2.0054386,2.0054386 0 0 0 6,9.0054397 2.0054386,2.0054386 0 0 0 6.0008423,9.0145805 2.0054386,2.0054386 0 0 1 6.149248,9.0041362 2.0054386,2.0054386 0 0 1 8.1542513,11 2.0054386,2.0054386 0 0 0 10.010861,9.0054386 2.0054386,2.0054386 0 0 0 8.005423,7 Z"/>
- <path style="fill:#f44336" d="M 11.749999,9.0000263 A 1.7499994,1.7499994 0 0 0 10,10.750026 1.7499994,1.7499994 0 0 0 10.0073,10.851268 1.7499994,1.7499994 0 0 1 11.552221,12.48591 1.7499994,1.7499994 0 0 0 11.750038,12.5 1.7499994,1.7499994 0 0 0 13.500037,10.75 1.7499994,1.7499994 0 0 0 11.750038,9 Z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="16"
+   height="16"
+   sodipodi:docname="application-vnd.nintendo.snes.rom.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="41.169591"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#775db7;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#5f4a92;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#927ec6;fill-opacity:1" /><g
+     id="g4"
+     transform="matrix(2.5443913,0,0,2.2954755,-17.420521,-9.316405)"><path
+       style="opacity:0.2"
+       d="M 31.019531,29 A 7.0190352,7.0190352 0 0 0 24,36.019531 a 7.0190352,7.0190352 0 0 0 0.0039,0.03125 7.0190352,7.0190352 0 0 1 0.517578,-0.03711 A 7.0190352,7.0190352 0 0 1 31.539062,43 7.0190352,7.0190352 0 0 0 38.037109,36.019531 7.0190352,7.0190352 0 0 0 31.019531,29 Z M 42,37 a 5.9999957,5.9999957 0 0 0 -6,6 5.9999957,5.9999957 0 0 0 0.02539,0.347656 5.9999957,5.9999957 0 0 1 5.296875,5.603516 A 5.9999957,5.9999957 0 0 0 42,49 5.9999957,5.9999957 0 0 0 48,43 5.9999957,5.9999957 0 0 0 42,37 Z m -19.5,2 a 6.5,4 0 0 0 -6.5,4 6.5,4 0 0 0 6.5,4 6.5,4 0 0 0 6.5,-4 6.5,4 0 0 0 -6.5,-4 z m 10,7 a 6.5,4 0 0 0 -6.5,4 6.5,4 0 0 0 6.5,4 6.5,4 0 0 0 6.5,-4 6.5,4 0 0 0 -6.5,-4 z"
+       id="path6-2" /><ellipse
+       style="fill:#8cd538"
+       cx="22.5"
+       cy="42"
+       rx="6.5"
+       ry="4"
+       id="ellipse6" /><ellipse
+       style="fill:#ffeb3b"
+       cx="32.5"
+       cy="49"
+       rx="6.5"
+       ry="4"
+       id="ellipse7" /><path
+       style="fill:#3f51b5"
+       d="M 31.019035,28.000002 A 7.0190352,7.0190352 0 0 0 24,35.019037 a 7.0190352,7.0190352 0 0 0 0.003,0.032 7.0190352,7.0190352 0 0 1 0.51942,-0.03656 A 7.0190352,7.0190352 0 0 1 31.539932,42 7.0190352,7.0190352 0 0 0 38.038067,35.019035 7.0190352,7.0190352 0 0 0 31.019032,28 Z"
+       id="path7" /><path
+       style="fill:#f44336"
+       d="M 41.999996,35.999999 A 5.9999957,5.9999957 0 0 0 36,41.999995 5.9999957,5.9999957 0 0 0 36.02489,42.347163 5.9999957,5.9999957 0 0 1 41.321761,47.95165 5.9999957,5.9999957 0 0 0 41.999986,48 5.9999957,5.9999957 0 0 0 47.999983,42.000003 5.9999957,5.9999957 0 0 0 41.999988,36.000007 Z"
+       id="path8" /></g></svg>

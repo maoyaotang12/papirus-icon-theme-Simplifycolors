@@ -1,20 +1,194 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#ff5a00" d="M 2.8008,1 C 2.3576,1 2,1.3576 2,1.8008 V 15.199 C 2,15.642 2.3576,16 2.8008,16 H 13.199 C 13.642,16 14,15.642 14,15.199 V 6 L 10,5 9,1 Z"/>
- <path style="fill:#ff8745" d="M 14,6 9,1 V 5.1992 C 9,5.6424 9.358,6 9.801,6 Z"/>
- <g style="fill:#ffffff" transform="translate(0,0.5)">
-  <circle style="fill:#ffffff" cx="3.75" cy="9.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="5.45" cy="9.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="7.15" cy="9.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="8.85" cy="9.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="10.55" cy="9.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="12.25" cy="9.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="5.45" cy="7.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="7.15" cy="7.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="8.85" cy="7.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="10.55" cy="7.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="3.75" cy="11.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="5.45" cy="11.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="10.55" cy="11.75" r=".75"/>
-  <circle style="fill:#ffffff" cx="12.25" cy="11.75" r=".75"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="16"
+   height="16"
+   sodipodi:docname="application-bitwig-project.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="33.684211"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#ff5a00;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#cc4800;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#ff8745;fill-opacity:1" /><g
+     id="g9"
+     transform="matrix(2.5401382,0,0,2.2790602,-17.190856,-8.8764748)"><g
+       style="opacity:0.2"
+       transform="translate(0,4)"
+       id="g15"><circle
+         cx="24"
+         cy="33"
+         r="2"
+         id="circle2" /><circle
+         cx="29"
+         cy="33"
+         r="2"
+         id="circle3" /><circle
+         cx="34"
+         cy="33"
+         r="2"
+         id="circle4" /><circle
+         cx="39"
+         cy="33"
+         r="2"
+         id="circle5-2" /><circle
+         cx="24"
+         cy="38"
+         r="2"
+         id="circle6-3" /><circle
+         cx="29"
+         cy="38"
+         r="2"
+         id="circle7-7" /><circle
+         cx="34"
+         cy="38"
+         r="2"
+         id="circle8-5" /><circle
+         cx="39"
+         cy="38"
+         r="2"
+         id="circle9-9" /><circle
+         cx="44"
+         cy="38"
+         r="2"
+         id="circle10-2" /><circle
+         cx="19"
+         cy="38"
+         r="2"
+         id="circle11-2" /><circle
+         cx="19"
+         cy="43"
+         r="2"
+         id="circle12-8" /><circle
+         cx="24"
+         cy="43"
+         r="2"
+         id="circle13-9" /><circle
+         cx="44"
+         cy="43"
+         r="2"
+         id="circle14-7" /><circle
+         cx="39"
+         cy="43"
+         r="2"
+         id="circle15-3" /></g><g
+       style="fill:#ffffff"
+       transform="translate(0,3)"
+       id="g30"><circle
+         style="fill:#ffffff"
+         cx="24"
+         cy="33"
+         r="2"
+         id="circle17-6" /><circle
+         style="fill:#ffffff"
+         cx="29"
+         cy="33"
+         r="2"
+         id="circle18-1" /><circle
+         style="fill:#ffffff"
+         cx="34"
+         cy="33"
+         r="2"
+         id="circle19" /><circle
+         style="fill:#ffffff"
+         cx="39"
+         cy="33"
+         r="2"
+         id="circle20" /><circle
+         style="fill:#ffffff"
+         cx="24"
+         cy="38"
+         r="2"
+         id="circle21" /><circle
+         style="fill:#ffffff"
+         cx="29"
+         cy="38"
+         r="2"
+         id="circle22" /><circle
+         style="fill:#ffffff"
+         cx="34"
+         cy="38"
+         r="2"
+         id="circle23" /><circle
+         style="fill:#ffffff"
+         cx="39"
+         cy="38"
+         r="2"
+         id="circle24" /><circle
+         style="fill:#ffffff"
+         cx="44"
+         cy="38"
+         r="2"
+         id="circle25" /><circle
+         style="fill:#ffffff"
+         cx="19"
+         cy="38"
+         r="2"
+         id="circle26" /><circle
+         style="fill:#ffffff"
+         cx="19"
+         cy="43"
+         r="2"
+         id="circle27" /><circle
+         style="fill:#ffffff"
+         cx="24"
+         cy="43"
+         r="2"
+         id="circle28" /><circle
+         style="fill:#ffffff"
+         cx="44"
+         cy="43"
+         r="2"
+         id="circle29" /><circle
+         style="fill:#ffffff"
+         cx="39"
+         cy="43"
+         r="2"
+         id="circle30" /></g></g></svg>

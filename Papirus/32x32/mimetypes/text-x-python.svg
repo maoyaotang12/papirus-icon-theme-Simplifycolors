@@ -1,9 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
- <path style="opacity:0.2" d="M 6.375,3 C 5.61325,3 5,3.6244 5,4.4 V 29.6 C 5,30.37504 5.61325,31 6.375,31 h 19.25 C 26.3862,31 27,30.37504 27,29.6 V 12 L 20,10 18,3 Z"/>
- <path style="fill:#e4e4e4" d="M 6.375,2 C 5.61325,2 5,2.6244 5,3.4 V 28.6 C 5,29.37504 5.61325,30 6.375,30 h 19.25 C 26.3862,30 27,29.37504 27,28.6 V 11 L 20,9 18,2 Z"/>
- <path style="opacity:0.2" d="M 27,12 18,3 v 7.59375 C 18,11.373375 18.62775,12 19.40625,12 Z"/>
- <path style="fill:#fafafa" d="M 27,11 18,2 V 9.59375 C 18,10.373375 18.62775,11 19.40625,11 Z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 6.375,2 C 5.61325,2 5,2.6247906 5,3.4003906 v 1 C 5,3.6247906 5.61325,3 6.375,3 H 18 V 2 Z"/>
- <path style="fill:#3084e0" d="M 16.175781 14 C 14.398181 14 13.05967 15.023019 13 16.291016 L 13 17 L 11.291016 17 C 10.021616 17 9 18.497791 9 20.275391 L 9 21.791016 C 9 23.568616 10.021616 25 11.291016 25 L 13 25 L 13 23.166016 C 13 22.150349 13.783161 21 14.798828 21 L 18.166016 21 C 18.166016 21 20 21.034506 20 19.201172 L 20 16.291016 C 20 15.021616 18.568616 14 16.791016 14 L 16.175781 14 z M 14.5 16 C 14.776143 16 15 16.223857 15 16.5 C 15 16.776143 14.776143 17 14.5 17 C 14.223857 17 14 16.776143 14 16.5 C 14 16.223857 14.223857 16 14.5 16 z"/>
- <path style="fill:#ffa923" d="M 16.824219,28 C 18.601819,28 19.94033,26.976981 20,25.708984 V 25 h 1.708984 C 22.978384,25 24,23.502209 24,21.724609 V 20.208984 C 24,18.431384 22.978384,17 21.708984,17 H 20 v 1.833984 C 20,19.849651 19.216839,21 18.201172,21 H 14.833984 C 14.833984,21 13,20.965494 13,22.798828 v 2.910156 C 13,26.978384 14.431384,28 16.208984,28 Z M 18.5,26 C 18.223857,26 18,25.776143 18,25.5 18,25.223857 18.223857,25 18.5,25 c 0.276143,0 0.5,0.223857 0.5,0.5 0,0.276143 -0.223857,0.5 -0.5,0.5 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="32"
+   height="32"
+   sodipodi:docname="text-x-python.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="33.684211"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1"
+     showguides="true"><sodipodi:guide
+       position="7.6134526,83.439664"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" /><sodipodi:guide
+       position="120.24109,71.856006"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" /></sodipodi:namedview><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e4e4e4;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#b6b6b6;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#fafafa;fill-opacity:1" /><g
+     id="g8"
+     transform="matrix(2.5528974,0,0,2.2889094,-17.505582,-8.9158715)"><path
+       style="fill:#ffa923"
+       d="m 39,34 v 3.5 c 0,1.939 -1.561,3.5 -3.5,3.5 h -7 c 0,0 -3.5,0 -3.5,3.5 v 6.125 C 25,53.0484 27.7314,55 31.125,55 h 1.75 C 36.2686,55 39,53.0484 39,50.625 V 48 h 2.625 C 44.0484,48 46,45.2686 46,41.875 v -1.75 C 46,36.7314 44.0484,34 41.625,34 Z M 36.5,49 A 1.5,1.5 0 0 1 38,50.5 1.5,1.5 0 0 1 36.5,52 1.5,1.5 0 0 1 35,50.5 1.5,1.5 0 0 1 36.5,49 Z"
+       id="path6" /><path
+       style="fill:#3084e0"
+       d="M 31.125,27 C 27.7314,27 25,28.9516 25,31.375 V 34 H 22.375 C 19.9516,34 18,36.7314 18,40.125 v 1.75 C 18,45.2686 19.9516,48 22.375,48 H 25 V 44.5 C 25,42.561 26.561,41 28.5,41 h 7 c 0,0 3.5,0 3.5,-3.5 V 31.375 C 39,28.9516 36.2686,27 32.875,27 Z M 27.5,30 A 1.5,1.5 0 0 1 29,31.5 1.5,1.5 0 0 1 27.5,33 1.5,1.5 0 0 1 26,31.5 1.5,1.5 0 0 1 27.5,30 Z"
+       id="path7" /></g></svg>

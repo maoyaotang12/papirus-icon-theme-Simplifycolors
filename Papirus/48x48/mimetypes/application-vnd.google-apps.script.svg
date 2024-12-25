@@ -1,9 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <path style="opacity:0.2" d="M 10,5 C 8.892,5 8,5.892 8,7 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 17 L 29,16 28,5 Z"/>
- <path style="fill:#0a99d6" d="M 10,4 C 8.892,4 8,4.892 8,6 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 16 L 29,15 28,4 Z"/>
- <path fill="#ffffff" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h18l11 11h1l-12-12z"/>
- <path style="opacity:0.2" d="m 28,5 v 10 c 0,1.1046 0.89543,2 2,2 h 10 z"/>
- <path style="fill:#6ac1e6" d="m 28,4 v 10 c 0,1.1046 0.89543,2 2,2 h 10 z"/>
- <path style="opacity:0.2" d="M 24,20 A 10,10 0 0 0 14,30 h 6 v -4 l 6,6 -6,6 V 34 H 14.847656 A 10,10 0 0 0 24,40 10,10 0 0 0 34,30 10,10 0 0 0 24,20 Z"/>
- <path style="fill:#ffffff" d="M 24 19 A 10 10 0 0 0 14 29 L 20 29 L 20 25 L 26 31 L 20 37 L 20 33 L 14.847656 33 A 10 10 0 0 0 24 39 A 10 10 0 0 0 34 29 A 10 10 0 0 0 24 19 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="48"
+   height="48"
+   sodipodi:docname="application-vnd.google-apps.script.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="33.684211"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#0a99d6;fill-opacity:1" /><path
+     class="st2"
+     d="m 82.761404,2.619883 v 29.2 c 0,3.2 2.145542,11.6 11.89801,11.6 h 24.966316 z"
+     id="path2"
+     style="fill:#087aab;fill-opacity:1;stroke-width:0.987546" /><path
+     class="st2"
+     d="M 82.116964,0.02339171 V 29.223392 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599996 z"
+     id="path2-3"
+     style="opacity:1;isolation:isolate;fill:#6ac1e6;fill-opacity:1" /><g
+     id="g1"
+     transform="matrix(2.5401382,0,0,2.2757772,-17.190856,-8.7697753)"><path
+       style="opacity:0.2"
+       d="m 32,28 c -7.731986,0 -14,6.268014 -14,14 h 8 v -5.599609 l 8.599609,8.40039 L 26,53.199219 V 48 H 19.380859 C 21.690125,52.864354 26.588939,55.993068 32,56 39.731986,56 46,49.731986 46,42 46,34.268014 39.731986,28 32,28 Z"
+       id="path6" /><path
+       style="fill:#ffffff"
+       d="m 32,27 c -7.731986,0 -14,6.268014 -14,14 h 8 v -5.599609 l 8.599609,8.40039 L 26,52.199219 V 47 H 19.380859 C 21.690125,51.864354 26.588939,54.993068 32,55 39.731986,55 46,48.731986 46,41 46,33.268014 39.731986,27 32,27 Z"
+       id="path7" /></g></svg>

@@ -1,56 +1,152 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64" width="16" height="16">
-  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64"
+   width="16" height="16"
+   sodipodi:docname="p7zip.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="57.169591"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
       .st0 {
-        fill: #2c9f5a;
+        fill-opacity: .5;
       }
 
-      .st1 {
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
         fill: #fff;
       }
 
-      .st2 {
-        fill: #f2b714;
+      .st8 {
+        fill: #133c9a;
       }
 
-      .st3 {
-        fill: #0ea8f4;
-      }
-
-      .st4 {
+      .st2, .st9 {
         display: none;
       }
 
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
       .st5 {
-        fill: #068fd2;
+        fill-opacity: .3;
       }
 
       .st6 {
-        fill: #32cc70;
+        fill-opacity: 0;
       }
 
       .st7 {
-        fill: #fb5e46;
+        fill-opacity: .7;
       }
-    </style>
-  </defs>
-  <path d="M50.4,64H13.8c-7.6,0-13.8-6.2-13.8-13.7V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h.1Z"/>
-  <g class="st4">
-    <path class="st7" d="M0,21.4h63.9v21.4H0v-21.4Z"/>
-    <path class="st3" d="M63.9,21.4v-9C64.1,9.4,59.6,0,50.5,0H13C5.2.1,0,8.4,0,13.3v8c0,0,63.8,0,63.8,0Z"/>
-    <path class="st6" d="M0,42.7v8.1c0,9.1,9,13.4,14.6,13.3l34.7-.2c11.9,0,14.7-10.1,14.7-13.6v-7.6H0Z"/>
-    <path class="st0" d="M0,42.7h63.9v3.6H0v-3.6Z"/>
-    <path class="st5" d="M0,17.8h63.9v3.6H0v-3.6Z"/>
-    <path class="st2" d="M25.6,0h12.8v64.1h-12.8s0-64.1,0-64.1Z"/>
-    <path class="st1" d="M39,27.5v9.4h-14.5v-9.4h14.5ZM41.4,23.7h-19.2c-.3,0-.9.4-.9,1v14.9c0,.4.3,1,.9,1h19.2c.3,0,.9-.4.9-1v-14.9c-.2-.7-.6-1-.9-1Z"/>
-  </g>
-  <g>
-    <path class="st4" d="M0,0v64h63.8V.2L0,0Z"/>
-    <path class="st1" d="M8.5,12.5h46.9c3.1,0,5.6,2.5,5.6,5.6v25.4c0,3.1-2.5,5.6-5.6,5.6H8.5c-3.1,0-5.6-2.5-5.6-5.6v-25.4c0-3.1,2.5-5.6,5.6-5.6Z"/>
-    <path d="M6.4,14.9h26v31.8H6.4V14.9Z"/>
-    <path class="st1" d="M29.8,22.2c-2.8,3.5-4.9,6.4-6.2,8.7-1.4,2.3-2.4,4.5-3.1,6.7-.7,2.2-1.1,4.4-1.1,6.7h-5.3c0-3.2.8-6.5,2.4-9.9s4.4-7.4,8.4-12.1h-16v-3.5h20.8v3.3h0Z"/>
-    <path d="M58.4,45.9h-22.5v-3.3l15.8-16.5h-14.9v-3.3h20.4v3.3l-15.8,16.5h17v3.3h0Z"/>
-  </g>
-</svg>
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#ffffff;fill-opacity:1" /><g
+     id="g27"
+     transform="matrix(0.06240862,0,0,0.06259137,-0.56140355,0.93567255)"><path
+       d="m 101.7344,237.8752 h 417.2288 v 508.928 H 101.7344 Z"
+       p-id="15176"
+       id="path3-3"
+       style="fill:#333333" /><path
+       d="m 477.2352,354.9184 c -44.6976,56.064 -77.9264,102.5024 -99.6864,139.264 -21.76,36.7616 -38.2976,72.6528 -49.5616,107.6224 -11.3152,34.9696 -16.9472,70.5536 -16.9472,106.752 h -84.8896 c 0,-51.0464 12.9536,-103.7312 38.8608,-158.0544 25.9072,-54.3232 70.8608,-118.784 134.8096,-193.3312 H 143.4112 V 301.4656 H 477.184 v 53.4528 z"
+       fill="#ffffff"
+       p-id="15177"
+       id="path4-6" /><path
+       d="M 936.192,734.0544 H 574.5664 v -52.736 L 828.0576,417.7408 h -238.592 v -52.736 H 917.504 v 52.736 L 664.0128,681.3184 h 272.128 v 52.736 z"
+       p-id="15178"
+       id="path5"
+       style="fill:#333333" /></g></svg>

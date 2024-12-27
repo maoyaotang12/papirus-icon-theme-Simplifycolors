@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    viewBox="0 0 27600 27600"
-   width="32" height="32"
+   width="64"
+   height="64"
    version="1.1"
    id="svg24"
-   sodipodi:docname="edge.svg"
+   sodipodi:docname="microsoft-edge-can.svg"
    xml:space="preserve"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -124,14 +125,14 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="0.028284271"
-     inkscape:cx="13788.582"
-     inkscape:cy="13788.582"
-     inkscape:window-width="1920"
+     inkscape:zoom="7.2407734"
+     inkscape:cx="32.662257"
+     inkscape:cy="28.035679"
+     inkscape:window-width="1421"
      inkscape:window-height="939"
      inkscape:window-x="0"
      inkscape:window-y="34"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg24" /><linearGradient
      id="a"
      gradientUnits="userSpaceOnUse" /><linearGradient
@@ -278,4 +279,14 @@
        id="use24"
        x="0"
        y="0"
-       style="fill:url(#g)" /></g></svg>
+       style="fill:url(#g)" /></g><rect
+     style="fill:#ffc225;fill-opacity:1;stroke-width:0;paint-order:markers fill stroke"
+     id="rect24"
+     width="13950"
+     height="6100"
+     x="12150"
+     y="19100"
+     ry="1268.7999" /><path
+     d="m 16984.562,24115.83 q -187.284,96.317 -393.296,144.476 -206.012,48.158 -433.427,48.158 -807.995,0 -1233.396,-532.42 -425.401,-532.42 -425.401,-1538.4 0,-1008.656 425.401,-1541.076 425.401,-532.42 1233.396,-532.42 227.415,0 436.103,48.159 208.687,48.158 390.62,144.476 v 877.556 q -203.337,-187.283 -395.971,-272.898 -189.959,-88.291 -393.296,-88.291 -433.427,0 -655.492,345.137 -219.389,342.461 -219.389,1019.357 0,674.22 219.389,1019.357 222.065,342.461 655.492,342.461 203.337,0 393.296,-85.615 192.634,-88.291 395.971,-275.574 z m 2054.767,-3157.065 -371.891,1634.718 h 746.458 z m -481.586,-722.379 h 965.848 l 1078.217,3994.489 h -789.266 l -246.144,-987.251 h -1056.814 l -240.793,987.251 h -789.266 z m 2450.738,0 h 848.127 l 1112.999,2902.894 v -2902.894 h 695.624 v 3994.489 h -842.775 l -1118.35,-2902.894 v 2902.894 h -695.625 z"
+     inkscape:label="path5"
+     id="path1" /></svg>

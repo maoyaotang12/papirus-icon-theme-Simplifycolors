@@ -1,9 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 48 48">
- <rect style="fill:#e4e4e4" width="40" height="40" x="-44" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="m 6.0001,4.0009 c -1.108,0 -2,0.892 -2,2 l 0,1 c 0,-1.108 0.892,-2 2,-2 l 36,0 c 1.108,0 2,0.892 2,2 l 0,-1 c 0,-1.108 -0.892,-2 -2,-2 l -36,0 z"/>
- <path style="fill:#707070;fill-rule:evenodd" d="m 6.0001,44.001 18,-18 18,18 z"/>
- <path style="fill:#9f9f9f;fill-rule:evenodd" d="m 44,42.001 -18,-18 18,-18 z"/>
- <path style="fill:#ffffff;fill-rule:evenodd" d="m 25.768,22.201 -3.5352,3.5371 18.23,18.23 1.5371,0 c 1.108,0 2,-0.892 2,-2 l 0,-1.5352 -18.232,-18.232 z"/>
- <path style="fill:#ffffff;fill-rule:evenodd" d="M 40.465,4.0009 4,40.4009 4,41.9361 c 0,1.108 0.892,2 2,2 l 1.5371,0 36.463,-36.4 0,-1.5371 c 0,-1.108 -0.892,-2 -2,-2 l -1.5352,0 z"/>
- <path style="opacity:0.2" d="m 6.0001,45 c -1.108,0 -2,-0.892 -2,-2 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 l -36,0 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   version="1.1"
+   viewBox="0 0 128 128"
+   width="24"
+   height="24"
+   sodipodi:docname="qgis-qpt.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="24.51462"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs1"><style
+       id="style1">
+      .st0 {
+        fill: #0071e9;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #5aaaff;
+        isolation: isolate;
+        opacity: .5;
+      }
+    </style></defs><path
+     class="st0"
+     d="M18.2,0c-5.6,0-10.2,4.6-10.2,10.2v107.6c0,5.6,4.6,10.2,10.2,10.2h91.6c5.6,0,10.2-4.6,10.2-10.2V40.6L82.2,0H18.2Z"
+     id="path1"
+     style="fill:#e4e4e4;fill-opacity:1" /><g
+     id="g3"
+     transform="matrix(2.0033417,0,0,1.6623132,-0.01336676,28.443588)"
+     style="display:inline"><path
+       style="fill:#707070;fill-rule:evenodd;fill-opacity:1"
+       d="M 7.5472856,59.887425 31.999962,34.800034 55.144882,60.22515 Z"
+       id="path3"
+       sodipodi:nodetypes="cccc" /><path
+       style="fill:#9f9f9f;fill-rule:evenodd;fill-opacity:1"
+       d="M 59.999924,56.074255 34.799958,32.000037 59.999924,6.8000714 Z"
+       id="path4"
+       sodipodi:nodetypes="cccc" /><path
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="m 34.475959,29.400041 -4.953193,4.953193 25.527965,25.523966 1.762395,-1.013173 c 1.500068,-0.862365 1.476811,-0.317466 2.159295,-1.761673 L 59.999944,54.928006 34.475979,29.400041 Z"
+       id="path5"
+       sodipodi:nodetypes="cccssccc" /><path
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.984224"
+       d="M 53.42344,3.9679501 4,54.997164 4.6538782,56.722332 c 0.573317,1.512619 0.9355389,1.742806 2.4373578,2.438845 L 8.7915275,59.9492 58.214967,8.7198701 V 6.7695545 c 0,-1.6629523 -1.295368,-3.0017191 -2.904414,-3.0017191 H 53.42344 Z"
+       id="path6"
+       sodipodi:nodetypes="ccssccsscc" /></g><path
+     class="st2"
+     d="m 82.012865,2.994152 v 29.2 c 0,3.2 2.2,11.6 12.2,11.6 h 25.600005 z"
+     id="path2"
+     style="fill:#000000;fill-opacity:0.2" /><path
+     class="st2"
+     d="M 81.742685,0.39766078 V 29.597661 c 0,3.2 2.2,11.6 12.2,11.6 h 25.599995 z"
+     id="path2-6"
+     style="opacity:0.5;isolation:isolate;fill:#707070;fill-opacity:1" /></svg>

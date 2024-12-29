@@ -1,25 +1,249 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <path style="fill:#ff9800" d="m40 42v-36c0-1.108-0.892-2-2-2h-28c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2z"/>
- <rect style="fill:#ffce29" width="8" height="8" x="16" y="4"/>
- <path style="fill:#ffce29" d="M 32 4 L 32 12 L 40 12 L 40 6 C 40 4.892 39.108 4 38 4 L 32 4 z"/>
- <path fill="#fff" opacity=".2" d="m10 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
- <path opacity=".2" d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z"/>
- <rect style="fill:#ffce29" width="8" height="8" x="8" y="12"/>
- <rect style="fill:#ffce29" width="8" height="8" x="24" y="12"/>
- <rect style="fill:#ffce29" width="8" height="8" x="16" y="20"/>
- <rect style="fill:#ffce29" width="8" height="8" x="32" y="20"/>
- <rect style="fill:#ffce29" width="8" height="8" x="8" y="28"/>
- <rect style="fill:#ffce29" width="8" height="8" x="24" y="28"/>
- <rect style="fill:#ffce29" width="8" height="8" x="16" y="36"/>
- <path style="fill:#ffce29" d="M 32 36 L 32 44 L 38 44 C 39.108 44 40 43.108 40 42 L 40 36 L 32 36 z"/>
- <rect style="opacity:0.2" width="8" height="1" x="16" y="12"/>
- <rect style="opacity:0.2" width="8" height="1" x="32" y="12"/>
- <rect style="opacity:0.2" width="8" height="1" x="8" y="20"/>
- <rect style="opacity:0.2" width="8" height="1" x="24" y="20"/>
- <rect style="opacity:0.2" width="8" height="1" x="16" y="28"/>
- <rect style="opacity:0.2" width="8" height="1" x="32" y="28"/>
- <rect style="opacity:0.2" width="8" height="1" x="8" y="36"/>
- <rect style="opacity:0.2" width="8" height="1" x="24" y="36"/>
- <path style="opacity:0.1" d="m 22,15 v 2.259766 a 8,8 0 0 0 -2.056641,0.855468 l -1.599609,-1.599609 -2.828125,2.828125 1.599609,1.599609 A 8,8 0 0 0 16.265625,23 H 14 v 4 h 2.259766 a 8,8 0 0 0 0.855468,2.056641 l -1.599609,1.599609 2.828125,2.828125 1.599609,-1.599609 A 8,8 0 0 0 22,32.734375 V 35 h 4 v -2.259766 a 8,8 0 0 0 2.056641,-0.855468 l 1.599609,1.599609 2.828125,-2.828125 -1.599609,-1.599609 A 8,8 0 0 0 31.734375,27 H 34 V 23 H 31.740234 A 8,8 0 0 0 30.884766,20.943359 L 32.484375,19.34375 29.65625,16.515625 28.056641,18.115234 A 8,8 0 0 0 26,17.265625 V 15 Z m 2,6 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"/>
- <path style="fill:#3f3f3f" d="m 22,14 v 2.259766 a 8,8 0 0 0 -2.056641,0.855468 l -1.599609,-1.599609 -2.828125,2.828125 1.599609,1.599609 A 8,8 0 0 0 16.265625,22 H 14 v 4 h 2.259766 a 8,8 0 0 0 0.855468,2.056641 l -1.599609,1.599609 2.828125,2.828125 1.599609,-1.599609 A 8,8 0 0 0 22,31.734375 V 34 h 4 v -2.259766 a 8,8 0 0 0 2.056641,-0.855468 l 1.599609,1.599609 2.828125,-2.828125 -1.599609,-1.599609 A 8,8 0 0 0 31.734375,26 H 34 V 22 H 31.740234 A 8,8 0 0 0 30.884766,19.943359 L 32.484375,18.34375 29.65625,15.515625 28.056641,17.115234 A 8,8 0 0 0 26,16.265625 V 14 Z m 2,6 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="48" height="48"
+   sodipodi:docname="kapptemplate.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="39.48538"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#ff9800;fill-opacity:1" /><g
+     id="g28"
+     transform="matrix(1.3333333,0,0,1.0658805,-10.526316,-2.1288371)"><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="20"
+       y="2"
+       id="rect2" /><path
+       style="fill:#ffce29"
+       d="m 44,2 v 12 l 11.719298,0.175568 0,-0.2216 c 0,-3.768816 -2.962619,-11.5022598 -10.017544,-11.866184 z"
+       id="path3"
+       sodipodi:nodetypes="cccssc" /><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="8"
+       y="14"
+       id="rect3-3" /><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="32"
+       y="14"
+       id="rect4-6" /><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="20"
+       y="26"
+       id="rect5-7" /><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="44"
+       y="26"
+       id="rect6-5" /><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="8"
+       y="38"
+       id="rect7-3" /><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="32"
+       y="38"
+       id="rect8-5" /><rect
+       style="fill:#ffce29"
+       width="12"
+       height="12"
+       x="20"
+       y="50"
+       id="rect9-6" /><path
+       style="fill:#ffce29"
+       d="m 44,50 v 12 h 1.070175 c 7.556737,0 9.462099,-5.792272 10.649123,-10.812776 L 56,50 Z"
+       id="path9"
+       sodipodi:nodetypes="ccsscc" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="20"
+       y="14"
+       id="rect10-2" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="44"
+       y="14"
+       id="rect11-9" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="8"
+       y="26"
+       id="rect12-1" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="32"
+       y="26"
+       id="rect13" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="20"
+       y="38"
+       id="rect14" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="44"
+       y="38"
+       id="rect15" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="8"
+       y="50"
+       id="rect16" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="1"
+       x="32"
+       y="50"
+       id="rect17" /><path
+       style="opacity:0.1"
+       d="m 29,18 v 3.390625 a 12,12 0 0 0 -3.085938,1.28125 l -2.398437,-2.398437 -4.242187,4.242187 2.398437,2.398437 A 12,12 0 0 0 20.398438,30 H 17 v 6 h 3.390625 a 12,12 0 0 0 1.28125,3.085938 l -2.398437,2.398437 4.242187,4.242187 2.398437,-2.398437 A 12,12 0 0 0 29,44.601562 V 48 h 6 v -3.390625 a 12,12 0 0 0 3.085938,-1.28125 l 2.398437,2.398437 4.242187,-4.242187 -2.398437,-2.398437 A 12,12 0 0 0 43.601562,36 H 47 v -6 h -3.390625 a 12,12 0 0 0 -1.28125,-3.085938 l 2.398437,-2.398437 -4.242187,-4.242187 -2.398437,2.398437 A 12,12 0 0 0 35,21.398438 V 18 Z m 3,9 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
+       id="path17" /><path
+       style="fill:#3f3f3f"
+       d="m 29,17 v 3.390625 a 12,12 0 0 0 -3.085938,1.28125 l -2.398437,-2.398437 -4.242187,4.242187 2.398437,2.398437 A 12,12 0 0 0 20.398438,29 H 17 v 6 h 3.390625 a 12,12 0 0 0 1.28125,3.085938 l -2.398437,2.398437 4.242187,4.242187 2.398437,-2.398437 A 12,12 0 0 0 29,43.601562 V 47 h 6 v -3.390625 a 12,12 0 0 0 3.085938,-1.28125 l 2.398437,2.398437 4.242187,-4.242187 -2.398437,-2.398437 A 12,12 0 0 0 43.601562,35 H 47 v -6 h -3.390625 a 12,12 0 0 0 -1.28125,-3.085938 l 2.398437,-2.398437 -4.242187,-4.242187 -2.398437,2.398437 A 12,12 0 0 0 35,20.398438 V 17 Z m 3,9 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
+       id="path18" /></g></svg>

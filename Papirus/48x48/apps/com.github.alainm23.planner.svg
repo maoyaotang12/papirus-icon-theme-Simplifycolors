@@ -1,10 +1,154 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <rect style="opacity:0.2" width="32.358" height="36.546" x="4.72" y="-46.07" rx="1.82" ry="1.827" transform="matrix(0.99304837,-0.11770701,-0.11677755,-0.9931581,0,0)"/>
- <rect style="fill:#e4e4e4" width="32.358" height="36.546" x="4.84" y="-45.08" rx="1.82" ry="1.827" transform="matrix(0.99304837,-0.11770701,-0.11677755,-0.9931581,0,0)"/>
- <rect style="opacity:0.2" width="32.358" height="36.546" x="10.56" y="3.58" rx="1.82" ry="1.827" transform="matrix(0.99304837,0.11770701,-0.11677755,0.9931581,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 36.494141,4.3046875 C 36.373431,4.294564 36.25017,4.2957104 36.125,4.3105469 L 7.6074219,7.6914062 C 6.6060656,7.810098 5.8954562,8.7153142 6.0136719,9.7207031 l 0.041016,0.3554689 C 6.2281515,9.3544714 6.8279873,8.7837934 7.6074219,8.6914062 L 36.125,5.3105469 c 1.001356,-0.1186918 1.903269,0.5961735 2.021484,1.6015625 l 3.798828,32.3105466 c 0.04939,-0.205483 0.06721,-0.421716 0.04102,-0.644531 L 38.146484,5.9121094 C 38.043046,5.032394 37.339105,4.3755521 36.494141,4.3046875 Z"/>
- <rect style="fill:#3497fd" width="32.358" height="36.546" x="10.44" y="2.59" rx="1.82" ry="1.827" transform="matrix(0.99304837,0.11770701,-0.11677755,0.9931581,0,0)"/>
- <path style="opacity:0.2" d="M 29.900832,16 33,18.603337 23.051591,32 15,25.528045 l 2.546087,-3.439519 4.70774,3.814651 z"/>
- <path style="fill:#ffffff" d="M 29.900832,15 33,17.603337 23.051591,31 15,24.528045 l 2.546087,-3.439519 4.70774,3.814651 z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 11.505859,4.0058594 C 10.660895,4.076724 9.9569543,4.7335659 9.8535156,5.6132812 L 6.0136719,38.279297 c -0.026199,0.222815 -0.00837,0.439048 0.041016,0.644531 L 9.8535156,6.6132812 C 9.9717313,5.6078923 10.873644,4.8949801 11.875,5.0136719 l 28.517578,3.3789062 c 0.779435,0.092387 1.379271,0.6630651 1.552734,1.3847657 L 41.986328,9.421875 C 42.104544,8.416486 41.393934,7.5112699 40.392578,7.3925781 L 11.875,4.0136719 c -0.12517,-0.014837 -0.248431,-0.017936 -0.369141,-0.00781 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="48" height="48"
+   sodipodi:docname="com.github.alainm23.planner.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="25.824561"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#e4e4e4;fill-opacity:1" /><g
+     id="g40"
+     transform="matrix(1.0580048,0,0,1.1510189,-2.5573775,-4.5004289)"><rect
+       style="fill:#3497fd"
+       width="44.939999"
+       height="51.160999"
+       x="12.99"
+       y="2.1900001"
+       rx="2.5280001"
+       ry="2.5580001"
+       transform="matrix(0.99293506,0.11865901,-0.11584023,0.99326786,0,0)"
+       id="rect4" /><path
+       style="opacity:0.2"
+       d="m 38.867775,20.999996 4.132226,3.579588 -13.264546,18.420412 -10.735454,-8.898938 3.394782,-4.729338 6.276988,5.245144 z"
+       id="path4" /><path
+       style="fill:#ffffff"
+       d="m 38.867775,19.999999 4.132226,3.579588 -13.264546,18.420412 -10.735454,-8.898938 3.394782,-4.729338 6.276988,5.245144 z"
+       id="path5" /></g></svg>

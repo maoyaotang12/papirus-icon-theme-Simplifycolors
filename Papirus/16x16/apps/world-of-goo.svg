@@ -1,7 +1,167 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m8 15c7 0 7-6 7-6s1-8-7-8c-7 0-7 7-7 7s0 7 7 7z" style="fill:#4f4f4f"/>
- <path d="m3 10c3.5773547 0 4-4 4-4s-0.4370868-4-3-4c-3 0-4 3-4 3s0 5 3 5z" style="fill:#efefef"/>
- <path d="m13 9c-2 0-2-3-2-3s0-3 2-3c3 0 3 3 3 3s0 3-3 3z" style="fill:#efefef"/>
- <circle cx="3" cy="6" r="1" style="fill:#4f4f4f"/>
- <circle cx="14" cy="6" r="1" style="fill:#4f4f4f"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="16" height="16"
+   sodipodi:docname="world-of-goo.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="34.152047"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#efefef;fill-opacity:1" /><g
+     id="g44"
+     transform="translate(-0.76681286,0.93859649)"><path
+       d="M 32,57 C 59,57 57,33 57,33 57,33 55,9 32,9 12,9 6,33 6,33 6,33 6,57 32,57 Z"
+       style="opacity:0.2"
+       id="path1" /><path
+       d="M 32,56 C 59,56 57,32 57,32 57,32 55,8 32,8 12,8 6,32 6,32 6,32 6,56 32,56 Z"
+       style="fill:#4f4f4f"
+       id="path2" /><path
+       d="M 17,13 C 9,13 6,25 6,25 6,25 5,38 15,38 26,38 28,26 28,26 28,26 29,13 17,13 Z m 33,2 c -9,0 -9,10 -9,10 0,0 1,10 9,10 9,0 9,-9 9,-9 0,0 -1,-11 -9,-11 z"
+       style="opacity:0.2"
+       id="path3-2" /><path
+       d="M 32,8 C 12,8 6,32 6,32 6,32 6.014174,32.392865 6.042969,32.853516 6.2550362,32.03009 12.355629,9 32,9 c 23,0 25,24 25,24 0,0 0.01016,0.367756 0.01953,0.613281 C 57.039607,32.630424 57,32 57,32 57,32 55,8 32,8 Z"
+       style="opacity:0.1;fill:#ffffff"
+       id="path4-0" /><path
+       d="M 17,12 C 9,12 6,24 6,24 6,24 5,37 15,37 26,37 28,25 28,25 28,25 29,12 17,12 Z m 33,2 c -9,0 -9,10 -9,10 0,0 1,10 9,10 9,0 9,-9 9,-9 0,0 -1,-11 -9,-11 z"
+       style="fill:#efefef"
+       id="path5" /><circle
+       cx="14"
+       cy="24"
+       r="3"
+       style="fill:#4f4f4f"
+       id="circle5" /><circle
+       cx="53"
+       cy="24"
+       r="3"
+       style="fill:#4f4f4f"
+       id="circle6" /><path
+       d="M 17,12 C 8.9999998,12 6,24 6,24 6,24 5.98,24.547485 5.988281,25.283203 5.9932593,25.185402 6,25 6,25 6,25 8.9999998,13 17,13 26.98673,13 27.95325,21.916309 28.001953,24.9375 28.026831,24.584009 28.83219,12 17,12 Z m 33,2 c -9,0 -9,10 -9,10 0,0 0.02208,0.162992 0.04492,0.324219 C 41.221595,22.136645 42.369462,15 50,15 c 7.206512,0 8.721256,8.854306 8.953125,10.625 C 58.986138,25.262904 59,25 59,25 59,25 58,14 50,14 Z"
+       style="opacity:0.2;fill:#ffffff"
+       id="path6-61" /></g></svg>

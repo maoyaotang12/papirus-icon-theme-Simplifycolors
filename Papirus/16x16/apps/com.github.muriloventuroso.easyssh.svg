@@ -1,6 +1,163 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#4f4f4f" d="M 8 0 A 8 8 0 0 0 0 8 A 8 8 0 0 0 0.98046875 11.818359 C 6.2900358 12.384019 10.949155 11.56533 15.908203 9.140625 A 8 8 0 0 0 16 8 A 8 8 0 0 0 8 0 z M 15.074219 11.726562 C 11.008459 13.441118 6.9752521 14.155784 2.6738281 13.958984 A 8 8 0 0 0 8 16 A 8 8 0 0 0 15.074219 11.726562 z"/>
- <path style="fill:none;stroke:#ffffff" d="m 9.5,5.8002535 2.1,-1.2 2.1,1.2"/>
- <rect style="fill:#ffffff" width="4" height="1" x="6" y="9"/>
- <path style="fill:#ffffff" d="M 4 2 L 4 3 L 3.5 3 C 2.669 3 2 3.669 2 4.5 C 2 5.331 2.669 6 3.5 6 L 4 6 L 4 7 L 3.5 7 L 2.0917969 7 C 2.2978026 7.5819226 2.8457598 8 3.5 8 L 4 8 L 4 9 L 5 9 L 5 8 L 5.5 8 C 6.331 8 7 7.331 7 6.5 C 7 5.669 6.331 5 5.5 5 L 5 5 L 5 4 L 5.5 4 L 6.9082031 4 C 6.7021974 3.4180774 6.1542402 3 5.5 3 L 5 3 L 5 2 L 4 2 z M 3.5 4 L 4 4 L 4 5 L 3.5 5 C 3.2057028 5 3 4.7942972 3 4.5 C 3 4.2057028 3.2057028 4 3.5 4 z M 5 6 L 5.5 6 C 5.7942972 6 6 6.2057028 6 6.5 C 6 6.7942972 5.7942972 7 5.5 7 L 5 7 L 5 6 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="16" height="16"
+   sodipodi:docname="com.github.muriloventuroso.easyssh.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="41.637427"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="matrix(0.6,0,0,-0.7,-26.8,25.8)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#4f4f4f;fill-opacity:1" /><g
+     id="g48"
+     transform="matrix(1.1403509,0,0,1.1411716,-4.3976608,-4.3980199)"><path
+       style="opacity:0.2;fill:none;stroke:#000000;stroke-width:3"
+       d="m 37.6,25.899761 7,-4.2 7,4.2"
+       id="path3" /><path
+       style="fill:none;stroke:#ffffff;stroke-width:3"
+       d="m 37.6,24.899761 7,-4.2 7,4.2"
+       id="path4" /><rect
+       style="opacity:0.2"
+       width="12"
+       height="3"
+       x="26"
+       y="36"
+       id="rect4" /><rect
+       style="fill:#ffffff"
+       width="12"
+       height="3"
+       x="26"
+       y="35"
+       id="rect5" /><path
+       style="opacity:0.2"
+       d="m 19,14 v 3 h -1.5 c -2.493,0 -4.5,2.007 -4.5,4.5 0,2.493 2.007,4.5 4.5,4.5 H 19 v 3 h -1.5 -4.224609 c 0.617611,1.746527 2.261346,3 4.224609,3 H 19 v 3 h 3 v -3 h 1.5 C 25.993,32 28,29.993 28,27.5 28,25.007 25.993,23 23.5,23 H 22 v -3 h 1.5 0.5 3.724609 C 27.106998,18.253473 25.463263,17 23.5,17 H 22 v -3 z m -1.5,6 H 19 v 3 H 17.5 C 16.617108,23 16,22.382892 16,21.5 16,20.617108 16.617108,20 17.5,20 Z m 4.5,6 h 1.5 c 0.882892,0 1.5,0.617108 1.5,1.5 0,0.882892 -0.617108,1.5 -1.5,1.5 H 22 Z"
+       id="path5" /><path
+       style="fill:#ffffff"
+       d="m 19,13 v 3 h -1.5 c -2.493,0 -4.5,2.007 -4.5,4.5 0,2.493 2.007,4.5 4.5,4.5 H 19 v 3 h -1.5 -4.224609 c 0.617611,1.746527 2.261346,3 4.224609,3 H 19 v 3 h 3 v -3 h 1.5 C 25.993,31 28,28.993 28,26.5 28,24.007 25.993,22 23.5,22 H 22 v -3 h 1.5 0.5 3.724609 C 27.106998,17.253473 25.463263,16 23.5,16 H 22 v -3 z m -1.5,6 H 19 v 3 H 17.5 C 16.617108,22 16,21.382892 16,20.5 16,19.617108 16.617108,19 17.5,19 Z m 4.5,6 h 1.5 c 0.882892,0 1.5,0.617108 1.5,1.5 0,0.882892 -0.617108,1.5 -1.5,1.5 H 22 Z"
+       id="path6-2" /></g></svg>

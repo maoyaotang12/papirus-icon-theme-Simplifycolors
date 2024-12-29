@@ -1,11 +1,167 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <path style="opacity:0.2" d="M 12.077,22.49995 12.078,22.498 C 17.5815,22.45605 22,18.01395 22,12.5 22,6.96 17.54,2.4999999 12,2.4999999 6.66,2.4999999 2.3245,6.6445 2.0185,11.9055 L 2,11.923 V 20.5 c 0,1.108 0.892,2 2,2 h 8.077 z"/>
- <path style="fill:#3d3b67" d="M 12.077,21.99995 12.078,21.998 C 17.5815,21.95605 22,17.51395 22,12 22,6.46 17.54,1.9999999 12,1.9999999 6.66,1.9999999 2.3245,6.1445 2.0185,11.4055 L 2,11.423 V 20 c 0,1.108 0.892,2 2,2 h 8.077 z"/>
- <path style="opacity:0.2" d="m 6.75,6.25 4,6.5 0.750977,3.75 L 15.5,13.75 15.983399,12.263672 17.5,12.5 16.557617,10.5 H 13.625 L 11.75,7.25 Z m 4,6.5 -1.75,7 2.75,-2 z"/>
- <path style="fill:#ffffff" d="m 13.603,10 h 2.954912 L 15.5,13.25 Z"/>
- <path style="fill:#3a88d6" d="M 16.557912,10 17.5,12 15.955484,11.759 Z"/>
- <path style="fill:#ffffff" d="m 10.75,12.25 4.75,1 -3.999184,2.75 z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 12,2 C 6.66,2 2.3245547,6.1442735 2.0185547,11.405274 L 2,11.422852 v 0.5 l 0.018555,-0.01758 C 2.3245547,6.6442735 6.66,2.5 12,2.5 c 5.456063,0 9.861805,4.3269315 9.99414,9.75 C 21.996173,12.166648 22,12.08386 22,12 22,6.46 17.54,2 12,2 Z"/>
- <path style="fill:#3a88d6" d="m 10.75,12.25 1,5 -2.75,2 z"/>
- <path style="fill:#0365db" d="m 6.75,5.75 5,1 3.75,6.5 -4.75,-1 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="24" height="24"
+   sodipodi:docname="altus.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="34.245614"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="matrix(0.6,0,0,-0.7,-26.8,25.8)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M 47.5,64.1 H 13.8 C 6.2,64.1 0,57.8 0,50.3 V 13.7 C 0,6.2 6.2,0 13.7,0 H 50.3 C 57.8,0 64,6.2 64,13.7 V 50.3 C 64,57.8 57.8,64 50.3,64 h -2.9 0.1 z"
+     id="path6"
+     style="fill:#f9f9f9;fill-opacity:1"
+     sodipodi:nodetypes="cssssssssccc" /><g
+     id="g58"
+     transform="matrix(0.80952381,0,0,0.74392121,7.3116124,6.2670056)"><path
+       style="opacity:0.2"
+       d="m 32.2156,60.99986 0.0028,-0.0054 C 47.6282,60.87694 60,48.43906 60,33 60,17.488 47.512,5 32,5 17.048,5 4.9086,16.6046 4.0518,31.3354 L 4,31.3844 V 55.4 C 4,58.5024 6.4976,61 9.6,61 h 22.6156 z"
+       id="path1" /><path
+       style="fill:#3d3b67"
+       d="m 32.2156,59.99986 0.0028,-0.0054 C 47.6282,59.87694 60,47.43906 60,32 60,16.488 47.512,4 32,4 17.048,4 4.9086,15.6046 4.0518,30.3354 L 4,30.3844 V 54.4 C 4,57.5024 6.4976,60 9.6,60 h 22.6156 z"
+       id="path2-4" /><path
+       style="opacity:0.2"
+       d="M 17.300781,17.101124 28.5,35.300344 23.601562,54.898 l 7.69922,-5.597656 -0.69922,-3.5 11.19922,-7.69922 1.355468,-4.164062 4.242188,0.664062 -2.63672,-5.601562 h -8.210936 l -5.25,-9.101562 z"
+       id="path3-9" /><path
+       style="fill:#ffffff"
+       d="m 36.4884,28 h 8.273754 L 41.8,37.1 Z"
+       id="path4-5" /><path
+       style="fill:#3a88d6"
+       d="M 44.762154,28 47.4,33.6 43.075356,32.9252 Z"
+       id="path5" /><path
+       style="fill:#ffffff"
+       d="m 28.5,34.3 13.3,2.8 -11.197716,7.7 z"
+       id="path6-0" /><path
+       style="fill:#3a88d6"
+       d="m 28.5,34.3 2.8,14 -7.7,5.6 z"
+       id="path7" /><path
+       style="fill:#0365db"
+       d="m 17.3,16.1 14,2.8 10.5,18.2 -13.3,-2.8 z"
+       id="path8" /><path
+       style="opacity:0.1;fill:#ffffff"
+       d="M 32,4 C 17.048,4 4.9075812,15.605138 4.0507812,30.335938 L 4,30.382812 v 1 l 0.050781,-0.04687 C 4.9075812,16.605137 17.048,5 32,5 47.288618,5 59.629866,17.133142 59.982422,32.333984 59.988709,32.222835 60,32.112874 60,32 60,16.488 47.512,4 32,4 Z"
+       id="path9" /></g></svg>

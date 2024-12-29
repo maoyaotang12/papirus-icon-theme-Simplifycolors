@@ -1,12 +1,191 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect fill="#8e8e8e" width="32" height="24" x="-42" y="-36" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#4f4f4f" width="32" height="40" x="-38" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#dc4f47" width="26" height="34" x="-35" y="-41" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
- <path fill="#fff" style="opacity:0.1" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
- <path opacity=".2" d="m12 40v1c0 1.108 0.892 2 2 2h20c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-20c-1.108 0-2-0.892-2-2z"/>
- <path opacity=".2" d="m4 36v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
- <circle style="opacity:0.2" cx="24" cy="23" r="5"/>
- <circle style="fill:#ffffff" cx="24" cy="22" r="5"/>
- <path style="opacity:0.2" d="m 14,13 c -2.216,0 -4,1.784 -4,4 v 1 h 2 v -1 c 0,-1.142594 0.857406,-2 2,-2 h 1 v -2 z m 5,0 v 2 h 3 v -2 z m 7,0 v 2 h 3 v -2 z m 7,0 v 2 h 1 c 1.142594,0 2,0.857406 2,2 v 1 h 2 v -1 c 0,-2.216 -1.784,-4 -4,-4 z m -23,9 v 3 h 2 v -3 z m 26,0 v 3 h 2 v -3 z m -26,7 c 0,2.216 1.784,4 4,4 h 1 v -2 h -1 c -1.142594,0 -2,-0.857406 -2,-2 z m 26,0 c 0,1.142594 -0.857406,2 -2,2 h -1 v 2 h 1 c 2.216,0 4,-1.784 4,-4 z m -17,2 v 2 h 3 v -2 z m 7,0 v 2 h 3 v -2 z"/>
- <path style="fill:#ffffff" d="M 14 12 C 11.784 12 10 13.784 10 16 L 10 17 L 12 17 L 12 16 C 12 14.857406 12.857406 14 14 14 L 15 14 L 15 12 L 14 12 z M 19 12 L 19 14 L 22 14 L 22 12 L 19 12 z M 26 12 L 26 14 L 29 14 L 29 12 L 26 12 z M 33 12 L 33 14 L 34 14 C 35.142594 14 36 14.857406 36 16 L 36 17 L 38 17 L 38 16 C 38 13.784 36.216 12 34 12 L 33 12 z M 10 21 L 10 24 L 12 24 L 12 21 L 10 21 z M 36 21 L 36 24 L 38 24 L 38 21 L 36 21 z M 10 28 C 10 30.216 11.784 32 14 32 L 15 32 L 15 30 L 14 30 C 12.857406 30 12 29.142594 12 28 L 10 28 z M 36 28 C 36 29.142594 35.142594 30 34 30 L 33 30 L 33 32 L 34 32 C 36.216 32 38 30.216 38 28 L 36 28 z M 19 30 L 19 32 L 22 32 L 22 30 L 19 30 z M 26 30 L 26 32 L 29 32 L 29 30 L 26 30 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="48" height="48"
+   sodipodi:docname="com.github.mohelm97.screenrecorder.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="10.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#ffffff;fill-opacity:1" /><g
+     id="g28"
+     transform="translate(0,0.80994152)"><path
+       style="opacity:0.2"
+       d="m 16.000323,51.376036 v 1.999984 c 0,1.453989 1.190591,2.62398 2.66798,2.62398 h 26.663794 c 1.477989,0 2.66798,-1.169991 2.66798,-2.62398 v -1.999984 c 0,1.453988 -1.189991,2.623979 -2.66798,2.623979 H 18.668303 c -1.477389,0 -2.66798,-1.169991 -2.66798,-2.623979 z"
+       id="path1" /><rect
+       style="fill:#8e8e8e"
+       width="42"
+       height="32"
+       x="-55"
+       y="-48"
+       rx="2.6259999"
+       ry="2.6659999"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="rect1" /><path
+       style="opacity:0.2"
+       d="m 6.0004002,45.500081 v 1.999984 c 0,1.38399 1.1611911,2.499981 2.60158,2.499981 H 55.39762 c 1.439989,0 2.60198,-1.115991 2.60198,-2.499981 v -1.999984 c 0,1.383989 -1.161991,2.499981 -2.60198,2.499981 H 8.6019802 c -1.4407889,0 -2.60198,-1.115992 -2.60198,-2.499981 z"
+       id="path2-6" /><rect
+       style="fill:#4f4f4f"
+       width="40"
+       height="52"
+       x="-49"
+       y="-58"
+       rx="2.5"
+       ry="2.5999999"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="rect2" /><rect
+       style="fill:#dc4f47"
+       width="32"
+       height="44"
+       x="-45"
+       y="-54"
+       rx="0"
+       ry="0"
+       transform="matrix(0,-1,-1,0,0,0)"
+       id="rect3" /><path
+       style="opacity:0.1;fill:#ffffff"
+       d="M 8.6015625,9 C 7.1611736,9 6,10.115011 6,11.5 v 1 C 6,11.115011 7.1611736,10 8.6015625,10 H 55.398438 C 56.838426,10 58,11.115011 58,12.5 v -1 C 58,10.115011 56.838426,9 55.398438,9 Z"
+       id="path3-7" /><path
+       style="opacity:0.2"
+       d="m 18,17 c -2.77,0 -5,2.23 -5,5 v 2 h 3 v -2 c 0,-1.159892 0.840108,-2 2,-2 h 2 v -3 z m 7,0 v 3 h 4 v -3 z m 9,0 v 3 h 5 v -3 z m 10,0 v 3 h 2 c 1.159892,0 2,0.840108 2,2 v 2 h 3 v -2 c 0,-2.77 -2.23,-5 -5,-5 z M 13,29 v 3 h 3 v -3 z m 35,0 v 3 h 3 v -3 z m -35,8 v 1 c 0,2.77 2.23,5 5,5 h 2 v -3 h -2 c -1.159892,0 -2,-0.840108 -2,-2 v -1 z m 35,0 v 1 c 0,1.159892 -0.840108,2 -2,2 h -2 v 3 h 2 c 2.77,0 5,-2.23 5,-5 v -1 z m -23,3 v 3 h 4 v -3 z m 9,0 v 3 h 5 v -3 z"
+       id="path4" /><path
+       style="fill:#ffffff"
+       d="m 18,16 c -2.77,0 -5,2.23 -5,5 v 2 h 3 v -2 c 0,-1.159892 0.840108,-2 2,-2 h 2 v -3 z m 7,0 v 3 h 4 v -3 z m 9,0 v 3 h 5 v -3 z m 10,0 v 3 h 2 c 1.159892,0 2,0.840108 2,2 v 2 h 3 v -2 c 0,-2.77 -2.23,-5 -5,-5 z M 13,27 v 4 h 3 v -4 z m 35,0 v 4 h 3 v -4 z m -35,9 v 1 c 0,2.77 2.23,5 5,5 h 2 v -3 h -2 c -1.159892,0 -2,-0.840108 -2,-2 v -1 z m 35,0 v 1 c 0,1.159892 -0.840108,2 -2,2 h -2 v 3 h 2 c 2.77,0 5,-2.23 5,-5 v -1 z m -23,3 v 3 h 4 v -3 z m 9,0 v 3 h 5 v -3 z"
+       id="path5" /><circle
+       style="opacity:0.2"
+       cx="32"
+       cy="30"
+       r="7"
+       id="circle5" /><circle
+       style="fill:#ffffff"
+       cx="32"
+       cy="29"
+       r="7"
+       id="circle6" /></g></svg>

@@ -1,13 +1,187 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <circle style="opacity:0.2" cx="24" cy="25" r="20"/>
- <circle style="fill:#4c3aa7" cx="24" cy="24" r="20"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 4.0215,24.582 20,20 0 0 1 24,5 20,20 0 0 1 43.979,24.418 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z"/>
- <ellipse style="opacity:0.2" cx="11.5" cy="29" rx="6.5" ry="8"/>
- <ellipse style="fill:#dfdfdf" cx="11.5" cy="28" rx="6.5" ry="8"/>
- <ellipse style="fill:#5ca32e" cx="14" cy="27.5" rx="3" ry="3.5"/>
- <ellipse style="opacity:0.2" cx="24" cy="28" rx="8" ry="9"/>
- <ellipse style="fill:#dfdfdf" cx="24" cy="27" rx="8" ry="9"/>
- <ellipse style="fill:#5ca32e" cx="26.5" cy="26" rx="3.5" ry="4"/>
- <ellipse style="fill:#3f3f3f" cx="26.5" cy="26" rx="1.5" ry="2"/>
- <ellipse style="fill:#3f3f3f" cx="14" cy="27.5" rx="1" ry="1.5"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="48" height="48"
+   sodipodi:docname="Dstroy2.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.453125"
+     inkscape:cx="32"
+     inkscape:cy="14.96488"
+     inkscape:window-width="1421"
+     inkscape:window-height="796"
+     inkscape:window-x="751"
+     inkscape:window-y="88"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#4c3aa7;fill-opacity:1" /><g
+     id="g39"
+     transform="matrix(1.1457618,0,0,1.1390537,-4.6052285,-4.3796899)"><ellipse
+       style="opacity:0.2"
+       cx="15"
+       cy="38.5"
+       rx="9"
+       ry="11.5"
+       id="ellipse2" /><ellipse
+       style="fill:#dfdfdf"
+       cx="15"
+       cy="37.5"
+       rx="9"
+       ry="11.5"
+       id="ellipse3" /><ellipse
+       style="fill:#5ca32e"
+       cx="17"
+       cy="37"
+       rx="4"
+       ry="5"
+       id="ellipse4" /><ellipse
+       style="opacity:0.2"
+       cx="31"
+       cy="37"
+       rx="11"
+       ry="13"
+       id="ellipse5" /><ellipse
+       style="fill:#dfdfdf"
+       cx="31"
+       cy="36"
+       rx="11"
+       ry="13"
+       id="ellipse6" /><ellipse
+       style="fill:#5ca32e"
+       cx="34"
+       cy="34.5"
+       rx="5"
+       ry="5.5"
+       id="ellipse7" /><ellipse
+       style="fill:#3f3f3f"
+       cx="34"
+       cy="34.5"
+       rx="2"
+       ry="2.5"
+       id="ellipse8" /><ellipse
+       style="fill:#3f3f3f"
+       cx="17.5"
+       cy="37"
+       rx="1.5"
+       ry="2"
+       id="ellipse9" /></g></svg>

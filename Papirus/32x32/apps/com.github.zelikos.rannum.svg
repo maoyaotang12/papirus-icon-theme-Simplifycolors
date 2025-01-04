@@ -1,10 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
- <path d="M 24 4 A 4 4 0 0 0 20 8 A 4 4 0 0 0 24 12 A 4 4 0 0 0 28 8 A 4 4 0 0 0 24 4 z M 16 12 A 4 4 0 0 0 12 16 A 4 4 0 0 0 16 20 A 4 4 0 0 0 20 16 A 4 4 0 0 0 16 12 z M 8 20 A 4 4 0 0 0 4 24 A 4 4 0 0 0 8 28 A 4 4 0 0 0 12 24 A 4 4 0 0 0 8 20 z"/>
- <path style="opacity:0.2" d="M 6.9,3 H 25.1 C 27.8146,3 30,5.1854 30,7.9 V 26.1 C 30,28.8146 27.8146,31 25.1,31 H 6.9 C 4.1854,31 2,28.8146 2,26.1 V 7.9 C 2,5.1854 4.1854,3 6.9,3 Z"/>
- <path style="fill:#6e37ac" d="M 6.9,2 H 25.1 C 27.8146,2 30,4.1854 30,6.9 V 25.1 C 30,27.8146 27.8146,30 25.1,30 H 6.9 C 4.1854,30 2,27.8146 2,25.1 V 6.9 C 2,4.1854 4.1854,2 6.9,2 Z"/>
- <path style="opacity:0.2" d="m 24,5 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m -8,8 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m -8,8 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z"/>
- <circle style="fill:#ffffff" cx="16" cy="16" r="4"/>
- <circle style="fill:#ffffff" cx="24" cy="8" r="4"/>
- <circle style="fill:#ffffff" cx="8" cy="24" r="4"/>
- <path style="fill:#ffffff;opacity:0.1" d="M 6.9003906 2 C 4.1857906 2 2 4.1857906 2 6.9003906 L 2 7.9003906 C 2 5.1857906 4.1857906 3 6.9003906 3 L 25.099609 3 C 27.814209 3 30 5.1857906 30 7.9003906 L 30 6.9003906 C 30 4.1857906 27.814209 2 25.099609 2 L 6.9003906 2 z"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   version="1.1"
+   viewBox="0 0 64 64" width="32" height="32"
+   sodipodi:docname="com.github.zelikos.rannum.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.453125"
+     inkscape:cx="32"
+     inkscape:cy="33.892791"
+     inkscape:window-width="1421"
+     inkscape:window-height="796"
+     inkscape:window-x="879"
+     inkscape:window-y="87"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="_图层_1" /><!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  --><defs
+     id="defs6"><style
+       id="style1">
+      .st0 {
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: #fff;
+      }
+
+      .st8 {
+        fill: #133c9a;
+      }
+
+      .st2, .st9 {
+        display: none;
+      }
+
+      .st3 {
+        fill-opacity: .2;
+      }
+
+      .st4 {
+        fill-opacity: .9;
+      }
+
+      .st10 {
+        fill: #3370ff;
+      }
+
+      .st11 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st12 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st5 {
+        fill-opacity: .3;
+      }
+
+      .st6 {
+        fill-opacity: 0;
+      }
+
+      .st7 {
+        fill-opacity: .7;
+      }
+
+      .st13 {
+        fill: #00d6b9;
+      }
+
+      .st14 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style><radialGradient
+       id="_未命名的渐变"
+       data-name="未命名的渐变"
+       cx="123.9"
+       cy="-40.2"
+       fx="123.9"
+       fy="-40.2"
+       r="59.4"
+       gradientTransform="translate(-26.8 25.5) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#db202e"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#e01b24"
+         id="stop2" /></radialGradient><radialGradient
+       id="_未命名的渐变_2"
+       data-name="未命名的渐变 2"
+       cx="67.6"
+       cy="26.8"
+       fx="67.6"
+       fy="26.8"
+       r="105.2"
+       gradientTransform="translate(-26.6 25.3) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#ffb648"
+         id="stop3" /><stop
+         offset="1"
+         stop-color="#ff7800"
+         stop-opacity="0"
+         id="stop4" /></radialGradient><radialGradient
+       id="_未命名的渐变_3"
+       data-name="未命名的渐变 3"
+       cx="61.7"
+       cy="18.6"
+       fx="61.7"
+       fy="18.6"
+       r="68"
+       gradientTransform="translate(-26.8 25.8) scale(.6 -.7)"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#c64600"
+         id="stop5" /><stop
+         offset="1"
+         stop-color="#a51d2d"
+         id="stop6" /></radialGradient></defs><path
+     class="st1"
+     d="M47.5,64.1H13.8c-7.6,0-13.8-6.3-13.8-13.8V13.7C0,6.2,6.2,0,13.7,0h36.6c7.5,0,13.7,6.2,13.7,13.7v36.6c0,7.5-6.2,13.7-13.7,13.7h-2.9.1Z"
+     id="path6"
+     style="fill:#6e37ac;fill-opacity:1" /><g
+     id="g41"
+     transform="matrix(1.1394244,0,0,1.1432046,-4.4615791,-4.5774395)"><path
+       style="opacity:0.2"
+       d="m 50,8 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z M 32,26 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z M 14,44 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z"
+       id="path3-1" /><circle
+       style="fill:#ffffff"
+       cx="32"
+       cy="32"
+       r="7"
+       id="circle3" /><circle
+       style="fill:#ffffff"
+       cx="50"
+       cy="14"
+       r="7"
+       id="circle4" /><circle
+       style="fill:#ffffff"
+       cx="14"
+       cy="50"
+       r="7"
+       id="circle5" /></g></svg>
